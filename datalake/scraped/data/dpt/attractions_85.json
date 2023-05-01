@@ -1,0 +1,842 @@
+[
+    {
+        "name": "1. Puy du Fou",
+        "type": "Parcs d'attractions & Parcs à thème\nFermeture temporaire",
+        "votes": "16 373",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096448-d1234321-Reviews-Puy_du_Fou-Les_Epesses_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "2. Le Grand Défi",
+        "type": "Parcs d'attractions & Parcs à thème\nFermeture temporaire",
+        "votes": "1 230",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2715819-d3405941-Reviews-Le_Grand_Defi-Saint_Julien_des_Landes_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "3. Quartier de l'Ile de Penotte",
+        "type": "Quartiers • Monuments & Points d'intérêt",
+        "votes": "1 465",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d8614602-Reviews-Quartier_de_l_Ile_de_Penotte-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "4. Château des Aventuriers",
+        "type": "Parcs d'attractions & Parcs à thème\nFermeture temporaire",
+        "votes": "1 161",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4294008-d1739788-Reviews-Chateau_des_Aventuriers-Avrille_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "5. Le Passage du Gois",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "847",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1493815-d3628023-Reviews-Le_Passage_du_Gois-Barbatre_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "6. Château de Talmont",
+        "type": "Châteaux\nFermeture temporaire",
+        "votes": "815",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d3376793-Reviews-Chateau_de_Talmont-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "7. Embarcadère de l'Abbaye",
+        "type": "Sentiers historiques\nFermeture temporaire",
+        "votes": "512",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1236580-d3378452-Reviews-Embarcadere_de_l_Abbaye-Maillezais_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "8. Labyrinthe En Delire",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "526",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d10154792-Reviews-Labyrinthe_En_Delire-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "9. Explora Parc",
+        "type": "Parcs",
+        "votes": "395",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d3215522-Reviews-Explora_Parc-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "10. Château de Tiffauges",
+        "type": "Châteaux\nFermeture temporaire",
+        "votes": "526",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1439603-d2617746-Reviews-Chateau_de_Tiffauges-Tiffauges_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "11. L'Ile aux Papillons",
+        "type": "Espaces naturels et sauvages",
+        "votes": "630",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1080570-d3356629-Reviews-L_Ile_aux_Papillons-La_Gueriniere_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "12. Aquarium de Vendée",
+        "type": "Espaces naturels et sauvages • Aquariums",
+        "votes": "977",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d1633063-Reviews-Aquarium_de_Vendee-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "13. Le Remblai",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "621",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d10213128-Reviews-Le_Remblai-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "14. O'Gliss Park",
+        "type": "Parcs aquatiques",
+        "votes": "1 166",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12072168-d10593969-Reviews-O_Gliss_Park-Le_Bernard_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "15. Vendée Miniature",
+        "type": "Musées spécialisés\nFermeture temporaire",
+        "votes": "376",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g660468-d3405938-Reviews-Vendee_Miniature-Bretignolles_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "16. La Plage Du Veillon",
+        "type": "Plages",
+        "votes": "452",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d10066974-Reviews-La_Plage_Du_Veillon-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "17. Natur'zoo de Mervent",
+        "type": "Zoos",
+        "votes": "343",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275814-d3983683-Reviews-Natur_zoo_de_Mervent-Mervent_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "18. La Plage de Saint-Jean-de-Monts",
+        "type": "Plages",
+        "votes": "339",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d12726596-Reviews-La_Plage_de_Saint_Jean_de_Monts-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "19. Le Moulin de Rairé",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "286",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2312156-d4749933-Reviews-Le_Moulin_de_Raire-Sallertaine_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "20. Abbaye de Maillezais",
+        "type": "Sites historiques",
+        "votes": "409",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1236580-d2617813-Reviews-Abbaye_de_Maillezais-Maillezais_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "21. Atlantic Toboggan",
+        "type": "Parcs aquatiques",
+        "votes": "436",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d3428603-Reviews-Atlantic_Toboggan-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "22. La Corniche vendeenne",
+        "type": "Jetées & Promenades • Points de vue panoramiques",
+        "votes": "239",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d10256941-Reviews-La_Corniche_vendeenne-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "23. Préhisto'site du CAIRN",
+        "type": "Musées d'histoire",
+        "votes": "232",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7116664-d3454133-Reviews-Prehisto_site_du_CAIRN-Saint_Hilaire_la_Foret_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "24. Navette Maritime - Passeur A",
+        "type": "Ferries",
+        "votes": "275",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d8504399-Reviews-Navette_Maritime_Passeur_A-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "25. Casino JOA des Sables d'Olonne - Les Pins",
+        "type": "Casinos",
+        "votes": "375",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d3474716-Reviews-Casino_JOA_des_Sables_d_Olonne_Les_Pins-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loi.html#REVIEWS"
+    },
+    {
+        "name": "26. Les Animaux de la Place",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "352",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196652-d6556126-Reviews-Les_Animaux_de_la_Place-La_Roche_sur_Yon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "27. Nelly's Ranch",
+        "type": "Sentiers équestres",
+        "votes": "182",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d4816094-Reviews-Nelly_s_Ranch-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "28. Dino's Park",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "417",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d8442149-Reviews-Dino_s_Park-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "29. Museum du Coquillage",
+        "type": "Musées spécialisés",
+        "votes": "278",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d4787321-Reviews-Museum_du_Coquillage-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "30. O'Fun Park",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "680",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12072168-d3428434-Reviews-O_Fun_Park-Le_Bernard_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "31. Le Musée du Blockhaus Hôpital",
+        "type": "Musées militaires • Musées d'histoire",
+        "votes": "192",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d12643920-Reviews-Le_Musee_du_Blockhaus_Hopital-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "32. Port de la Meule",
+        "type": "Marinas",
+        "votes": "265",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d7217595-Reviews-Port_de_la_Meule-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "33. Le sentier de la Pointe du Payré",
+        "type": "Chemins de randonnées",
+        "votes": "148",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1236667-d10691571-Reviews-Le_sentier_de_la_Pointe_du_Payre-Jard_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "34. Historial de la Vendée",
+        "type": "Musées d'histoire",
+        "votes": "247",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1450315-d2349018-Reviews-Historial_of_Vendee-Les_Lucs_sur_Boulogne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "35. Le Daviaud",
+        "type": "Musées spécialisés",
+        "votes": "150",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1916593-d3966235-Reviews-Le_Daviaud-Fromentine_La_Barre_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "36. Blockhaus R627",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "79",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080570-d11657392-Reviews-Blockhaus_R627-La_Gueriniere_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "37. Plage de Sauveterre",
+        "type": "Plages",
+        "votes": "156",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080869-d12326282-Reviews-Plage_de_Sauveterre-Olonne_sur_Mer_Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "38. Marais du Mullembourg",
+        "type": "Espaces naturels et sauvages",
+        "votes": "183",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d8344009-Reviews-Marais_du_Mullembourg-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Vendee_Pays_de_la_L.html#REVIEWS"
+    },
+    {
+        "name": "39. Musée Automobile de Vendée",
+        "type": "Musées spécialisés",
+        "votes": "235",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d2349046-Reviews-Musee_Automobile_de_Vendee-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "40. Château de Terre Neuve",
+        "type": "Sites historiques • Châteaux",
+        "votes": "180",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g666962-d2254177-Reviews-Chateau_de_Terre_Neuve-Fontenay_le_Comte_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "41. Château de Noirmoutier-en-l'Ile",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "495",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d5494764-Reviews-Castle_Museum_of_Noirmoutier_en_L_isle-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Ve.html#REVIEWS"
+    },
+    {
+        "name": "42. Abbaye de Nieul-sur-l'Autise",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "260",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2094784-d2617922-Reviews-Abbaye_de_Nieul_sur_l_Autise-Nieul_sur_l_Autise_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "43. Parc des Dunes",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "233",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194539-d4548212-Reviews-Parc_des_Dunes-Brem_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "44. Plage de la Terrière",
+        "type": "Plages",
+        "votes": "92",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g580152-d12847973-Reviews-Plage_de_la_Terriere-La_Tranche_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "45. Plage des Dames",
+        "type": "Plages",
+        "votes": "128",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3877155-d7074508-Reviews-Plage_des_Dames-Ile_de_Noirmoutier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "46. Vieux-château de Île d'Yeu",
+        "type": "Sites historiques",
+        "votes": "209",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d3183032-Reviews-Vieux_Chateau_de_Isle_d_Yeu-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "47. Parc de Pierre Brune",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "203",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275814-d3406292-Reviews-Parc_de_Pierre_Brune-Mervent_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "48. Musée du Chocolat",
+        "type": "Musées spécialisés",
+        "votes": "250",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196652-d7033158-Reviews-Musee_du_Chocolat-La_Roche_sur_Yon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "49. Kulmino",
+        "type": "Points de vue panoramiques",
+        "votes": "155",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194660-d3472771-Reviews-Kulmino-Notre_Dame_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "50. Plage des Sableaux",
+        "type": "Plages",
+        "votes": "239",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d7974202-Reviews-Plage_des_Sableaux-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loir.html#REVIEWS"
+    },
+    {
+        "name": "51. La Cave des Vignerons",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "72",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194539-d11803006-Reviews-La_Cave_des_Vignerons-Brem_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "52. Logis de la Chabotterie",
+        "type": "Sites historiques • Jardins",
+        "votes": "242",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1944298-d2617928-Reviews-Logis_de_la_Chabotterie-Saint_Sulpice_le_Verdon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "53. La Grande Plage",
+        "type": "Plages",
+        "votes": "195",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1056015-d10766154-Reviews-La_Grande_Plage-Saint_Gilles_Croix_de_Vie_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "54. La Cinéscénie",
+        "type": "Feux d'artifice saisonniers",
+        "votes": "71",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096448-d18977209-Reviews-La_Cinescenie-Les_Epesses_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "55. Le Trou du Diable",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "199",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d10354179-Reviews-Le_Trou_du_Diable-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "56. Plage des Conches",
+        "type": "Plages",
+        "votes": "116",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g951337-d10686126-Reviews-Plage_des_Conches-Longeville_sur_mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "57. La Maison de l'Âne",
+        "type": "Fermes",
+        "votes": "89",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1887513-d4749787-Reviews-La_Maison_de_l_Ane-Beauvoir_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "58. Bourrine du bois Juquaud",
+        "type": "Musées spécialisés",
+        "votes": "123",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d6991747-Reviews-Bourrine_du_Bois_Juquaud-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "59. Prieuré Saint Nicolas",
+        "type": "Sites historiques • Tours et plateformes d'observation",
+        "votes": "128",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d8614606-Reviews-Prieure_Saint_Nicolas-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "60. Plage du Rocher",
+        "type": "Plages",
+        "votes": "125",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g951337-d6999548-Reviews-Plage_du_Rocher-Longeville_sur_mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "61. La Plage du Paracou",
+        "type": "Plages",
+        "votes": "132",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d8762105-Reviews-La_Plage_du_Paracou-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "62. Le Puits d'Enfer",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "90",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d14154536-Reviews-Le_Puits_d_Enfer-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "63. Moulin des Gourmands",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "173",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4580707-d3472758-Reviews-Moulin_des_Gourmands-Saint_Reverend_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "64. Centre Minier de Faymoreau",
+        "type": "Mines",
+        "votes": "74",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7317822-d2349049-Reviews-Centre_Minier_de_Faymoreau-Faymoreau_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "65. Maison et Jardins de Georges Clemenceau",
+        "type": "Sites historiques • Jardins",
+        "votes": "174",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194748-d2397961-Reviews-Maison_et_Jardins_de_Georges_Clemenceau-Saint_Vincent_sur_Jard_Vendee_Pays_de_la.html#REVIEWS"
+    },
+    {
+        "name": "66. Marais Salants",
+        "type": "Plans d'eau",
+        "votes": "79",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562731-d3356626-Reviews-Marais_Salants-Talmont_Saint_Hilaire_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "67. Nieul-sur-l'Autise",
+        "type": "Sites historiques",
+        "votes": "66",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g666962-d1800843-Reviews-Nieul_sur_l_Autise-Fontenay_le_Comte_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "68. Parc Floral et Tropical de la Court d'Aron",
+        "type": "Parcs",
+        "votes": "277",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1941542-d2349054-Reviews-Parc_Floral_et_Tropical_de_la_Court_d_Aron-Saint_Cyr_en_Talmondais_Vendee_Pays_d.html#REVIEWS"
+    },
+    {
+        "name": "69. Office de Tourisme Saint-Jean-de-Monts",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "162",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d8862923-Reviews-Office_de_Tourisme_Saint_Jean_de_Monts-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loir.html#REVIEWS"
+    },
+    {
+        "name": "70. Marche",
+        "type": "Marchés aux puces & Marchés de rue",
+        "votes": "78",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1236667-d4002288-Reviews-Marche-Jard_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "71. Eglise Saint-Philbert",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "159",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d8685958-Reviews-Eglise_Saint_Philbert-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Vendee_Pays_de_la_L.html#REVIEWS"
+    },
+    {
+        "name": "72. Château d'Apremont",
+        "type": "Châteaux",
+        "votes": "152",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1582786-d7089177-Reviews-Chateau_D_Apremont-Apremont_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "73. Le Mont Des Alouettes",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "166",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1056016-d5462083-Reviews-Le_Mont_Des_Alouettes-Les_Herbiers_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "74. Casino JOA de St-Jean-de-Monts",
+        "type": "Casinos",
+        "votes": "141",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d8587584-Reviews-Casino_JOA_de_St_Jean_de_Monts-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "75. Les Cinq Pineaux",
+        "type": "Formations géologiques",
+        "votes": "57",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080873-d10412596-Reviews-Les_Cinq_Pineaux-Saint_Hilaire_de_Riez_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "76. La Perle des Dieux",
+        "type": "Galeries d'art • Musées spécialisés",
+        "votes": "93",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1056015-d14803343-Reviews-La_Perle_des_Dieux-Saint_Gilles_Croix_de_Vie_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "77. Le Potager Extraordinaire",
+        "type": "Jardins\nFermeture temporaire",
+        "votes": "157",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196652-d3453770-Reviews-Le_Potager_Extraordinaire-La_Roche_sur_Yon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "78. Biotopia",
+        "type": "Espaces naturels et sauvages",
+        "votes": "111",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194660-d4567151-Reviews-Biotopia-Notre_Dame_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "79. Château des Essarts",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "41",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2204492-d4754259-Reviews-Chateau_des_Essarts-Les_Essarts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "80. Martini Racing Kart",
+        "type": "Circuits de courses automobiles",
+        "votes": "63",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080830-d6631841-Reviews-Martini_Racing_Kart-Challans_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "81. La Grande Roue",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "56",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d15014072-Reviews-La_Grande_Roue-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "82. Piscine du Remblai",
+        "type": "Parcs aquatiques",
+        "votes": "214",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d2153999-Reviews-Piscine_du_Remblai-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "83. Centre Equestre de Sauveterre",
+        "type": "Sentiers équestres",
+        "votes": "178",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080869-d3452121-Reviews-Centre_Equestre_de_Sauveterre-Olonne_sur_Mer_Les_Sables_d_Olonne_Vendee_Pays_de_.html#REVIEWS"
+    },
+    {
+        "name": "84. Parc Philippe Perrocheau",
+        "type": "Jardins",
+        "votes": "105",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1535608-d3498026-Reviews-Jardin_des_Olfacties-Coex_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "85. Jardin du Vent",
+        "type": "Jardins",
+        "votes": "99",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1194660-d2715835-Reviews-Jardin_du_Vent-Notre_Dame_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "86. Port Joinville",
+        "type": "Marinas",
+        "votes": "111",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d7217589-Reviews-Port_Joinville-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "87. Église Saint-Louis",
+        "type": "Églises et cathédrales",
+        "votes": "68",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196652-d8376947-Reviews-Eglise_Saint_Louis-La_Roche_sur_Yon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "88. St John De Monts Open Market",
+        "type": "Marchés aux puces & Marchés de rue",
+        "votes": "44",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d3247398-Reviews-St_John_De_Monts_Open_Market-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "89. Château de Commequiers",
+        "type": "Châteaux\nOuvert",
+        "votes": "90",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3626550-d8022738-Reviews-Le_Chateau_de_Commequiers-Commequiers_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "90. Promenade du Remblai",
+        "type": "Jetées & Promenades • Points de vue panoramiques",
+        "votes": "64",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d14126788-Reviews-Promenade_du_Remblai-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "91. Office de Tourisme Notre Dame de Monts",
+        "type": "Offices de tourisme",
+        "votes": "54",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1194660-d3666908-Reviews-Office_de_Tourisme_Notre_Dame_de_Monts-Notre_Dame_de_Monts_Vendee_Pays_de_la_Loi.html#REVIEWS"
+    },
+    {
+        "name": "92. La Maison de la Riviere",
+        "type": "Espaces naturels et sauvages • Chemins de randonnées",
+        "votes": "52",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2300092-d10413370-Reviews-La_Maison_de_la_Riviere-Saint_Georges_de_Montaigu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "93. Donjon de Bazoges en Pareds",
+        "type": "Monuments & Points d'intérêt • Châteaux\nFermeture temporaire",
+        "votes": "62",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1933148-d5111195-Reviews-Donjon_de_Bazoges_en_Pareds-Bazoges_en_Pareds_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "94. Plage de la Paree",
+        "type": "Plages",
+        "votes": "56",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g660468-d10743945-Reviews-Plage_de_la_Paree-Bretignolles_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "95. Plage du Tanchet",
+        "type": "Plages",
+        "votes": "73",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g660469-d6692211-Reviews-Plage_du_Tanchet-Chateau_d_Olonne_Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "96. Casino",
+        "type": "Casinos",
+        "votes": "55",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1056015-d13820829-Reviews-Casino-Saint_Gilles_Croix_de_Vie_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "97. Bois de la Chaise",
+        "type": "Forêts",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d17630196-Reviews-Bois_de_la_Chaise-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loir.html#REVIEWS"
+    },
+    {
+        "name": "98. Casino des Atlantes Les Sables d'Olonne",
+        "type": "Casinos",
+        "votes": "115",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d1767040-Reviews-Casino_des_Atlantes_Les_Sables_d_Olonne-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loi.html#REVIEWS"
+    },
+    {
+        "name": "99. Office de Tourisme la Tranche sur Mer",
+        "type": "Offices de tourisme",
+        "votes": "72",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g580152-d9985230-Reviews-Office_de_Tourisme_la_Tranche_sur_Mer-La_Tranche_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "100. Le Musée des Traditions de l'Ile",
+        "type": "Musées spécialisés",
+        "votes": "38",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1080570-d7077748-Reviews-Le_Musee_des_Traditions_de_l_Ile-La_Gueriniere_Ile_de_Noirmoutier_Vendee_Pays_de.html#REVIEWS"
+    },
+    {
+        "name": "101. Plage de la Normandelière",
+        "type": "Plages",
+        "votes": "76",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g660468-d8555735-Reviews-Normandeliere_Beach-Bretignolles_Sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "102. Office de Tourisme",
+        "type": "Offices de tourisme",
+        "votes": "64",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d11918382-Reviews-Office_de_Tourisme-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "103. Le Sanctuaire de la Salette",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "28",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6495721-d8493271-Reviews-Le_Sanctuaire_de_la_Salette-La_Rabateliere_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "104. La Bourrine à Rosalie",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "38",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2312156-d12847773-Reviews-La_Bourrine_a_Rosalie-Sallertaine_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "105. Tepacap Vendee",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "49",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2221391-d6276163-Reviews-Tepacap_Vendee-Mesnard_la_Barotiere_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "106. Plage",
+        "type": "Plages",
+        "votes": "59",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2053601-d10641076-Reviews-Plage-La_Faute_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "107. Musee Charles Milcendeau",
+        "type": "Musées spécialisés",
+        "votes": "35",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2162902-d4546221-Reviews-Musee_Charles_Milcendeau-Soullans_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "108. La Cathédrale Notre-Dame de l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "65",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1925986-d5207602-Reviews-La_Cathedrale_Notre_Dame_de_l_Assomption-Lucon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "109. La Maison de la Meunerie",
+        "type": "Musées d'histoire",
+        "votes": "35",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2094784-d2349052-Reviews-La_Maison_de_la_Meunerie-Nieul_sur_l_Autise_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "110. Plage des Soux",
+        "type": "Plages",
+        "votes": "14",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d7217219-Reviews-Plage_des_Soux-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "111. Plage de la Madeleine",
+        "type": "Plages",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425088-d10681389-Reviews-Madeleine_Beach-Noirmoutier_en_l_Ile_Ile_de_Noirmoutier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "112. Le Refuge de Grasla",
+        "type": "Musées d'histoire",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2094799-d3452134-Reviews-Le_Refuge_de_Grasla-Les_Brouzils_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "113. Plage des Soixante Bornes",
+        "type": "Plages",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196656-d12695151-Reviews-Plage_des_Soixante_Bornes-Saint_Jean_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "114. Lac du Jaunay",
+        "type": "Plans d'eau",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3915466-d12690578-Reviews-Lac_du_Jaunay-La_Chapelle_Hermier_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "115. Musee de l'Abbaye Sainte-Croix",
+        "type": "Musées spécialisés",
+        "votes": "59",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196666-d5564082-Reviews-Musee_de_l_Abbaye_Sainte_Croix-Les_Sables_d_Olonne_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "116. Espace de Loisirs du Lac de Chassenon",
+        "type": "Parcs aquatiques",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6612166-d6611964-Reviews-Espace_de_Loisirs_du_Lac_de_Chassenon-Xanton_Chassenon_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "117. La Chapelle de la Meule",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "55",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d7217587-Reviews-La_Chapelle_de_la_Meule-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "118. La Pierre Tremblante",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "29",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670900-d7217222-Reviews-La_Pierre_Tremblante-Ile_d_Yeu_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "119. Pont de Noirmoutier",
+        "type": "Monuments & Points d'intérêt • Ponts\nOuvert",
+        "votes": "29",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7813209-d12731008-Reviews-Pont_de_Noirmoutier-La_Barre_de_Monts_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    },
+    {
+        "name": "120. Rade d'Amour",
+        "type": "Parcs régionaux • Espaces naturels et sauvages",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2053601-d9773067-Reviews-Rade_d_Amour-La_Faute_sur_Mer_Vendee_Pays_de_la_Loire.html#REVIEWS"
+    }
+]

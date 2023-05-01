@@ -1,0 +1,422 @@
+[
+    {
+        "name": "1. Les Remparts de Saint-Malo",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "8 043",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d4367552-Reviews-Les_Remparts_de_Saint_Malo-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "2. Parc du Thabor",
+        "type": "Parcs\nOuvert",
+        "votes": "2 561",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d314935-Reviews-Parc_du_Thabor-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "3. La Pointe du Grouin",
+        "type": "Sentiers historiques",
+        "votes": "2 243",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196526-d3454144-Reviews-La_Pointe_du_Grouin-Cancale_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "4. Plage du Sillon",
+        "type": "Plages",
+        "votes": "1 732",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d5558488-Reviews-Plage_du_Sillon-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "5. Château de Fougères",
+        "type": "Châteaux\nOuvert",
+        "votes": "1 184",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196527-d247338-Reviews-Chateau_de_Fougeres-Fougeres_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "6. Grand Aquarium",
+        "type": "Aquariums\nOuvert",
+        "votes": "3 547",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d629257-Reviews-Grand_Aquarium-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "7. Marché aux Huîtres",
+        "type": "Marchés fermiers\nOuvert",
+        "votes": "897",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196526-d6684561-Reviews-Marche_aux_Huitres-Cancale_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "8. Promenade du Clair de Lune",
+        "type": "Sentiers historiques",
+        "votes": "1 021",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d5493585-Reviews-Promenade_du_Clair_de_Lune-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "9. Centre Historique de Rennes",
+        "type": "Monuments & Points d'intérêt\nCathédrale",
+        "votes": "1 354",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d4744042-Reviews-Centre_Historique_de_Rennes-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "10. Demeure de Corsaire",
+        "type": "Sites historiques",
+        "votes": "593",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d1510531-Reviews-Demeure_de_Corsaire-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "11. La Cité d'Aleth",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "600",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d4602562-Reviews-La_Cite_d_Aleth-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "12. Manoir de l'Automobile",
+        "type": "Musées spécialisés",
+        "votes": "502",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4270073-d4267879-Reviews-Manoir_de_l_Automobile-Loheac_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "13. Cathédrale de Saint-Malo",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "674",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d314941-Reviews-Cathedrale_de_Saint_Malo-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "14. Fort National",
+        "type": "Sites historiques • Bases & Installations militaires",
+        "votes": "687",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d629258-Reviews-Fort_National-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "15. Parlement de Bretagne",
+        "type": "Bâtiments architecturaux • Bâtiments gouvernementaux\nParlement",
+        "votes": "658",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d531744-Reviews-Parlement_de_Bretagne-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "16. Domaine de la Bourbansais",
+        "type": "Zoos • Châteaux\nOuvert",
+        "votes": "581",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1547109-d531742-Reviews-Domaine_de_la_Bourbansais-Pleugueneuc_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "17. Marché des Lices",
+        "type": "Marchés fermiers\nCathédrale",
+        "votes": "395",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d7201363-Reviews-Marche_des_Lices-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "18. GR 34",
+        "type": "Chemins de randonnées",
+        "votes": "314",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d2295083-Reviews-GR_34-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "19. Cathédrale Saint-Pierre",
+        "type": "Sites religieux\nCathédrale",
+        "votes": "327",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d314931-Reviews-Cathedrale_Saint_Pierre-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "20. Château de Vitré",
+        "type": "Châteaux • Bases & Installations militaires",
+        "votes": "366",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g660464-d314948-Reviews-Chateau_de_Vitre-Vitre_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "21. Jardins de Brocéliande",
+        "type": "Jardins",
+        "votes": "292",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2006068-d2436312-Reviews-Jardins_de_Broceliande-Breal_sous_Montfort_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "22. Musée des Beaux-Arts de Rennes",
+        "type": "Musées d'art\nParlement",
+        "votes": "278",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d314933-Reviews-Musee_des_Beaux_Arts_Fine_Arts_Museum-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "23. Le Grand Be",
+        "type": "Îles",
+        "votes": "364",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d8639440-Reviews-Le_Grand_Be-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "24. Les Champs Libres",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "347",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d1787747-Reviews-Les_Champs_Libres-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "25. Plage de l'Ecluse",
+        "type": "Plages",
+        "votes": "330",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d8153701-Reviews-Plage_de_l_Ecluse-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "26. Cathédrale Saint-Samson",
+        "type": "Églises et cathédrales",
+        "votes": "335",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g662876-d3428605-Reviews-Cathedrale_Saint_Samson-Dol_de_Bretagne_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "27. Cathédraloscope",
+        "type": "Musées spécialisés",
+        "votes": "220",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g662876-d3404249-Reviews-Cathedraloscope-Dol_de_Bretagne_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "28. Chemin de Ronde",
+        "type": "Sentiers historiques",
+        "votes": "237",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196526-d3454148-Reviews-Chemin_de_Ronde-Cancale_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "29. Pointe du Moulinet",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "192",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d6684588-Reviews-Pointe_du_Moulinet-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "30. Sentier des Douaniers",
+        "type": "Chemins de randonnées",
+        "votes": "157",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196526-d12447148-Reviews-Sentier_des_Douaniers-Cancale_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "31. Château de Combourg",
+        "type": "Sites historiques",
+        "votes": "392",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670683-d314946-Reviews-Chateau_de_Combourg-Combourg_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "32. Enigmaparc",
+        "type": "Parcs d'attractions & Parcs à thème\nOuvert",
+        "votes": "240",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1940567-d6561937-Reviews-Enigmaparc-Janze_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "33. Long cours et Cap Horniers (tour Solidor)",
+        "type": "Sites historiques",
+        "votes": "231",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d2439434-Reviews-Long_cours_et_Cap_Horniers_tour_Solidor-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "34. Musée Jacques Cartier",
+        "type": "Sites historiques",
+        "votes": "171",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d1755253-Reviews-Musee_Jacques_Cartier-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "35. Centre Historique de Vitré",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "352",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g660464-d4736870-Reviews-Centre_Historique_du_Vitre-Vitre_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "36. Parc Botanique de Haute Bretagne",
+        "type": "Jardins",
+        "votes": "192",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g679678-d2326799-Reviews-Parc_Botanique_de_Haute_Bretagne-Le_Chatellier_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "37. Les Rochers Sculptes",
+        "type": "Sites historiques",
+        "votes": "838",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d2357189-Reviews-Les_Rochers_Sculptes-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "38. Barrage de la Rance",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "317",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d3484163-Reviews-Barrage_de_la_Rance-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "39. Pointe du Décolle",
+        "type": "Espaces naturels et sauvages • Formations géologiques",
+        "votes": "135",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1200954-d8818484-Reviews-Pointe_du_Decolle-Saint_Lunaire_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "40. Plage de Bon-Secours",
+        "type": "Plages",
+        "votes": "162",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d8672764-Reviews-Plage_de_Bon_Secours-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "41. Tombeau de Chateaubriand",
+        "type": "Monuments & Points d'intérêt • Monuments et statues\nOuvert",
+        "votes": "262",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d8588772-Reviews-Tombeau_de_Chateaubriand-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "42. Parc des Gayeulles",
+        "type": "Parcs",
+        "votes": "292",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d4500602-Reviews-Parc_des_Gayeulles-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "43. Chateau du Rocher Portail",
+        "type": "Bâtiments architecturaux • Châteaux",
+        "votes": "139",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g679679-d11931582-Reviews-Chateau_le_Rocher_Portail-Saint_Brice_en_Cogles_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "44. Fort du Petit Bé",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "267",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d4084094-Reviews-Fort_du_Petit_Be-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "45. Menhir du Champ Dolent",
+        "type": "Sites historiques",
+        "votes": "280",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g662876-d3428607-Reviews-Menhir_du_Champ_Dolent-Dol_de_Bretagne_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "46. La Roche-aux-Fées",
+        "type": "Monuments & Points d'intérêt • Formations géologiques",
+        "votes": "187",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2006180-d1867840-Reviews-La_Roche_aux_Fees-Esse_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "47. Ecomusée de la Bintinais",
+        "type": "Musées spécialisés",
+        "votes": "113",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d3158874-Reviews-Ecomusee_de_la_Bintinais-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "48. Malouinière de la Ville-Bague",
+        "type": "Sites historiques • Parcs",
+        "votes": "103",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1898962-d4548204-Reviews-Malouiniere_de_la_Ville_Bague-Saint_Coulomb_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "49. Get Out !",
+        "type": "Jeux de logique • Chasses au trésor\nCathédrale\nOuvert",
+        "votes": "1 119",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d12391671-Reviews-Get_Out_Rennes_Escape_Game-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "50. Etoile du Roy",
+        "type": "Musées militaires • Musées pour enfants",
+        "votes": "297",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d8800008-Reviews-Etoile_du_Roy-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "51. Jardin Public",
+        "type": "Jardins",
+        "votes": "366",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196527-d4749929-Reviews-Jardin_Public-Fougeres_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "52. Forêt de Paimpont",
+        "type": "Forêts",
+        "votes": "113",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g790456-d247577-Reviews-Paimpont_Forest-Paimpont_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "53. Micro Zoo",
+        "type": "Zoos\nOuvert",
+        "votes": "68",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187104-d20989822-Reviews-Micro_Zoo-Saint_Malo_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "54. Villa les Roches Brunes",
+        "type": "Sites historiques",
+        "votes": "127",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d3291274-Reviews-Villa_les_Roches_Brunes-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "55. Plage de Longchamp",
+        "type": "Plages",
+        "votes": "116",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1200954-d3472767-Reviews-Longchamps_Beach-Saint_Lunaire_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "56. Musée de Bretagne",
+        "type": "Musées spécialisés",
+        "votes": "104",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187103-d6981733-Reviews-Musee_de_Bretagne-Rennes_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "57. Église Saint-Sulpice de Fougères",
+        "type": "Églises et cathédrales",
+        "votes": "155",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196527-d3247402-Reviews-Eglise_Saint_Sulpice_de_Fougeres-Fougeres_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "58. Plage des Chevrets (Guimorais)",
+        "type": "Plages",
+        "votes": "58",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1898962-d10407402-Reviews-Plage_des_Chevrets_Guimorais-Saint_Coulomb_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    },
+    {
+        "name": "59. Les Jardins de la Ballue",
+        "type": "Jardins\nOuvert",
+        "votes": "117",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g674116-d4096582-Reviews-Les_Jardins_du_Chateau_de_la_de_la_Ballue-Bazouges_La_Perouse_Ille_et_Vilaine_Bri.html#REVIEWS"
+    },
+    {
+        "name": "60. Dinard Street Market",
+        "type": "Marchés aux puces & Marchés de rue\nOuvert",
+        "votes": "63",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187099-d4408471-Reviews-Dinard_Street_Market-Dinard_Ille_et_Vilaine_Brittany.html#REVIEWS"
+    }
+]

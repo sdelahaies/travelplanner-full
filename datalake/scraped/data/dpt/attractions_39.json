@@ -1,0 +1,2942 @@
+[
+    {
+        "name": "1. La Grande Saline - Musée du Sel",
+        "type": "Musées spécialisés • Monuments & Points d'intérêt",
+        "votes": "800",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d3336030-Reviews-La_Grande_Saline-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "2. Les Cascades du Hérisson",
+        "type": "Monuments & Points d'intérêt • Espaces naturels et sauvages\nOuvert",
+        "votes": "1 091",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6932169-d2300171-Reviews-Les_Cascades_du_Herisson-Menetrux_en_Joux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "3. Reculée de Baume les Messieurs",
+        "type": "Sentiers historiques",
+        "votes": "539",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d3227543-Reviews-Reculee_de_Baume_les_Messieurs-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "4. La Cascade des Tufs",
+        "type": "Cascades\nOuvert",
+        "votes": "316",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1940689-d8472015-Reviews-La_Cascade_des_Tufs-Les_Planches_pres_Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "5. Maison de Louis Pasteur",
+        "type": "Sites historiques",
+        "votes": "225",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d292976-Reviews-Maison_de_Louis_Pasteur-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "6. Collégiale Notre-Dame de Dole",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "288",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d4583193-Reviews-Collegiale_Notre_Dame_de_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "7. La Maison du Comté",
+        "type": "Musées spécialisés",
+        "votes": "176",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d4415319-Reviews-La_Maison_du_Comte-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "8. Vieux Dole",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "171",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12088256-Reviews-Vieux_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "9. Pic de l'Aigle",
+        "type": "Montagnes • Points de vue panoramiques",
+        "votes": "212",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1437299-d8064728-Reviews-Pic_de_l_Aigle-La_Chaux_du_Dombief_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "10. Musée du Jouet",
+        "type": "Musées spécialisés",
+        "votes": "287",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1968299-d4340043-Reviews-Musee_du_Jouet-Moirans_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "11. La Maison de La vache qui rit",
+        "type": "Musées spécialisés",
+        "votes": "463",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d5541380-Reviews-La_Maison_de_La_Vache_qui_rit-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "12. Cascade de Tufs",
+        "type": "Cascades",
+        "votes": "326",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d4781860-Reviews-Cascade_de_Tufs-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "13. Lac de Vouglans",
+        "type": "Plans d'eau",
+        "votes": "140",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1819796-d10747873-Reviews-Lac_de_Vouglans-Orgelet_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "14. Villa Palladienne",
+        "type": "Sites historiques",
+        "votes": "124",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8469344-d3405510-Reviews-Villa_Palladienne-Syam_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "15. Hôtel-Dieu de Lons-le-Saunier",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "87",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d8523066-Reviews-Hotel_Dieu_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "16. Lac de Chalain",
+        "type": "Plans d'eau",
+        "votes": "238",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12706510-d10747726-Reviews-Lac_de_Chalain-Fontenu_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "17. Abbaye Impériale de Baume-les-Messieurs",
+        "type": "Musées spécialisés • Monuments & Points d'intérêt\nFermeture temporaire",
+        "votes": "316",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d4884340-Reviews-Abbaye_Imperiale_de_Baume_les_Messieurs-Baume_les_Messieurs_Jura_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "18. Gorges de l'Abime",
+        "type": "Cascades",
+        "votes": "87",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d3458042-Reviews-Gorges_de_l_Abime-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "19. Grottes des Moidons",
+        "type": "Grottes & Cavernes",
+        "votes": "183",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10826176-d3458070-Reviews-Grottes_des_Moidons-Molain_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "20. Musée des Machines à nourrir le monde",
+        "type": "Musées spécialisés",
+        "votes": "101",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d6633381-Reviews-Musee_des_Machines_a_nourrir_le_monde-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "21. Les Gorges de la Langouette",
+        "type": "Formations géologiques",
+        "votes": "126",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6680558-d6680128-Reviews-Les_Gorges_de_la_Langouette-Les_Planches_en_Montagne_Jura_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "22. Grottes de Baume-les-Messieurs",
+        "type": "Grottes & Cavernes\nFermeture temporaire",
+        "votes": "292",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d8549186-Reviews-Grottes_de_Baume_les_Messieurs-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "23. Belvédère des Quatre Lacs",
+        "type": "Plans d'eau • Espaces naturels et sauvages",
+        "votes": "73",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1437299-d12926393-Reviews-Belvedere_des_Quatre_Lacs-La_Chaux_du_Dombief_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "24. La Boite A Montagne",
+        "type": "Canyons",
+        "votes": "71",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d2178755-Reviews-La_Boite_A_Montagne-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "25. Musée de la Boissellerie",
+        "type": "Musées spécialisés\nFermeture temporaire",
+        "votes": "217",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2277929-d7376455-Reviews-Musee_de_la_Boissellerie-Bois_d_Amont_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "26. La Fontaine aux Lépreux",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "149",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d8560153-Reviews-La_Fontaine_aux_Lepreux-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "27. Maison natale de Louis Pasteur",
+        "type": "Musées des sciences",
+        "votes": "138",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d5501771-Reviews-Maison_natale_de_Louis_Pasteur-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "28. La Cascade de la Billaude",
+        "type": "Cascades",
+        "votes": "62",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641856-d6745529-Reviews-La_Cascade_de_la_Billaude-Le_Vaudioux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "29. Sentier Karstique",
+        "type": "Grottes & Cavernes",
+        "votes": "65",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7029102-d8723966-Reviews-Sentier_Karstique-Besain_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "30. La cluse du Flumen et ses cascades",
+        "type": "Cascades",
+        "votes": "47",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d8134911-Reviews-La_cluse_du_Flumen_et_ses_cascades-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "31. Belvédère de Granges-sur-Baume",
+        "type": "Points de vue panoramiques",
+        "votes": "49",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d12680819-Reviews-Belvedere_de_Granges_sur_Baume-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "32. Casino de Salins-les-Bains",
+        "type": "Casinos",
+        "votes": "157",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d2405679-Reviews-Casino_de_Salins_les_Bains-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "33. Eglise Saint-Just d'Arbois",
+        "type": "Églises et cathédrales",
+        "votes": "82",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d4723806-Reviews-Eglise_Saint_Just_d_Arbois-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "34. Château d'Arlay",
+        "type": "Domaines viticoles & Vignobles • Châteaux",
+        "votes": "78",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7655403-d3404246-Reviews-Chateau_d_Arlay-Arlay_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "35. Le Circuit du Chat Perché",
+        "type": "Chemins de randonnées",
+        "votes": "24",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d16874312-Reviews-Le_Circuit_du_Chat_Perche-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "36. L'École d'Autrefois",
+        "type": "Musées spécialisés",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d11045292-Reviews-L_Ecole_d_Autrefois-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "37. Plage du Grand Lac de Clairvaux",
+        "type": "Plans d'eau • Plages",
+        "votes": "113",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d10670793-Reviews-Plage_du_Grand_Lac_de_Clairvaux-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "38. Musée de la Lunette",
+        "type": "Musées spécialisés",
+        "votes": "69",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2052497-d3227606-Reviews-Musee_de_la_lunette-Morez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "39. Musée de l'Abbaye",
+        "type": "Musées spécialisés • Musées d'art",
+        "votes": "57",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d3620378-Reviews-Musee_de_l_Abbaye-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "40. Belvédère des Roches",
+        "type": "Points de vue panoramiques • Sentiers panoramiques",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d12680843-Reviews-Belvedere_des_Roches-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "41. Office de tourisme d'Arbois",
+        "type": "Offices de tourisme",
+        "votes": "97",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d4084031-Reviews-Office_de_tourisme_d_Arbois-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "42. Source de la Saine",
+        "type": "Plans d'eau • Cascades",
+        "votes": "36",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210650-d8059944-Reviews-Source_de_la_Saine-Foncine_le_Haut_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "43. Office de Tourisme De Lons-le-Saunier",
+        "type": "Offices de tourisme",
+        "votes": "21",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d10840665-Reviews-Office_de_Tourisme_De_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "44. Jurafaune",
+        "type": "Zoos",
+        "votes": "37",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1488927-d12820768-Reviews-Jurafaune-Baume_les_Messieurs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "45. Le Louisiane",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "63",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3732285-d6782395-Reviews-Le_Louisiane-La_Tour_du_Meix_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "46. Musée de la Pipe et du Diamant",
+        "type": "Musées spécialisés",
+        "votes": "140",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d4872699-Reviews-Musee_de_la_Pipe_et_du_Diamant-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "47. Reculée des Planches",
+        "type": "Espaces naturels et sauvages • Formations géologiques",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1940689-d10526016-Reviews-Reculee_des_Planches-Les_Planches_pres_Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "48. Cave de la Reine Jeanne",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "22",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d14013211-Reviews-Cave_de_la_Reine_Jeanne-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "49. Mont Poupet",
+        "type": "Montagnes",
+        "votes": "35",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d10769240-Reviews-Mont_Poupet-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "50. Lac de Bonlieu",
+        "type": "Plans d'eau",
+        "votes": "30",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210676-d14983094-Reviews-Lac_de_Bonlieu-Bonlieu_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "51. Source de l'Ain",
+        "type": "Espaces naturels et sauvages",
+        "votes": "25",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g5564414-d10417585-Reviews-Source_de_l_Ain-Nozeroy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "52. Lac de Narlay",
+        "type": "Plans d'eau",
+        "votes": "35",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210658-d8737915-Reviews-Lac_de_Narlay-Le_Frasnois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "53. Office de Tourisme",
+        "type": "Offices de tourisme",
+        "votes": "45",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d10509563-Reviews-Tourist_Office-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "54. Barrage de Vouglans",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "56",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15267187-d6745530-Reviews-Barrage_de_Vouglans-Lect_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "55. Croix du Dan",
+        "type": "Monuments & Points d'intérêt • Points de vue panoramiques",
+        "votes": "24",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d12526644-Reviews-Croix_du_Dan-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "56. Hôtel-Dieu De Dole",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d9869318-Reviews-Hotel_Dieu_De_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "57. Office de Tourisme de Salins-les-Bains",
+        "type": "Offices de tourisme",
+        "votes": "48",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d8522750-Reviews-Office_de_Tourisme_de_Salins_les_Bains-Salins_les_Bains_Jura_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "58. Reculée et Cascade de La Frasnée",
+        "type": "Espaces naturels et sauvages • Cascades",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12815649-d12991916-Reviews-Reculee_et_Cascade_de_La_Frasnee-La_Frasnee_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "59. Musée des Beaux-Arts de Dole",
+        "type": "Musées d'art",
+        "votes": "61",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d4583190-Reviews-Musee_des_Beaux_Arts_de_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "60. Forêt de Chaux",
+        "type": "Forêts",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12159337-Reviews-Foret_de_Chaux-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "61. Cascade de la queue de cheval",
+        "type": "Cascades",
+        "votes": "37",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d9729716-Reviews-Cascade_de_la_queue_de_cheval-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "62. Cascade des Combes",
+        "type": "Cascades",
+        "votes": "25",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d8125239-Reviews-Cascade_des_Combes-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "63. Casino JOA de Lons-le-Saunier",
+        "type": "Casinos",
+        "votes": "47",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12095417-Reviews-Casino_JOA_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "64. Musée des lapidaires",
+        "type": "Musées spécialisés",
+        "votes": "27",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210668-d10593787-Reviews-Musee_des_Lapidaires-Lamoura_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "65. Pont des Capucins",
+        "type": "Ponts",
+        "votes": "31",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628860-Reviews-Pont_des_Capucins-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "66. Fresque Ces femmes et ces hommes qui ont fait l'histoire de Dole",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d15073670-Reviews-Fresque_Ces_femmes_et_ces_hommes_qui_ont_fait_l_histoire_de_Dole-Dole_Jura_Bourg.html#REVIEWS"
+    },
+    {
+        "name": "67. Musée de la Vigne et du Vin",
+        "type": "Musées spécialisés",
+        "votes": "61",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d6982528-Reviews-Musee_de_la_Vigne_et_du_Vin-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "68. Routes des Lacs",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210658-d2398248-Reviews-Routes_des_Lacs-Le_Frasnois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "69. Le Chapeau de Gendarme",
+        "type": "Formations géologiques",
+        "votes": "60",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d8124733-Reviews-Le_Chapeau_de_Gendarme-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "70. Station de Ski des Rousses",
+        "type": "Pistes de ski & snowboard",
+        "votes": "67",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d12059045-Reviews-Station_de_Ski_des_Rousses-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "71. Le Monde des Automates",
+        "type": "Musées pour enfants",
+        "votes": "30",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d12804592-Reviews-Le_Monde_des_Automates-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "72. Cathédrale Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d10506372-Reviews-Cathedrale_Saint_Pierre-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "73. Marche Couvert de Dole",
+        "type": "Marchés fermiers",
+        "votes": "31",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d10588325-Reviews-Marche_Couvert_de_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "74. Parc Animalier du Hérisson",
+        "type": "Espaces naturels et sauvages",
+        "votes": "110",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6932169-d6929832-Reviews-Parc_Animalier_du_Herisson-Menetrux_en_Joux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "75. Randonnée des Quatre Lacs",
+        "type": "Chemins de randonnées",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1437299-d12932629-Reviews-Randonnee_des_Quatre_Lacs-La_Chaux_du_Dombief_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "76. Les Marmites De Pont De Poitte",
+        "type": "Monuments & Points d'intérêt • Formations géologiques",
+        "votes": "24",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7676208-d12873870-Reviews-Les_Marmites-Patornay_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "77. Maison de la Haute Seille",
+        "type": "Musées spécialisés • Musées d'histoire naturelle",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d8693223-Reviews-Maison_de_la_Haute_Seille-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "78. L'Atelier des Savoir-Faire",
+        "type": "Musées spécialisés",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7734424-d7709700-Reviews-L_Atelier_des_Savoir_Faire-Ravilloles_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "79. Acroroche",
+        "type": "Camps sportifs & Cliniques",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d3405838-Reviews-Acroroche-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "80. Lac d'Ilay",
+        "type": "Plans d'eau",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210658-d12206601-Reviews-Lac_d_Ilay-Le_Frasnois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "81. Sentiers de Randonnée de la Station des Rousses",
+        "type": "Chemins de randonnées",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d4373313-Reviews-Sentiers_de_Randonnee_de_la_Station_des_Rousses-Les_Rousses_Jura_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "82. Asinerie de La Charrette Bleue",
+        "type": "Fermes",
+        "votes": "40",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6925265-d6924049-Reviews-Asinerie_de_La_Charrette_Bleue-Le_Deschaux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "83. Sentiers Nordiques",
+        "type": "Espaces naturels et sauvages • Pistes de ski de fond",
+        "votes": "15",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1945951-d12258048-Reviews-Sentiers_Nordiques-Premanon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "84. Place aux Fleurs",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "34",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12277723-Reviews-Place_aux_Fleurs-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "85. La Villa Palladienne - Chateau de Syam",
+        "type": "Musées d'histoire",
+        "votes": "10",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8469344-d21280764-Reviews-La_Villa_Palladienne_Chateau_de_Syam-Syam_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "86. Centre nautique Aqua'rel",
+        "type": "Complexes sportifs",
+        "votes": "36",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d7083502-Reviews-Centre_nautique_Aqua_rel-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "87. La Fraternelle",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "16",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d12076774-Reviews-La_Fraternelle-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "88. Baraques du 14",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12698985-Reviews-Baraques_du_14-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "89. Cascade de Quinquenouille",
+        "type": "Cascades",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15189541-d10717089-Reviews-Cascade_de_Quinquenouille-Valzin_en_Petite_Montagne_Jura_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "90. Fruitière de Pleure",
+        "type": "Fermes",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12607043-d12590337-Reviews-Fruitiere_de_Pleure-Pleure_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "91. Acrobatic Parc Woka Loisirs, Salins-Les-Bains",
+        "type": "Parcs",
+        "votes": "13",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d10003371-Reviews-Acrobatic_Parc_Woka_Loisirs_Salins_Les_Bains-Salins_les_Bains_Jura_Bourgogne_Fra.html#REVIEWS"
+    },
+    {
+        "name": "92. Foxtrott",
+        "type": "Chemins de randonnées • Location de matériel",
+        "votes": "116",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6778463-d15233721-Reviews-Foxtrott-Fay_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "93. Église Sainte-Marie de Saint-Hymetière",
+        "type": "Églises et cathédrales",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g11925497-d10540010-Reviews-Eglise_Sainte_Marie_de_Saint_Hymetiere-Saint_Hymetiere_Jura_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "94. Fruitière de Voiteur",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "25",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5772693-d8389700-Reviews-Fruitiere_de_Voiteur-Voiteur_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "95. Grotte de l'Ermitage",
+        "type": "Grottes & Cavernes",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g5111760-d8152195-Reviews-Grotte_de_l_Ermitage-Moissey_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "96. Collegiale Saint-Hippolyte de Poligny",
+        "type": "Églises et cathédrales",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d11616859-Reviews-Collegiale_Saint_Hippolyte_de_Poligny-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "97. Tour du Lac de l'Abbaye",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1849704-d12910169-Reviews-Tour_du_Lac_de_l_Abbaye-Grande_Riviere_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "98. Domaine Geneletti",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "55",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d6960957-Reviews-Domaine_Geneletti-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "99. Place de la Liberté",
+        "type": "Quartiers • Fontaines",
+        "votes": "26",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628784-Reviews-Place_de_la_Liberte-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "100. La Fruitière",
+        "type": "Musées spécialisés",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2098665-d7060286-Reviews-La_Fruitiere-La_Pesse_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "101. Domaine Berthet-Bondet",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "13",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d12694399-Reviews-Domaine_Berthet_Bondet-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "102. Office de tourisme de la Station des Rousses",
+        "type": "Offices de tourisme",
+        "votes": "34",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d12318183-Reviews-Office_de_tourisme_de_la_Station_des_Rousses-Les_Rousses_Jura_Bourgogne_Franche.html#REVIEWS"
+    },
+    {
+        "name": "103. Port de la Mercantine",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "20",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950598-d8434259-Reviews-Port_de_la_Mercantine-Maisod_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "104. Office de Tourisme de Poligny",
+        "type": "Offices de tourisme",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d11616851-Reviews-Office_de_Tourisme_de_Poligny-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "105. Rue du Commerce",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "16",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d14837950-Reviews-Rue_du_Commerce-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "106. Musée des Beaux-Arts de Lons-le-Saunier",
+        "type": "Musées spécialisés",
+        "votes": "24",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d3689955-Reviews-Musee_des_Beaux_Arts_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "107. Eglise Saint-Pierre de Chateau-Chalon",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "29",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d12296059-Reviews-Eglise_Saint_Pierre_de_Chateau_Chalon-Chateau_Chalon_Jura_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "108. Chapelle Notre-Dame-Libératrice de Salins-les-Bains",
+        "type": "Églises et cathédrales",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d10769214-Reviews-Chapelle_Notre_Dame_Liberatrice_de_Salins_les_Bains-Salins_les_Bains_Jura_Bourgo.html#REVIEWS"
+    },
+    {
+        "name": "109. La tourbiére de Prénovel",
+        "type": "Espaces naturels et sauvages",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3161092-d12964604-Reviews-La_tourbiere_de_Prenovel-Prenovel_Nanchez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "110. Cascade du Saut du Chien",
+        "type": "Cascades",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2508863-d10171780-Reviews-Cascade_du_Saut_du_Chien-Septmoncel_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "111. Tour de la Sergenterie",
+        "type": "Bâtiments architecturaux • Tours et plateformes d'observation",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d11616843-Reviews-Tour_de_la_Sergenterie-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "112. Cours Saint-Mauris",
+        "type": "Parcs • Jardins",
+        "votes": "22",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d10509575-Reviews-Cours_Saint_Mauris-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "113. Office de tourisme Pays Lacs et Petite Montagne",
+        "type": "Offices de tourisme",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d12318149-Reviews-Office_de_tourisme_Pays_Lacs_et_Petite_Montagne-Clairvaux_les_Lacs_Jura_Bourgog.html#REVIEWS"
+    },
+    {
+        "name": "114. Domaine Pecheur Côtes du Jura",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3382212-d4991762-Reviews-Domaine_Pecheur_Cotes_du_Jura-Darbonnay_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "115. Château de Frontenay",
+        "type": "Châteaux",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g17418003-d10824812-Reviews-Chateau_de_Frontenay-Frontenay_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "116. Place de la Liberte",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12096333-Reviews-Place_de_la_Liberte-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "117. Plage De La Mercantine",
+        "type": "Plans d'eau • Montagnes",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950598-d21141630-Reviews-Plage_De_La_Mercantine-Maisod_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "118. Aquaparc Isis",
+        "type": "Parcs aquatiques",
+        "votes": "57",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19282207-d10506467-Reviews-Aquaparc_Isis-Crissey_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "119. Office de tourisme Jura Sud Moirans",
+        "type": "Offices de tourisme",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1968299-d10509432-Reviews-Office_de_tourisme_Jura_Sud_Moirans-Moirans_en_Montagne_Jura_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "120. Cascade de Vulvoz",
+        "type": "Cascades",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10401378-d9794940-Reviews-Cascade_de_Vulvoz-Vulvoz_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "121. Office de Tourisme Jura Monts Rivières",
+        "type": "Offices de tourisme",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d7021822-Reviews-Office_de_Tourisme_Jura_Monts_Rivieres-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "122. Office de Tourisme Haut-Jura Saint-Claude",
+        "type": "Offices de tourisme",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d10509536-Reviews-Office_de_Tourisme_Haut_Jura_Saint_Claude-Saint_Claude_Jura_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "123. Statue de Rouget de Lisle",
+        "type": "Monuments et statues",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12098693-Reviews-Statue_de_Rouget_de_Lisle-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "124. Site à Pistes de Dinosaures",
+        "type": "Ruines anciennes",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19356974-d14167961-Reviews-Site_a_Pistes_de_Dinosaures-Loulle_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "125. Collégiale Saint-Antoine",
+        "type": "Sites religieux",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g5564414-d11978243-Reviews-Collegiale_Saint_Antoine-Nozeroy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "126. Musée de Véhicules anciens",
+        "type": "Musées spécialisés",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4272056-d17836862-Reviews-Musee_de_Vehicules_anciens-Perrigny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "127. Château de Chevreaux",
+        "type": "Châteaux",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g17417949-d12342584-Reviews-Chateau_de_Chevreaux-Chevreaux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "128. La Commanderie",
+        "type": "Théâtres",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12135521-Reviews-La_Commanderie-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "129. Jardin Botanique des Chevannes",
+        "type": "Jardins",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12147195-Reviews-Jardin_Botanique_des_Chevannes-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "130. Abbaye de Grandvaux",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1849704-d12910055-Reviews-Abbaye_de_Grandvaux-Grande_Riviere_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "131. Sanctuaire Notre-Dame de Mont-Roland",
+        "type": "Églises et cathédrales",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12095492-Reviews-Sanctuaire_Notre_Dame_de_Mont_Roland-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "132. Église Saint-Jean-l'Évangéliste",
+        "type": "Églises et cathédrales",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d10506460-Reviews-Eglise_Saint_Jean_l_Evangeliste-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "133. Tour de l'Horloge",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g5564414-d11978244-Reviews-Tour_de_l_Horloge-Nozeroy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "134. Monument à Louis Pasteur",
+        "type": "Monuments et statues",
+        "votes": "20",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628829-Reviews-Monument_a_Louis_Pasteur-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "135. Monastère Sainte-Claire de Poligny",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13130314-Reviews-Monastere_Sainte_Claire_de_Poligny-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "136. La Caborde Aire Viti Culturelle",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6867699-d6865185-Reviews-La_Caborde_Aire_Viti_Culturelle-Orbagna_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "137. Chateau de Persanges",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7212129-d7209372-Reviews-Chateau_de_Persanges-L_Etoile_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "138. Office de Tourisme Haut-Jura Grandvaux",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4972950-d12318185-Reviews-Office_de_Tourisme_Haut_Jura_Grandvaux-Saint_Laurent_en_Grandvaux_Jura_Bourgogn.html#REVIEWS"
+    },
+    {
+        "name": "139. La Ferme des 20 Lacs",
+        "type": "Fermes",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6932169-d12940450-Reviews-La_Ferme_des_20_Lacs-Menetrux_en_Joux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "140. Musée d’Art – Hôtel Sarret de Grozon",
+        "type": "Musées d'art",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10526007-Reviews-Musee_d_Art_Hotel_Sarret_de_Grozon-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "141. Belvédère et chapelle de l'Ermitage",
+        "type": "Points de vue panoramiques • Églises et cathédrales",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628817-Reviews-Belvedere_et_chapelle_de_l_Ermitage-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "142. Le Chemin des Vignes",
+        "type": "Chemins de randonnées",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628827-Reviews-Le_Chemin_des_Vignes-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "143. Église Saint-Désiré de Lons-le-Saunier",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d11616852-Reviews-Eglise_Saint_Desire_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "144. Eglise Saint Nithier",
+        "type": "Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d12926302-Reviews-Eglise_Saint_Nithier-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "145. Théâtre de Lons-le-Saunier",
+        "type": "Théâtres",
+        "votes": "11",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12095505-Reviews-Theatre_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "146. Pertes de l'Ain",
+        "type": "Autres activités de plein air",
+        "votes": "79",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d7054734-Reviews-Pertes_de_l_Ain-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "147. Maison du Peuple",
+        "type": "Sites historiques • Théâtres",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d10743782-Reviews-Maison_du_Peuple-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "148. Église Notre-Dame de l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1819796-d12910009-Reviews-Eglise_Notre_Dame_de_l_Assomption-Orgelet_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "149. Espace Alpin Bellefontaine",
+        "type": "Pistes de ski & snowboard",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12056394-d13423696-Reviews-Espace_Alpin_Bellefontaine-Bellefontaine_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "150. Eglise des Jacobins",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d12910322-Reviews-Eglise_des_Jacobins-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "151. Musée Rouget de Lisle",
+        "type": "Musées d'histoire",
+        "votes": "12",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d8119716-Reviews-Musee_Rouget_de_Lisle-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "152. Pont Roman",
+        "type": "Sentiers historiques • Bâtiments architecturaux",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d23228330-Reviews-Pont_Roman-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "153. Tour Gloriette",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628665-Reviews-Tour_Gloriette-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "154. Château fort Médiéval",
+        "type": "Sites historiques • Ruines anciennes",
+        "votes": "12",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d12910215-Reviews-Chateau_fort_Medieval-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "155. Jardin de Landon",
+        "type": "Jardins",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12103331-Reviews-Jardin_de_Landon-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "156. Jardin Fantastique",
+        "type": "Jardins",
+        "votes": "45",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4079463-d7057898-Reviews-Jardin_Fantastique-Saint_Maur_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "157. La Pierre Qui Encre",
+        "type": "Galeries d'art",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d15053126-Reviews-La_Pierre_Qui_Encre-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "158. Abbaye d'Acey",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8819775-d8818274-Reviews-Abbaye_d_Acey-Vitreux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "159. Ecomusée de Pont des Vents",
+        "type": "Musées spécialisés",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6966121-d12847840-Reviews-Ecomusee_de_Pont_des_Vents-Montfleur_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "160. Espace de Loisirs Bresse Haute Seille",
+        "type": "Parcs aquatiques",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g14995620-d14803159-Reviews-Espace_de_Loisirs_Bresse_Haute_Seille-Desnes_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "161. Boissellerie du Hérisson",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "61",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210658-d12367892-Reviews-Boissellerie_du_Herisson-Le_Frasnois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "162. Kromi Park",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d19572877-Reviews-Kromi_Park-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "163. Collégiale Saint-Anatoile",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d10757068-Reviews-Collegiale_Saint_Anatoile-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "164. Lac de Chalain",
+        "type": "Plages",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12706510-d12703935-Reviews-Lac_de_Chalain-Fontenu_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "165. La Cave Aux Trésors",
+        "type": "Antiquaires",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d12631092-Reviews-La_Cave_Aux_Tresors-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "166. La Cuisance",
+        "type": "Plans d'eau",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1940689-d6755962-Reviews-La_Cuisance-Les_Planches_pres_Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "167. Office de Tourisme Haut Jura Morez",
+        "type": "Offices de tourisme",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2052497-d14203880-Reviews-Office_de_Tourisme_Haut_Jura_Morez-Morez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "168. Château de Présilly",
+        "type": "Ruines anciennes • Monuments & Points d'intérêt\nOuvert",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5003359-d17815269-Reviews-Chateau_de_Presilly-Presilly_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "169. Office de Tourisme Porte du Jura",
+        "type": "Offices de tourisme",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d12318148-Reviews-Office_de_Tourisme_Porte_du_Jura-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "170. Apothicairerie",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d12342183-Reviews-Apothicairerie-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "171. Belvédére du Duchet",
+        "type": "Points de vue panoramiques • Sentiers panoramiques",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3161092-d12909968-Reviews-Belvedere_du_Duchet-Prenovel_Nanchez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "172. Eglise des Cordeliers de Lons-le-Saunier",
+        "type": "Églises et cathédrales",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12098685-Reviews-Eglise_des_Cordeliers_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "173. Le trou bleu",
+        "type": "Espaces naturels et sauvages\nOuvert",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2052497-d21209219-Reviews-Le_trou_bleu-Morez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "174. Musee de Tournerie",
+        "type": "Musées spécialisés",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12942105-d12923693-Reviews-Musee_de_Tournerie-Lavans_les_Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "175. Chapelle Expiatoire des Carmes",
+        "type": "Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d10506389-Reviews-Chapelle_Expiatoire_des_Carmes-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "176. Ancien Couvent des Ursulines",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "8",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d12526636-Reviews-Ancien_Couvent_des_Ursulines-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "177. Office de tourisme de Nozeroy",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5564414-d11978222-Reviews-Office_de_tourisme_de_Nozeroy-Nozeroy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "178. Musée du Ski et de la Tradition Rousselande",
+        "type": "Musées spécialisés • Musées d'histoire",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d11978267-Reviews-Musee_du_Ski_et_de_la_Tradition_Rousselande-Les_Rousses_Jura_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "179. Le Boeuf sur le Toit",
+        "type": "Théâtres",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12098706-Reviews-Le_Boeuf_sur_le_Toit-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "180. Église Saint-Christophe de Chissey-sur-Loue",
+        "type": "Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19346291-d12699139-Reviews-Eglise_Saint_Christophe_de_Chissey_sur_Loue-Chissey_sur_Loue_Jura_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "181. La Forêt de la Joux",
+        "type": "Forêts",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15189606-d12926501-Reviews-La_Foret_de_la_Joux-Supt_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "182. Abbaye Saint-Pierre de Gigny",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g14182401-d14168246-Reviews-Abbaye_Saint_Pierre_de_Gigny-Gigny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "183. Meublerie du Bois de L'ours",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "130",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d6600571-Reviews-Meublerie_du_Bois_de_L_ours-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "184. Anciennes Prisons Royales",
+        "type": "Sites historiques",
+        "votes": "5",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d12342192-Reviews-Anciennes_Prisons_Royales-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "185. Fontaine de la Sirène",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13130319-Reviews-Fontaine_de_la_Sirene-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "186. Maison de la Flore",
+        "type": "Musées spécialisés",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3145661-d20128615-Reviews-Maison_de_la_Flore-Longchaumois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "187. Eglise Saint Viator de Saint-Amour",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d12338530-Reviews-Eglise_Saint_Viator_de_Saint_Amour-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "188. Frederic Lornet",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4761342-d14055513-Reviews-Frederic_Lornet-Montigny_les_Arsures_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "189. Monument au Général Travot",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13140331-Reviews-Monument_au_General_Travot-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "190. Porte d'Arans",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d15081443-Reviews-Porte_d_Arans-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "191. Abbaye Notre Dame de Vaux-sur-Poligny",
+        "type": "Sites religieux",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d9795026-Reviews-Abbaye_Notre_Dame_de_Vaux_sur_Poligny-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "192. Musée d'archéologie de Champagnole",
+        "type": "Musées d'histoire",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d12526677-Reviews-Musee_d_archeologie_de_Champagnole-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "193. Théâtre Municipal de Dole",
+        "type": "Théâtres",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d11949908-Reviews-Theatre_Municipal_de_Dole-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "194. Les 3 Sources",
+        "type": "Spas",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1437299-d10082933-Reviews-Les_3_Sources-La_Chaux_du_Dombief_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "195. Brasserie du Lizon",
+        "type": "Brasseries",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12942105-d15606539-Reviews-Brasserie_du_Lizon-Lavans_les_Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "196. Domaine Désiré Petit",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1756464-d19337438-Reviews-Domaine_Desire_Petit-Pupillin_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "197. Thermes Salins-les-Bains",
+        "type": "Spas",
+        "votes": "243",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d4268429-Reviews-Thermes_Salins_les_Bains-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "198. Hôtel de ville",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d10628820-Reviews-Hotel_de_ville-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "199. Barrage-usine De Saut-mortier",
+        "type": "Barrages",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15267187-d23554282-Reviews-Barrage_usine_De_Saut_mortier-Lect_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "200. Eskaléo",
+        "type": "Descentes en rappel et canyoning • Parcours d'escalade\nOuvert",
+        "votes": "174",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d14056169-Reviews-Eskaleo-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "201. Fruitière de La Baroche",
+        "type": "Marchés fermiers",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19658333-d15033520-Reviews-Fruitiere_de_La_Baroche-Arsure_Arsurette_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "202. Monument au Général Jean-Joseph Gustave Cler",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318166-Reviews-Monument_au_General_Jean_Joseph_Gustave_Cler-Salins_les_Bains_Jura_Bourgogne_Fra.html#REVIEWS"
+    },
+    {
+        "name": "203. Église Notre-Dame de Mouthier-Vieillard",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d12526626-Reviews-Eglise_Notre_Dame_de_Mouthier_Vieillard-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "204. Jura Splash",
+        "type": "Parcs d'attractions & Parcs à thème • Parcs aquatiques",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g14995620-d18186839-Reviews-Jura_Splash-Desnes_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "205. Chocolats Hirsinger",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "74",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d8431743-Reviews-Chocolats_Hirsinger-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "206. Point D'information Tourisme",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1819796-d14924365-Reviews-Point_D_information_Tourisme-Orgelet_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "207. Le Village du Bois",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "64",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d14040118-Reviews-Le_Village_du_Bois-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "208. Stade Nordique Des Tuffes",
+        "type": "Complexes sportifs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1945951-d24866169-Reviews-Stade_Nordique_Des_Tuffes-Premanon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "209. Musée des Sapeurs Pompiers du Jura",
+        "type": "Musées spécialisés",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12063596-d14168242-Reviews-Musee_des_Sapeurs_Pompiers_du_Jura-Saint_Aubin_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "210. Le site de Loulle",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "5",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d17740650-Reviews-Le_site_de_Loulle-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "211. Domaine les Sarmentelles",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21273963-d21249047-Reviews-Domaine_les_Sarmentelles-Aiglepierre_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "212. Valvital - Thermes Lédonia",
+        "type": "Spas",
+        "votes": "75",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d7017499-Reviews-Valvital_Thermes_Ledonia-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "213. Eglise Saint Nicolas",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1968299-d20008840-Reviews-Eglise_Saint_Nicolas-Moirans_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "214. Fromagerie Poulet",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12646380-d12135534-Reviews-Fromagerie_Poulet-Granges_sur_Baume_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "215. Belvédère De La Corbière",
+        "type": "Chemins de randonnées",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3145661-d14946090-Reviews-Belvedere_De_La_Corbiere-Longchaumois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "216. Centre Nautique : Les Tritons",
+        "type": "Complexes sportifs",
+        "votes": "7",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d12864762-Reviews-Centre_Nautique_Les_Tritons-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "217. Église Saint-cyr Et Sainte-julitte",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d21022205-Reviews-Eglise_Saint_cyr_Et_Sainte_julitte-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "218. Maison du Metre",
+        "type": "Musées spécialisés • Arènes & Stades",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3145661-d10847186-Reviews-Maison_du_Metre-Longchaumois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "219. Aquapark clairvaux",
+        "type": "Parcs aquatiques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "220. Eglise Saint Christophe",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3732285-d21169835-Reviews-Eglise_Saint_Christophe-La_Tour_du_Meix_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "221. Labyrinthe Mais",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "24",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2545270-d15017338-Reviews-Labyrinthe_Mais-Foucherans_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "222. Domaine dea la Renardière",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1756464-d12297953-Reviews-Domaine_dea_la_Renardiere-Pupillin_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "223. Fontaine des Morts",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13130333-Reviews-Fontaine_des_Morts-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "224. Chateau d'Oliferne",
+        "type": "Autres activités de plein air",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7193113-d7189423-Reviews-Chateau_d_Oliferne-Vescles_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "225. Fontaine d'Arion",
+        "type": "Monuments & Points d'intérêt • Fontaines\nOuvert",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20346582-Reviews-Fontaine_d_Arion-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "226. Monument à Wladimir Gagneur",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13140346-Reviews-Monument_a_Wladimir_Gagneur-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "227. Epicurea",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d7942406-Reviews-Epicurea-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "228. Pont du Diable",
+        "type": "Ponts",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7208310-d8464922-Reviews-Pont_du_Diable-Bellecombe_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "229. Boisselerie du Hérisson",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "19",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d12926350-Reviews-Boisselerie_du_Herisson-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "230. Tour Guillaume et fortifications",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d12342226-Reviews-Tour_Guillaume_et_fortifications-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "231. Maison du Patrimoine",
+        "type": "Musées spécialisés",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12063596-d11616432-Reviews-Maison_du_Patrimoine_Rural_Jurassien-Saint_Aubin_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "232. Porteur de vendange",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318156-Reviews-Porteur_de_vendange-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "233. Zen Addict",
+        "type": "Spas",
+        "votes": "8",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2545270-d4909608-Reviews-Zen_Addict-Foucherans_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "234. La Ferme du Grand Vallier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "33",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4972950-d7079882-Reviews-La_Ferme_du_Grand_Vallier-Saint_Laurent_en_Grandvaux_Jura_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "235. Fontaine au lion",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318159-Reviews-Fontaine_au_lion-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "236. Musée des Forges de Syam",
+        "type": "Musées spécialisés",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8469344-d12338496-Reviews-Musee_des_Forges_de_Syam-Syam_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "237. Eglise De Syam",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8469344-d21022146-Reviews-Eglise_De_Syam-Syam_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "238. Fruitière à Comté",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "50",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2457362-d6982440-Reviews-Fruitiere_a_comte-Doucier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "239. Fontaine Truchot",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318163-Reviews-Fontaine_Truchot-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "240. Crèmerie Comtoise",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d7060431-Reviews-Cremerie_Comtoise-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "241. Esprit Jura",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "40",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950076-d8556067-Reviews-Esprit_Jura-Clairvaux_les_Lacs_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "242. Rock'n Jump Adventure",
+        "type": "Descentes en rappel et canyoning • Parcours d'escalade\nOuvert",
+        "votes": "154",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202869-d7243903-Reviews-Rock_n_Jump_Adventure-Saint_Claude_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "243. Pont 18é Siècle à Ruffey-sur-Seille",
+        "type": "Monuments & Points d'intérêt • Ponts",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19260533-d20051108-Reviews-Pont_18e_Siecle_a_Ruffey_sur_Seille-Ruffey_sur_Seille_Jura_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "244. Librairie Le Hamac",
+        "type": "Bibliothèques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d24838117-Reviews-Librairie_Le_Hamac-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "245. Fromagerie Pianet Humbey",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Sites historiques",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12103001-Reviews-Fromagerie_Pianet_Humbey-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "246. Monument aux morts",
+        "type": "Monuments et statues",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d16805850-Reviews-Monument_aux_morts-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "247. Maison du Parc naturel régional du Haut-Jura",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Parcs nationaux",
+        "votes": "20",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1916743-d8408054-Reviews-Maison_du_Parc_naturel_regional_du_Haut_Jura-Lajoux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "248. Monument aux morts Salins-les-Bains et Bracon",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318164-Reviews-Monument_aux_morts_Salins_les_Bains_et_Bracon-Salins_les_Bains_Jura_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "249. Thaï Massage Bien-Être",
+        "type": "Spas",
+        "votes": "7",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d15034482-Reviews-Thai_Massage_Bien_Etre-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "250. Fontaine aux cygnes",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318154-Reviews-Fontaine_aux_cygnes-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "251. Eglise de la Nativité de la bien heureuse Vierge Marie",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2277929-d21001764-Reviews-Eglise_de_la_Nativite_de_la_bien_heureuse_Vierge_Marie-Bois_d_Amont_Jura_Bourgo.html#REVIEWS"
+    },
+    {
+        "name": "252. Fresque des visitandines",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d16805837-Reviews-Fresque_des_visitandines-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "253. Eglise Saint Leger",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1210650-d21166575-Reviews-Eglise_Saint_Leger-Foncine_le_Haut_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "254. Château D'eau De Champagnole",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "255. Eglise Saint Aignan de Ruffey sur Seille",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19260533-d20051107-Reviews-Eglise_Saint_Aignan_de_Ruffey_sur_Seille-Ruffey_sur_Seille_Jura_Bourgogne_Fran.html#REVIEWS"
+    },
+    {
+        "name": "256. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1939774-d21186557-Reviews-Eglise_Notre_Dame-Bletterans_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "257. Coopérative Fromagère du Mont-Orgier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1819796-d7007762-Reviews-Cooperative_Fromagere_du_Mont_Orgier-Orgelet_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "258. Fruitiere du Pays Grandvallier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4972950-d12707543-Reviews-Fruitiere_du_Pays_Grandvallier-Saint_Laurent_en_Grandvaux_Jura_Bourgogne_Franch.html#REVIEWS"
+    },
+    {
+        "name": "259. Fontaine de la rue des Bains",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d20318168-Reviews-Fontaine_de_la_rue_des_Bains-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "260. Fontaine Aux Lions",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d24838126-Reviews-Fontaine_Aux_Lions-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "261. Domaine Roux",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "262. Fromagerie Les Rebelles",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210650-d10895181-Reviews-Fromagerie_Les_Rebelles-Foncine_le_Haut_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "263. Magasin des Fromageries Vagne",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "11",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2208191-d12694402-Reviews-Magasin_des_Fromageries_Vagne-Chateau_Chalon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "264. Casino Joa De St-laurent-en-grandvaux",
+        "type": "Casinos",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4972950-d24194065-Reviews-Casino_JOA_de_St_Laurent_en_Grandvaux-Saint_Laurent_en_Grandvaux_Jura_Bourgogne.html#REVIEWS"
+    },
+    {
+        "name": "265. Beffroi Dit Tour de l'Horloge à Lons-le-Saunier",
+        "type": "Tours et plateformes d'observation",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "266. Eglise St Gervais",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g20116850-d23507735-Reviews-Eglise_St_Gervais-Tavaux_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "267. Chapelle des Jouvencelles",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "268. Parc Edouard Guénon - Lons-le-saunier",
+        "type": "Parcs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "269. Glouglou Market",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Bars à vins",
+        "votes": "7",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d21141359-Reviews-Glouglou_Market-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "270. Eglise De Prenovel",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "271. Chapelle Des Rousselets",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "272. Les Fontaines - Ville De Lons-le-saunier",
+        "type": "Fontaines",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "273. PIPES CHACOM - Chapuis-Comoy & Cie SARL",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Magasins d'usines",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g19270641-d10069258-Reviews-PIPES_CHACOM_Chapuis_Comoy_Cie_SARL-Villard_Saint_Sauveur_Jura_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "274. Parc De Loisirs En Lune",
+        "type": "Parcs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "275. Butte du Castel",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "276. Eglise Saint Michel",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "277. Eglise De Saint-laurent-en-grandvaux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "278. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "279. Eglise de Doucier",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "280. Eglise de Denezieres",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "281. Eglise Saint Point",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "282. Eglise Saint-maurice",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "283. Librairie Vents de Terre",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Bibliothèques",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d11926353-Reviews-Librairie_Vents_de_Terre-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "284. Préfecture Du Jura,",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d23752425-Reviews-Prefecture_Du_Jura-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "285. Église de Bréry",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "286. Verger Du Revermont",
+        "type": "Jardins\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "287. Eglise de Brainans",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "288. Eglise D'arlay",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "289. Eglise Sainte Magdeleine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "290. Château de Brans",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "291. Cimetière De Lons-le-saunier",
+        "type": "Cimetières",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "292. Château de Marigna",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "293. Ciao Deco",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "11",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5564414-d17624453-Reviews-Ciao_Deco-Nozeroy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "294. Château d'Ougney",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "295. Église de l'Assomption-de-la-Mère-de-Dieu",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "296. Chapelle Notre-Dame-des-Chênes",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "297. Eglise Saint-cyr Et Sainte-julitte",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "298. Eglise Saint-Cloud",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "299. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "300. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "301. Eglise de la Décollation-de-Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "302. Fromagerie de Grange de Vaivre",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2545236-d7724928-Reviews-Fromagerie_de_Grange_de_Vaivre-Grange_de_Vaivre_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "303. Chapelle D'uxelles",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "304. Cimetière Militaire Allemand",
+        "type": "Cimetières",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "305. Eglise De Villevieux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "306. Eglise Saint Ferréol et Saint Ferjeux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "307. Eglise De Sirod",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "308. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "309. Centre Culturel Communautaire Des Cordeliers",
+        "type": "Bibliothèques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "310. Église Abbatiale Saint-Taurin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "311. Eglise Sainte-marie-madeleine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "312. Chapelle Saint Rémi",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "313. Église Saint-Gervais-Saint-Protais",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "314. Hôtel De Ville -- Lons-le-saunier",
+        "type": "Bâtiments gouvernementaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "315. Fort des Rousses Juraflore",
+        "type": "Visites d'entreprises",
+        "votes": "256",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d8336138-Reviews-Fort_des_Rousses_Juraflore-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "316. Domaine Jacques Tissot",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Domaines viticoles & Vignobles",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d12286787-Reviews-Domaine_Jacques_Tissot-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "317. Eglise Notre Dame de l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "318. Eglise Saint Germain",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "319. Crèmerie Juraflore",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "27",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13109788-Reviews-Cremerie_Juraflore-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "320. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "321. Église Saint-Jean-le-Grand-d'Autun de Colonne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "322. Eglise Saint Christophe",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "323. Église Saint Genest",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "324. Eglise Saint Germain",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "325. Outdooractivities",
+        "type": "Descentes en rappel et canyoning • Parcours d'escalade",
+        "votes": "44",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8422713-d13168107-Reviews-Outdooractivities-Foncine_le_bas_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "326. Église Saint-Renobert",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "327. Eglise Saint-Denis",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "328. Eglise Saint Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "329. Église Saint-Sébastien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "330. Eglise Saint Symphorien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "331. Eglise de Foncine-le-Bas",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "332. Mégarama",
+        "type": "Salles de cinéma",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12098623-Reviews-Megarama-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "333. Monument du Général Lecourbe à Lons-le-Saunier",
+        "type": "Monuments et statues",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "334. Église Saint-Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "335. Croix de cimetière de Courlaoux",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "336. Église Saints-Gervais-et-Protais de Larnaud",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "337. Église Assomption Bienheureuse Vierge Marie",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "338. Eglise De Lac Des Rouges Truites",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "339. Église Saint-eustache",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "340. Sitting Bowl",
+        "type": "Bowlings",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7395145-d4878843-Reviews-Sitting_Bowl-La_Chaumusse_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "341. Église de l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "342. Eglise Saint Leger",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "343. Église De La Trinité",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "344. Église Saint Vincent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "345. Eglise d'Ougney",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "346. Golf du Val d'Amour",
+        "type": "Parcours de golf",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4266491-d12698975-Reviews-Golf_du_Val_d_Amour-Parcey_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "347. Randonnées Autour du Lac de Lamoura",
+        "type": "Visites guidées",
+        "votes": "78",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210668-d4191585-Reviews-Randonnees_Autour_du_Lac_de_Lamoura-Lamoura_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "348. Les Délices du Plateau",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g19282211-d14063000-Reviews-Les_Delices_du_Plateau-Plasne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "349. Eglise Saint Féréol et Saint Ferjeux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "350. Eglise Saint Gengoult",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "351. Église de la Nativité-de-la-Vierge",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "352. Vins et Vinaigre",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d6993930-Reviews-Vins_et_Vinaigre-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "353. Église St Étienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "354. Chapelle Saint Cloud",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "355. Église Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "356. Golf du Rochat",
+        "type": "Parcours de golf",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d11978283-Reviews-Golf_du_Rochat-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "357. 1055",
+        "type": "Bowlings",
+        "votes": "67",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4272056-d11769919-Reviews-1055-Perrigny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "358. Église De Saint-maur",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "359. Location ski Alain Bourgeois",
+        "type": "Location de matériel • Pistes de ski & snowboard",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210650-d12150549-Reviews-Location_ski_Alain_Bourgeois-Foncine_le_Haut_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "360. Autel Lounge",
+        "type": "Bars et clubs",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12103284-Reviews-Autel_Lounge-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "361. Maison de l'Abeille et Écomusée du Carton",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Musées spécialisés",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d12698994-Reviews-Maison_de_l_Abeille_et_Ecomusee_du_Carton-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "362. Juramonts Comté",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "15",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d13109753-Reviews-Juramonts_Comte-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "363. Église Saint Pierre et Saint Paul",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "364. Fromagerie du Haut-Jura",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7613999-d19932656-Reviews-Fromagerie_du_Haut_Jura-Les_Moussieres_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "365. Kid Fun",
+        "type": "Terrains de jeux • Salles de jeux et de divertissement",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d15121571-Reviews-Kid_Fun-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "366. Ruines de l'Eglise de Sézéria",
+        "type": "Ruines anciennes • Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "367. Cinema Les Quinsonnets",
+        "type": "Salles de cinéma",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d7353546-Reviews-Cinema_Les_Quinsonnets-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "368. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "369. NaturOMonde",
+        "type": "Cours et ateliers • Spas",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1210663-d10423673-Reviews-NaturOMonde-Courlans_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "370. Golf du Mont Saint-Jean",
+        "type": "Parcours de golf",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d11978291-Reviews-Golf_du_Mont_Saint_Jean-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "371. Librairie Passerelle",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12730564-Reviews-Librairie_Passerelle-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "372. Espace des Mondes Polaires",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Offices de tourisme",
+        "votes": "82",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1945951-d12193728-Reviews-Espace_des_Mondes_Polaires-Premanon_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "373. Atelier du Cuir",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d11978275-Reviews-Atelier_du_Cuir-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "374. La Sucrerie Arbois",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641855-d21206295-Reviews-La_Sucrerie_Arbois-Arbois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "375. Église Saint-martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "376. Ranch Jack",
+        "type": "Randonnées équestres",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7335467-d8010580-Reviews-Ranch_Jack-Vannoz_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "377. Charliluce",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1968299-d10509522-Reviews-Charliluce-Moirans_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "378. O'Chalet Zen",
+        "type": "Spas",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210668-d23534590-Reviews-O_Chalet_Zen-Lamoura_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "379. Église Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "380. Église Saint-Just",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "381. Église Saint Romain et Saint Barula",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "382. Église de l'Assomption-de-la-Bienheureuse-Vierge-Marie",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "383. Château Médiéval De Chevreaux",
+        "type": "Bâtiments architecturaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "384. Caveau Rouget de Lisle",
+        "type": "Bars à vins",
+        "votes": "13",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12103150-Reviews-Caveau_Rouget_de_Lisle-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "385. City Game : Le Secret de Mr Moyse",
+        "type": "Jeux de logique",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1118348-d23509627-Reviews-City_Game_Le_Secret_de_Mr_Moyse-Saint_Amour_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "386. Poterie Benoit Dangon",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g641857-d12159348-Reviews-Poterie_Benoit_Dangon-Salins_les_Bains_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "387. Gameflix",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d17436461-Reviews-Gameflix-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "388. IIDA-Shoten",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d15351721-Reviews-IIDA_Shoten-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "389. Gaïa Loisirs",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "50",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210668-d12640968-Reviews-GAIA_Loisirs-Lamoura_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "390. Le jardin de Rouxy",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "8",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d4162207-Reviews-Le_jardin_de_Rouxy-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "391. Chocolaterie Pelen",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "22",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12102662-Reviews-Chocolaterie_Pelen-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "392. Couleurs Cailloux",
+        "type": "Descentes en rappel et canyoning",
+        "votes": "26",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12269301-d12226526-Reviews-Couleurs_Cailloux-Vevy_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "393. Parenthèse M",
+        "type": "Spas",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15795314-d15791885-Reviews-Parenthese_M-Vers_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "394. Code39",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d15037824-Reviews-Code39-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "395. Fromagerie de Cernans - Les Monts de Joux",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275817-d12820555-Reviews-Fromagerie_de_Cernans_Les_Monts_de_Joux-Cernans_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "396. Commando Games Au Fort des Rousses",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "43",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d4493306-Reviews-Commando_Games_Au_Fort_des_Rousses-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "397. Visites Guidées de Lons-le-Saunier",
+        "type": "Visites de la ville • Visites guidées",
+        "votes": "32",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d9974859-Reviews-Visites_Guidees_de_Lons_le_Saunier-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "398. Circuit Jura Sud",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1968299-d12667568-Reviews-Circuit_Jura_Sud-Moirans_en_Montagne_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "399. Les Trois Républiques",
+        "type": "Salles de cinéma",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1527980-d12864764-Reviews-Les_Trois_Republiques-Champagnole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "400. Bellagio Club",
+        "type": "Bars et clubs",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d12277458-Reviews-Bellagio_Club-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "401. Base Nautique du Lac des Rousses",
+        "type": "Kayak & Canoë",
+        "votes": "37",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572485-d4191583-Reviews-Base_Nautique_du_Lac_des_Rousses-Les_Rousses_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "402. Gaec Ecuyer",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g20265733-d20265605-Reviews-Gaec_Ecuyer-Digna_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "403. Dolescape",
+        "type": "Jeux de logique",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d19725084-Reviews-Dolescape-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "404. Magasin de la Fruitiere a Comte",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2614898-d8751922-Reviews-Magasin_de_la_Fruitiere_a_Comte-Barretaine_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "405. Café de la Mairie",
+        "type": "Bars et clubs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d12103143-Reviews-Cafe_de_la_Mairie-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "406. Café du Palais",
+        "type": "Bars et clubs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d15832203-Reviews-Cafe_du_Palais-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "407. Les Magiciens d'Eau",
+        "type": "Kayak & Canoë",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6966161-d12698728-Reviews-Les_Magiciens_d_Eau-Mesnois_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "408. Maison de l'Email",
+        "type": "Ateliers de peinture et de poterie",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2052497-d10846138-Reviews-Maison_de_l_Email-Morez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "409. Une Belle Aventure",
+        "type": "Excursions en bateau • Location de matériel",
+        "votes": "19",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d14945631-Reviews-Une_Belle_Aventure-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "410. Paintball Les Tontons Flingueurs",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "411. Arcanes de Lons",
+        "type": "Jeux de logique",
+        "votes": "3",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d15601797-Reviews-Arcanes_de_Lons-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "412. Intrépides",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g16707330-d18717360-Reviews-Intrepides-Etival_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "413. Cinéma Le Studio",
+        "type": "Salles de cinéma",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196553-d10506471-Reviews-Cinema_Le_Studio-Dole_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "414. L'Essence du Toucher",
+        "type": "Spas",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "415. Institut Beauté D'orient",
+        "type": "Hammams et bains turcs • Spas",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g226860-d25305655-Reviews-Institut_beaute_d_orient-Lons_le_Saunier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "416. Doucier Aventure",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2457362-d14961961-Reviews-Doucier_Aventure-Doucier_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "417. Cave de Vouglans",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "418. Terrain d’Airsoft à Clairvaux Les Lacs",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "419. Badoz",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635790-d23681267-Reviews-Badoz-Poligny_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "420. Le Valtof",
+        "type": "Bars à vins\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2052497-d25292080-Reviews-Le_Valtof-Morez_Jura_Bourgogne_Franche_Comte.html#REVIEWS"
+    }
+]

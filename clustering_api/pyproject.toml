@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "Clustering API"
+version = "0.1.0"
+description = ""
+authors = ["adrnbttr <adrnbttr@gmail.com>"]
+maintainers = ["adrnbttr <adrnbttr@gmail.com>"]
+license = ""
+readme = "README.md"
+homepage = ""
+repository = ""
+documentation = ""
+keywords = []
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Flask = "^2.0.1"
+scikit-learn = "^0.24.2"
+k-means-constrained = "^0.7.2"
+python-dotenv = "^0.19.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pyright]
+exclude = [
+    "**/__pycache__",
+]
+typeCheckingMode = "basic"

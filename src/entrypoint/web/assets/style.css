@@ -1,0 +1,31 @@
+.navbar {
+    margin-bottom: 10px;
+    background-color: #555 !important;
+}
+
+.navbar > .container {
+    margin-left: unset;
+}
+
+.navbar > .container > .navbar-collapse > .ms-auto {
+    margin-left: unset !important;
+}
+
+.navbar-nav > .active > a { 
+    background-color: #1a3d64 ; 
+}
+
+.leaflet-control-measure {
+    color: black !important;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    background-color: #78817b; /*#9298e9;*/
+}
+
+.card {
+    background-color: #555;
+    color: white;
+}

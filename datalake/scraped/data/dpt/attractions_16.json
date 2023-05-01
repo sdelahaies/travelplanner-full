@@ -1,0 +1,3768 @@
+[
+    {
+        "name": "1. L’église monolithe Saint Jean",
+        "type": "Grottes & Cavernes • Sites religieux",
+        "votes": "591",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d805423-Reviews-Monolithic_Church_of_Saint_Jean_of_Aubeterre-Aubeterre_sur_Dronne_Charente_Nouvell.html#REVIEWS"
+    },
+    {
+        "name": "2. Château Royal de Cognac",
+        "type": "Châteaux",
+        "votes": "456",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d272749-Reviews-Chateau_Royal_de_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "3. Martell Cognac",
+        "type": "Sites historiques • Monuments & Points d'intérêt\nOuvert",
+        "votes": "308",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d585070-Reviews-Martell_Cognac_s_Visitors_Center-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "4. Château de La Rochefoucauld",
+        "type": "Châteaux",
+        "votes": "344",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d3223661-Reviews-Chateau_de_La_Rochefoucauld-La_Rochefoucauld_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "5. Cognac Meukow",
+        "type": "Distilleries",
+        "votes": "142",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d3483783-Reviews-Cognac_Meukow-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "6. Jardin Public de Cognac",
+        "type": "Jardins",
+        "votes": "220",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d7010302-Reviews-Jardin_Public_de_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "7. Cathédrale Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "229",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d4345347-Reviews-Cathedrale_Saint_Pierre-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "8. Musée d'Angoulême",
+        "type": "Musées spécialisés",
+        "votes": "221",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d4010766-Reviews-Musee_d_Angouleme-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "9. Château de Chalais",
+        "type": "Châteaux",
+        "votes": "67",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1371989-d7070760-Reviews-Chateau_de_Chalais-Chalais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "10. Parc Archéologique Cassinomagus",
+        "type": "Sites historiques\nFermeture temporaire",
+        "votes": "115",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4272040-d4271348-Reviews-Cassinomagus_parc_archeologique-Chassenon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "11. Château de la Mercerie",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "73",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8784567-d4282983-Reviews-Chateau_de_la_Mercerie-Magnac_Lavalette_Villars_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "12. Musée des Savoir-faire du Cognac",
+        "type": "Musées spécialisés • Musées d'histoire",
+        "votes": "151",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d643349-Reviews-Musee_des_Savoir_faire_du_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "13. Cognac Painturaud Freres",
+        "type": "Distilleries",
+        "votes": "31",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d2676744-Reviews-Cognac_Painturaud_Freres-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "14. Mémorial de la Résistance",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "66",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2102262-d4271353-Reviews-Memorial_of_Resistance-Chasseneuil_sur_Bonnieure_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "15. Courvoisier",
+        "type": "Distilleries",
+        "votes": "126",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d2639835-Reviews-Courvoisier-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "16. Le Musée de la Bande Dessinée",
+        "type": "Musées spécialisés",
+        "votes": "318",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d2666040-Reviews-Le_Musee_de_la_Bande_Dessinee-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "17. Office de Tourisme d'Aubeterre-sur-Dronne",
+        "type": "Offices de tourisme",
+        "votes": "66",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d3703541-Reviews-Office_de_Tourisme_d_Aubeterre_sur_Dronne-Aubeterre_sur_Dronne_Charente_Nouvelle_.html#REVIEWS"
+    },
+    {
+        "name": "18. Hine Cognac",
+        "type": "Distilleries",
+        "votes": "64",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d8517159-Reviews-Hine_Cognac-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "19. Moine Freres",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "31",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d3376897-Reviews-Moine_Freres-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "20. ABK6 Cognac Domaines Francis Abecassis",
+        "type": "Distilleries • Domaines viticoles & Vignobles",
+        "votes": "29",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3356005-d3291224-Reviews-ABK6_Cognac_Domaines_Francis_Abecassis-Claix_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "21. Les Grottes du Queroy",
+        "type": "Grottes & Cavernes",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7112995-d7110364-Reviews-Les_Grottes_du_Queroy-Chazelles_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "22. 13 Bees Stages d'apiculture",
+        "type": "Fermes",
+        "votes": "30",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d12013223-Reviews-13_Bees_Beekeeping_Taster_Sessions-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "23. Cognac Raby",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "27",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d6277308-Reviews-Cognac_Raby-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "24. Musée du Papier",
+        "type": "Musées spécialisés",
+        "votes": "113",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d2666061-Reviews-Musee_du_Papier-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "25. Place Trarieux",
+        "type": "Sentiers historiques\nOuvert",
+        "votes": "89",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d3474822-Reviews-Place_Trarieux-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "26. Plan d'Eau de la Grande Prairie",
+        "type": "Plans d'eau",
+        "votes": "59",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g651749-d12788988-Reviews-Plan_d_Eau_de_la_Grande_Prairie-Saint_Yrieix_sur_Charente_Angouleme_Charente_Nou.html#REVIEWS"
+    },
+    {
+        "name": "27. Cognac Guillon-Painturaud",
+        "type": "Distilleries",
+        "votes": "25",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d5043637-Reviews-Cognac_Guillon_Painturaud-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "28. Abbaye de Bassac",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "43",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1205130-d7149644-Reviews-Abbaye_de_Bassac-Bassac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "29. Pineau Cognac Roussille",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "34",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8770368-d8768495-Reviews-Pineau_Cognac_Roussille-Linars_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "30. Eglise Saint-Léger",
+        "type": "Églises et cathédrales",
+        "votes": "55",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d7164411-Reviews-Eglise_Saint_Leger-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "31. Château de Villebois-Lavalette",
+        "type": "Sites historiques • Ruines anciennes",
+        "votes": "71",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2061162-d8309751-Reviews-Chateau_de_Villebois_Lavalette-Villebois_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "32. Les Murs Peints",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "37",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d15147608-Reviews-Les_Murs_Peints-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "33. Braastad Cognac",
+        "type": "Distilleries",
+        "votes": "32",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8721338-d15191149-Reviews-Braastad_Cognac-Mainxe_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "34. Cognac Michel Forgeron",
+        "type": "Distilleries",
+        "votes": "23",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d3387600-Reviews-Cognac_Michel_Forgeron-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "35. Les Jardins De L'Argentor",
+        "type": "Jardins\nOuvert",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d4364768-Reviews-Les_Jardins_De_L_Argentor-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "36. Musée d'Art et d'Histoire",
+        "type": "Musées d'histoire",
+        "votes": "67",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d272769-Reviews-Musee_d_Art_et_d_Histoire-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "37. Le Trésor de la Cathédrale d'Angoulême",
+        "type": "Musées d'art",
+        "votes": "22",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d11959587-Reviews-Le_Tresor_de_la_Cathedrale_d_Angouleme-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "38. Château de Saint Germain de Confolens",
+        "type": "Châteaux",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2038273-d7079888-Reviews-Chateau_de_St_Germain_de_Confolens-Saint_Germain_de_Confolens_Confolens_Charente.html#REVIEWS"
+    },
+    {
+        "name": "39. La Maison de la Lieutenance",
+        "type": "Sites historiques • Monuments & Points d'intérêt\nOuvert",
+        "votes": "27",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d8631269-Reviews-La_Maison_de_la_Lieutenance-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "40. Les Jardins du Coq",
+        "type": "Jardins",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6958978-d6957130-Reviews-Les_Jardins_du_Coq-Montignac_le_Coq_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "41. Office de Tourisme de Cognac",
+        "type": "Offices de tourisme",
+        "votes": "56",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d10781872-Reviews-Office_de_Tourisme_de_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "42. Bourgoin Cognac",
+        "type": "Distilleries",
+        "votes": "17",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15031718-d14944959-Reviews-Bourgoin_Cognac-Saint_Saturnin_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "43. Domaine Maine Giraud / Alfred de Vigny",
+        "type": "Distilleries • Domaines viticoles & Vignobles",
+        "votes": "12",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11925577-d10259203-Reviews-Domaine_Maine_Giraud_Alfred_de_Vigny-Champagne_Vigny_Charente_Nouvelle_Aquitai.html#REVIEWS"
+    },
+    {
+        "name": "44. Eglise Saint-Jacques",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "60",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d8862751-Reviews-Eglise_Saint_Jacques-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "45. Hôtel de Ville d’Angoulême / le Château Comtal",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "25",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13116782-Reviews-Hotel_de_Ville_d_Angouleme_le_Chateau_Comtal-Angouleme_Charente_Nouvelle_Aquitai.html#REVIEWS"
+    },
+    {
+        "name": "46. Safari Parc de Haute-Saintonge",
+        "type": "Zoos",
+        "votes": "8",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21149374-d3749281-Reviews-Safari_Parc_de_Haute_Saintonge-Guizengeard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "47. Parc Francois Ier",
+        "type": "Parcs",
+        "votes": "40",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d7004332-Reviews-Parc_Francois_Ier-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "48. Pont Suspendu Tonnay-Charente",
+        "type": "Ponts",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661769-d10427955-Reviews-Pont_Suspendu_Tonnay_Charente-Tonnay_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "49. Château de Verteuil",
+        "type": "Sites historiques • Châteaux",
+        "votes": "67",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1916937-d8444557-Reviews-Chateau_de_Verteuil-Verteuil_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "50. Espace d'Interprétation du Gallo Romain",
+        "type": "Sites historiques\nOuvert",
+        "votes": "25",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7981998-d7971971-Reviews-Theatre_Gallo_Romain_des_Bouchauds-Saint_Cybardeaux_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "51. Coriobona",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8671727-d12338251-Reviews-Coriobona-Esse_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "52. Les Carrières de Touvérac",
+        "type": "Formations géologiques",
+        "votes": "26",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4272083-d10726129-Reviews-Les_Carrieres_de_Touverac-Touverac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "53. Office de Tourisme du Pays d'Angoulême",
+        "type": "Offices de tourisme",
+        "votes": "52",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d8672802-Reviews-Office_de_Tourisme_du_Pays_d_Angouleme-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "54. Espace Découverte en Pays du Cognac",
+        "type": "Musées spécialisés",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d6930219-Reviews-Espace_Decouverte_en_Pays_du_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "55. Office de Tourisme de Jarnac",
+        "type": "Offices de tourisme",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d12617599-Reviews-Office_de_Tourisme_de_Jarnac-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "56. Abbaye de Saint-Amant-de-Boixe",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8651882-d8647524-Reviews-Abbaye_de_Saint_Amant_de_Boixe-Saint_Amant_de_Boixe_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "57. Maison Natale de Francois Mitterrand",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "40",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d6835554-Reviews-Maison_Natale_de_Francois_Mitterrand-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "58. Centre Nautilis",
+        "type": "Complexes sportifs",
+        "votes": "86",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g651749-d2064081-Reviews-Centre_Nautilis-Saint_Yrieix_sur_Charente_Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "59. Conte & Filles",
+        "type": "Distilleries",
+        "votes": "13",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11960635-d10128346-Reviews-Conte_Filles-Chillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "60. Église Saint-André",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "29",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d8317825-Reviews-Eglise_Saint_Andre-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "61. A. de Fussigny",
+        "type": "Distilleries",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d10381258-Reviews-A_de_Fussigny-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "62. La Ferme des Fillaos",
+        "type": "Fermes",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1903565-d8757779-Reviews-La_Ferme_des_Fillaos-Rouillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "63. Aire de Rejallant",
+        "type": "Parcs",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3772616-d6748193-Reviews-Aire_de_Rejallant-Condac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "64. Le Perroquet Vert",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1371989-d5772322-Reviews-Le_Perroquet_Vert-Chalais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "65. Balade Lac Bleu",
+        "type": "Monuments & Points d'intérêt • Chemins de randonnées",
+        "votes": "20",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21149374-d21124619-Reviews-Balade_Lac_Bleu-Guizengeard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "66. Abbaye Notre Dame de Nanteuil",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d10066844-Reviews-Abbaye_Notre_Dame_de_Nanteuil-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "67. Maison des Gabarriers",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "31",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3870421-d8571471-Reviews-Maison_des_Gabarriers-Saint_Simon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "68. Château de Touffou",
+        "type": "Sites historiques • Châteaux",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2137495-d10176610-Reviews-Chateau_de_Touffou-Bonnes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "69. Halles",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2061162-d15023880-Reviews-Halles-Villebois_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "70. Office de Tourisme de Châteauneuf sur Charente",
+        "type": "Offices de tourisme\nFermeture temporaire",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g736242-d3587357-Reviews-Office_de_Tourisme_de_Chateauneuf_sur_Charente-Chateauneuf_sur_Charente_Charente_.html#REVIEWS"
+    },
+    {
+        "name": "71. Piscine Communautaire de la Tulette",
+        "type": "Musées spécialisés",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d7800315-Reviews-Piscine_Communautaire_de_la_Tulette-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "72. Domaine de Boisbuchet",
+        "type": "Galeries d'art • Musées spécialisés",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1199914-d8017893-Reviews-Domaine_de_Boisbuchet-Lessac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "73. La Débauche",
+        "type": "Brasseries\nOuvert",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d15119294-Reviews-La_Debauche-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "74. Les Jardins du Chaigne",
+        "type": "Jardins",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3863502-d4170112-Reviews-Les_Jardins_du_Chaigne-Touzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "75. CharentAles",
+        "type": "Brasseries",
+        "votes": "7",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12080011-d10682114-Reviews-CharentAles-Paizay_Naudouin_Embourie_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "76. Jardins De Logis De Forge",
+        "type": "Jardins",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4873182-d21230514-Reviews-Jardins_De_Logis_De_Forge-Mouthiers_sur_Boeme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "77. Office de Tourisme Ruffec - Destination Nord Charente",
+        "type": "Offices de tourisme",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d3587355-Reviews-Office_de_Tourisme_Ruffec_Destination_Nord_Charente-Ruffec_Charente_Nouvelle_Aqu.html#REVIEWS"
+    },
+    {
+        "name": "78. Chateau de Triac",
+        "type": "Distilleries",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d7103182-Reviews-Chateau_de_Triac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "79. Combe de Bussac - Serge Marcadier et Alain Barbot",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d2034942-Reviews-Combe_de_Bussac_Serge_Marcadier_et_Alain_Barbot-Segonzac_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "80. V and B Angoulême",
+        "type": "Brasseries",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d12403730-Reviews-V_and_B_Angouleme-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "81. AQUAJUMP 16",
+        "type": "Parcs aquatiques\nOuvert",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g651749-d16897813-Reviews-Aquajump_16-Saint_Yrieix_sur_Charente_Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "82. Monastère Notre Dame de Chersonèse",
+        "type": "Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7808712-d7807573-Reviews-Orthodox_Monastery_of_Our_Lady_of_Korsun-Grassac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "83. Pineau François 1er",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19273958-d7010669-Reviews-Pineau_Francois_1er-Les_Metairies_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "84. Fondation D'Entreprise Martell",
+        "type": "Musées d'art",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d15700453-Reviews-Fondation_D_Entreprise_Martell-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "85. Église Saint-Martial",
+        "type": "Bâtiments architecturaux • Sites religieux",
+        "votes": "29",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d8326971-Reviews-Eglise_Saint_Martial-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "86. Les Jardins Respectueux",
+        "type": "Jardins",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g674097-d14978875-Reviews-Les_Jardins_Respectueux-Chateaubernard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "87. L'Église Saint-Mathias",
+        "type": "Églises et cathédrales",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d10718060-Reviews-L_Eglise_Saint_Mathias-Barbezieux_Saint_Hilaire_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "88. Église Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g20091337-d16742319-Reviews-Saint_Cybard_Church-Plassac_Rouffiac_Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "89. Vignoble Pelletant",
+        "type": "Distilleries\nOuvert",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11946307-d9805538-Reviews-Vignoble_Pelletant-Saint_Amant_de_Nouere_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "90. Office de tourisme Mansle - Destination Nord Charente",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d3587356-Reviews-Office_de_tourisme_Mansle_Destination_Nord_Charente-Mansle_Charente_Nouvelle_Aqu.html#REVIEWS"
+    },
+    {
+        "name": "91. Espace CARAT",
+        "type": "Centres de conventions",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6478892-d12491984-Reviews-Espace_CARAT-L_Isle_d_Espagnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "92. Musée de la Moto et du Cyclo",
+        "type": "Musées spécialisés",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11960866-d12793394-Reviews-Musee_de_la_Moto_et_du_Cyclo-Gensac_la_Pallue_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "93. Église Notre-Dame d'Obézine",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13120531-Reviews-Eglise_Notre_Dame_d_Obezine-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "94. Château de Peyras",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275782-d19742178-Reviews-Chateau_de_Peyras-Roumazieres_Loubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "95. Chapelle des Templiers",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1916960-d9465383-Reviews-Chapelle_des_Templiers-Cressac_Saint_Genis_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "96. Marché couvert",
+        "type": "Marchés fermiers",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d12832291-Reviews-Marche_couvert-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "97. Maison Brillet",
+        "type": "Distilleries",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8658036-d8656641-Reviews-Maison_Brillet-Graves_Saint_Amant_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "98. Eglise Saint Pierre",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d10718094-Reviews-Eglise_Saint_Pierre-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "99. Domaine Pautier",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4973334-d8549898-Reviews-Domaine_Pautier-Bourg_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "100. Château de Bouteville",
+        "type": "Châteaux",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g736242-d8618894-Reviews-Chateau_de_Bouteville-Chateauneuf_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "101. Race Rally 4x4",
+        "type": "Circuits de courses automobiles",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933140-d4990916-Reviews-Race_Rally_4x4-Montboyer_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "102. Kiosque Peynet",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10155854-d11953281-Reviews-Kiosque_Peynet-Valence_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "103. Eglise Saint-Martial",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1371989-d8152933-Reviews-Eglise_Saint_Martial-Chalais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "104. Galleries Lafayette",
+        "type": "Grands magasins",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d23850359-Reviews-Galleries_Lafayette-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "105. X'eau",
+        "type": "Complexes sportifs",
+        "votes": "15",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g674097-d14020227-Reviews-X_eau-Chateaubernard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "106. Festival International De La Bande Dessinée d'Angoulême",
+        "type": "Événements culturels",
+        "votes": "29",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d10020406-Reviews-Festival_International_De_La_Bande_Dessinee_d_Angouleme-Angouleme_Charente_Nouve.html#REVIEWS"
+    },
+    {
+        "name": "107. Musée de la résistance et de la déportation",
+        "type": "Musées d'histoire",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13763186-Reviews-Musee_de_la_resistance_et_de_la_deportation-Angouleme_Charente_Nouvelle_Aquitain.html#REVIEWS"
+    },
+    {
+        "name": "108. Forage France",
+        "type": "Chemins de randonnées",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2137495-d25096322-Reviews-Forage_France-Bonnes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "109. Église Saint-Denis",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12823362-d12726769-Reviews-Eglise_Saint_Denis-Licheres_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "110. Château de Saveilles",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12080011-d13625416-Reviews-Chateau_de_Saveilles-Paizay_Naudouin_Embourie_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "111. Collégiale Notre-Dame-de-l'Assomption-et-Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d15768790-Reviews-Collegiale_Notre_Dame_de_l_Assomption_et_Saint_Cybard-La_Rochefoucauld_Charente.html#REVIEWS"
+    },
+    {
+        "name": "112. Près de Peyras",
+        "type": "Parcs aquatiques",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275782-d12510695-Reviews-Pres_de_Peyras-Roumazieres_Loubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "113. Église Saint-André",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d15130606-Reviews-Eglise_Saint_Andre-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "114. Cognac La Grange du Bois",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4973334-d7007468-Reviews-Cognac_La_Grange_du_Bois-Bourg_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "115. Theatre d' Angouleme-Scene Nationale",
+        "type": "Théâtres",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13814827-Reviews-Theatre_d_Angouleme_Scene_Nationale-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "116. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4163345-d8761841-Reviews-Eglise_Saint_Pierre-Lesterps_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "117. La Maison Maria Casarès",
+        "type": "Centres civiques",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8118178-d12639360-Reviews-La_Maison_Maria_Casares-Alloue_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "118. Rémy Martin",
+        "type": "Domaines viticoles & Vignobles • Oenotourisme",
+        "votes": "581",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d272748-Reviews-Remy_Martin-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "119. Porte Saint-Jacques",
+        "type": "Sites historiques",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d21272049-Reviews-Porte_Saint_Jacques-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "120. Église Saint-Denis",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1932328-d11736938-Reviews-Eglise_Saint_Denis-Montmoreau_Saint_Cybard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "121. Parc Animalier Colline Enchantée",
+        "type": "Espaces naturels et sauvages • Parcs",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12080047-d10754977-Reviews-Parc_Animalier_Colline_Enchantee-Hiesse_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "122. Relais D'Information Touristique - MSAP De Chalais",
+        "type": "Offices de tourisme",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1371989-d3703542-Reviews-Relais_D_Information_Touristique_MSAP_De_Chalais-Chalais_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "123. Réserve Naturelle Régionale de la Vallée de la Renaudie",
+        "type": "Espaces naturels et sauvages",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1379282-d13994290-Reviews-Reserve_Naturelle_Regionale_de_la_Vallee_de_la_Renaudie-Montbron_Charente_Nouve.html#REVIEWS"
+    },
+    {
+        "name": "124. Église Saint-Romain",
+        "type": "Églises et cathédrales",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2061162-d11837678-Reviews-Eglise_Saint_Romain-Villebois_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "125. Escape Yourself",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "76",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13219963-Reviews-Escape_Yourself-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "126. Piscine Communautaire de Chalais",
+        "type": "Complexes sportifs",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1371989-d7800314-Reviews-Piscine_Communautaire_de_Chalais-Chalais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "127. Arboretum du Chêne-Vert",
+        "type": "Espaces naturels et sauvages • Parcs",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910057-d9788306-Reviews-Arboretum_du_Chene_Vert-Chabanais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "128. Lanterne des Morts",
+        "type": "Monuments et statues",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8864117-d8858099-Reviews-Lanterne_des_Morts-Cellefrouin_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "129. Code 60 - Live Escape Game",
+        "type": "Jeux de logique",
+        "votes": "56",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d13153745-Reviews-Code_60_Live_Escape_Game-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "130. Font de Lussac",
+        "type": "Plans d'eau\nOuvert",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g11918176-d15760262-Reviews-Font_de_Lussac-Touvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "131. Lac de Mas-Chaban",
+        "type": "Plans d'eau",
+        "votes": "4",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g562723-d4749817-Reviews-Lac_de_Mas_Chaban-Massignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "132. Château de Lacassagne",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1093773-d12817451-Reviews-Chateau_de_Lacassagne-St_Avit_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "133. Le Baume de Bouteville",
+        "type": "Brasseries",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8524310-d11743923-Reviews-Le_Baume_de_Bouteville-Bouteville_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "134. Villa Gallo romaine de la Coue d'Auzenat",
+        "type": "Ruines anciennes",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1906030-d10720048-Reviews-Villa_Gallo_romaine_de_la_Coue_d_Auzenat-Brossac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "135. L'Église de Saint-Fraigne",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15275466-d18782940-Reviews-L_Eglise_de_Saint_Fraigne-Saint_Fraigne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "136. Cimetière Militaire Allemand de Berneuil",
+        "type": "Cimetières",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2085478-d17394661-Reviews-Cimetiere_Militaire_Allemand_de_Berneuil-Berneuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "137. Eglise Saint-Médard",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1916937-d20906468-Reviews-Eglise_Saint_Medard-Verteuil_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "138. Musée François Mitterrand",
+        "type": "Musées spécialisés",
+        "votes": "17",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d6872849-Reviews-Musee_Francois_Mitterrand-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "139. Frac",
+        "type": "Musées spécialisés",
+        "votes": "6",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d6440790-Reviews-Frac-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "140. Chocolaterie Duceau",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "67",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d7957900-Reviews-Chocolaterie_Duceau-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "141. Office de Tourisme de Segonzac",
+        "type": "Offices de tourisme\nFermeture temporaire",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d12651824-Reviews-Office_de_Tourisme_de_Segonzac-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "142. Église Saint-Maurice",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15059071-d15851148-Reviews-Eglise_Saint_Maurice-Mainzac_Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "143. Église Saint-Barthélemy ou Saint-Arthémy de Blanzac",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7377432-d19092436-Reviews-Eglise_Saint_Arthemy-Blanzac_Porcheresse_Coteaux_du_Blanzacais_Charente_Nouvell.html#REVIEWS"
+    },
+    {
+        "name": "144. Château de Bonnes",
+        "type": "Châteaux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2137495-d12820720-Reviews-Chateau_de_Bonnes-Bonnes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "145. Eglise Saint-Maxime",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d13190725-Reviews-Eglise_Saint_Maxime-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "146. Motte de la Jacquille",
+        "type": "Sites historiques\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g24980254-d24980346-Reviews-Motte_de_la_Jacquille-Fontenille_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "147. Monuments aux Morts Militaires d'Angoulême",
+        "type": "Cimetières • Monuments et statues",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d17397346-Reviews-Monumento_A_Los_Muertos_Caidos_En_Las_Diferentes_Guerras-Angouleme_Charente_Nouv.html#REVIEWS"
+    },
+    {
+        "name": "148. Eglise Saint-Vincent",
+        "type": "Églises et cathédrales",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2283805-d10103915-Reviews-Eglise_Saint_Vincent-Sers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "149. Pisciculture du Moulin",
+        "type": "Fermes",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11960866-d12793377-Reviews-Fish_Farm-Gensac_la_Pallue_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "150. Parc Floral Jean-Pierre Lanson",
+        "type": "Parcs",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d6983396-Reviews-Parc_Floral_Jean_Pierre_Lanson-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "151. Église Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1903565-d16707807-Reviews-Eglise_Saint_Pierre-Rouillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "152. Église Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7107153-d16700057-Reviews-Eglise_Notre_Dame-Courcome_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "153. Eglise Saint-Vivien",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6921907-d16337495-Reviews-Eglise_Saint_Vivien-Charras_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "154. Église Prieurale Notre-Dame De Lanville",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6483345-d16696175-Reviews-Eglise_Prieurale_Notre_Dame_De_Lanville-Marcillac_Lanville_Charente_Nouvelle_Aq.html#REVIEWS"
+    },
+    {
+        "name": "155. Eglise Saint-Claud",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1051483-d15752871-Reviews-Eglise_Saint_Claud-Saint_Claud_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "156. Église Monolithe Saint-georges",
+        "type": "Sites historiques • Monuments & Points d'intérêt\nOuvert",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g16699760-d21348345-Reviews-Eglise_Monolithe_Saint_georges-Gurat_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "157. Eglise Saint-Barthelemy",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d14796064-Reviews-Eglise_Saint_Barthelemy-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "158. Cimetière de Bardines",
+        "type": "Cimetières",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d17396981-Reviews-Cementerio_de_Angulema-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "159. Château d'Aubeterre Sur Dronne",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d21029812-Reviews-Chateau_D_aubeterre_sur_dronne-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "160. Église Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d16879379-Reviews-Eglise_Saint_Cybard-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "161. Église Saint-Cybard",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2290564-d16556259-Reviews-Eglise_Saint_Cybard-Magnac_sur_Touvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "162. Les Jardins Ephemeres",
+        "type": "Jardins",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15275466-d18782437-Reviews-Les_Jardins_Ephemeres-Saint_Fraigne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "163. La Maison Du Patrimoine",
+        "type": "Sites historiques",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g16499211-d21105344-Reviews-La_Maison_Du_Patrimoine-Pranzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "164. Chapelle et Cloitre des Minimes",
+        "type": "Bâtiments architecturaux • Églises et cathédrales",
+        "votes": "7",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d14903353-Reviews-Chapelle_et_Cloitre_des_Minimes-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "165. L'atelier",
+        "type": "Antiquaires",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d17609508-Reviews-L_atelier-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "166. FootSpot",
+        "type": "Complexes sportifs\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d23458793-Reviews-FootSpot-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "167. Eglise Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g16499211-d21319404-Reviews-Eglise_Saint_Cybard-Pranzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "168. Eglise Saint-Martial",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1918503-d15816696-Reviews-Eglise_Saint_Martial-Dirac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "169. Marché",
+        "type": "Marchés fermiers",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d18775653-Reviews-Marche-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "170. Église Saint-Nicolas",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8864117-d15849348-Reviews-Eglise_Saint_Nicolas-Cellefrouin_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "171. Moulin du Grand Fief",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7015103-d17847904-Reviews-Moulin_du_Grand_Fief-Condeon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "172. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1596156-d21401095-Reviews-Eglise_Saint_Pierre-Segonzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "173. Église Saint-Cybard",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g9784147-d15812477-Reviews-Eglise_Saint_Cybard-Dignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "174. Château Chesnel",
+        "type": "Châteaux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1591474-d24991586-Reviews-Chateau_Chesnel-Cherves_Richemont_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "175. Eglise Saint Leger",
+        "type": "Sites historiques • Monuments & Points d'intérêt\nOuvert",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d19799677-Reviews-Eglise_Saint_Leger-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "176. Viaduc De La Vallée De L'anguienne",
+        "type": "Ponts",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3135538-d24052148-Reviews-Viaduc_De_La_Vallee_De_L_anguienne-Soyaux_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "177. Fontaine Et Sculpture De L'Homme De Marillac",
+        "type": "Fontaines\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d23820006-Reviews-Fontaine_Et_Sculpture_De_L_Homme_De_Marillac-La_Rochefoucauld_Charente_Nouvelle.html#REVIEWS"
+    },
+    {
+        "name": "178. Eglise Saint-Paul",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8524310-d8520268-Reviews-Eglise_Saint_Paul-Bouteville_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "179. Les Modillons",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4412227-d4408926-Reviews-Les_Modillons-Vindelle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "180. Eglise Saint-Etienne",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8671727-d18220622-Reviews-Eglise_Saint_Etienne-Esse_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "181. La ferme de la Thibauderie",
+        "type": "Fermes",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7015103-d17669077-Reviews-La_ferme_de_la_Thibauderie-Condeon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "182. Eglise Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8542055-d16209327-Reviews-Eglise_Saint_Pierre-Rougnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "183. Distillerie du Moisans",
+        "type": "Distilleries",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g13917336-d23572204-Reviews-Distillerie_du_Moisans-Sireuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "184. La Galerie - Géant Angoulême",
+        "type": "Centres commerciaux\nOuvert",
+        "votes": "15",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g227891-d12335376-Reviews-La_Galerie_Geant_Angouleme-Champniers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "185. Maison Dudognon",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4926548-d16172911-Reviews-Maison_Dudognon-Lignieres_Sonneville_Lignieres_Ambleville_Charente_Nouvelle_Aqu.html#REVIEWS"
+    },
+    {
+        "name": "186. Eglise Saint-Saturnin",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2102262-d15837681-Reviews-Eglise_Saint_Saturnin-Chasseneuil_sur_Bonnieure_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "187. Église Saint-barthélemy À Raix",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d23966967-Reviews-Eglise_Saint_barthelemy_A_Raix-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "188. Commanderie De Cressac À Cressac-Saint-Genis En Charente",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1916960-d23823655-Reviews-Commanderie_De_Cressac_A_Cressac_Saint_Genis_En_Charente-Cressac_Saint_Genis_Ch.html#REVIEWS"
+    },
+    {
+        "name": "189. Hennessy Les Visites",
+        "type": "Distilleries • Domaines viticoles & Vignobles",
+        "votes": "499",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d272747-Reviews-Hennessy_Les_Visites-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "190. Église Saint-pierre",
+        "type": "Sites historiques",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d23817045-Reviews-Eglise_Saint_pierre-La_Rochefoucauld_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "191. Église Saint-georges À Saint-georges",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d24035772-Reviews-Eglise_Saint_georges_A_Saint_georges-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "192. Prieuré, aujourd'hui église Saint-Sulpice",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6586066-d18338002-Reviews-Prieure_aujourd_hui_eglise_Saint_Sulpice-Abzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "193. Le 1838",
+        "type": "Bars de jazz\nOuvert",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d15768998-Reviews-Le_Jazz_Bar_1838-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "194. Ancienne Église De Saint-surin",
+        "type": "Sites historiques\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g736242-d23733406-Reviews-Ancienne_Eglise_De_Saint_surin-Chateauneuf_sur_Charente_Charente_Nouvelle_Aquita.html#REVIEWS"
+    },
+    {
+        "name": "195. Funroad Tc",
+        "type": "Circuits moto",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572470-d25094493-Reviews-Funroad_Tc-Roullet_Saint_Estephe_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "196. Église Saint-Jean Baptiste",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4272040-d21008663-Reviews-Eglise_Saint_Jean_Baptiste-Chassenon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "197. Abbaye de Châtres",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12122335-d16696680-Reviews-Abbaye_de_Chatres-Saint_Brice_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "198. Vignoble Roland Vilneau",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12544046-d23499692-Reviews-Vignoble_Roland_Vilneau-Verdille_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "199. Fontaine Légendaire",
+        "type": "Monuments & Points d'intérêt • Lieux mystérieux\nOuvert",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19281659-d21282268-Reviews-Fontaine_Legendaire-Ronsenac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "200. Église Saint-Pierre de Chabanais",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910057-d19774664-Reviews-Eglise_Saint_Pierre_de_Chabanais-Chabanais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "201. Eglise Saint Jacques de Conzac",
+        "type": "Églises et cathédrales\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1792455-d19094665-Reviews-Eglise_Saint_Jacques_de_Conzac-Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "202. Ancienne Prieurale Église Saint-Justinien À Benest",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d23823903-Reviews-Ancienne_Prieurale_Eglise_Saint_Justinien_A_Benest-Confolens_Charente_Nouvelle_.html#REVIEWS"
+    },
+    {
+        "name": "203. Eglise Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2522339-d15873207-Reviews-Eglise_Saint_Jean_Baptiste-Coulgens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "204. Bar Luciole",
+        "type": "Bars et clubs\nOuvert",
+        "votes": "41",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d12562138-Reviews-Bar_Luciole-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "205. Église Sainte-Colombe",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1953894-d15887003-Reviews-Eglise_Sainte_Colombe-Saint_Angeau_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "206. Église Saint-pierre De Poursac",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4995141-d23970993-Reviews-Eglise_Saint_pierre_De_Poursac-Poursac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "207. Église Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g736242-d20326355-Reviews-Eglise_Saint_Pierre-Chateauneuf_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "208. Eglise Saint-Germain",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1379282-d15849612-Reviews-Eglise_Saint_Germain-Montbron_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "209. Pigeonnier d'Ardenne",
+        "type": "Fermes",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g17662774-d17654186-Reviews-Pigeonnier_d_Ardenne-Moulidars_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "210. Espace d'Interpretation du Gallo-Romain",
+        "type": "Musées d'histoire",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7981998-d21045302-Reviews-Espace_d_Interpretation_du_Gallo_Romain-Saint_Cybardeaux_Charente_Nouvelle_Aqui.html#REVIEWS"
+    },
+    {
+        "name": "211. Église Saint-Martial et village de Brigueuil",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933139-d18543461-Reviews-Eglise_Saint_Martial_et_village_de_Brigueuil-Brigueuil_Charente_Nouvelle_Aquita.html#REVIEWS"
+    },
+    {
+        "name": "212. Église Saint-hilaire À Nonac",
+        "type": "Sites historiques",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3940326-d23813364-Reviews-Eglise_Saint_hilaire_A_Nonac-Nonac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "213. Église Saint-michel De Nanclars",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d23676517-Reviews-Eglise_Saint_michel_De_Nanclars-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "214. Église Notre-Dame de Berneuil",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2085478-d21332294-Reviews-Eglise_Notre_Dame_de_Berneuil-Berneuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "215. Eglise Saint-Sulpice à Saint-Sulpice de Ruffec",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g25226341-d25223435-Reviews-Eglise_Saint_Sulpice_a_Saint_Sulpice_de_Ruffec-Saint_Sulpice_de_Ruffec_Charent.html#REVIEWS"
+    },
+    {
+        "name": "216. Dolmens Des Pérottes À Fontenille",
+        "type": "Sites historiques\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d24963797-Reviews-Dolmens_Des_Perottes_A_Fontenille-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "217. Eglise Saint-Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10544477-d16707957-Reviews-Eglise_Saint_Maurice-Echallat_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "218. Église Saint Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15798888-d15798387-Reviews-Eglise_Saint_Cybard-Rivieres_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "219. Église Saint-Martin d'Oradour-Fanais",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12563668-d23976514-Reviews-Eglise_Saint_Martin_d_Oradour_Fanais-Oradour_Fanais_Charente_Nouvelle_Aquitain.html#REVIEWS"
+    },
+    {
+        "name": "220. Foire et Brocante Mensuel de Chadurie",
+        "type": "Marchés aux puces & Marchés de rue • Marchés fermiers",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1220492-d15769053-Reviews-Foire_et_Brocante_Mensuel_de_Chadurie-Chadurie_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "221. Eglise Saint-sébastien À La Rochette",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d23674185-Reviews-Eglise_Saint_sebastien_A_La_Rochette-La_Rochefoucauld_Charente_Nouvelle_Aquitai.html#REVIEWS"
+    },
+    {
+        "name": "222. L'HOMME LIBRE dit encore « L'AMAZIGH »",
+        "type": "Monuments & Points d'intérêt • Monuments et statues\nOuvert",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d21309163-Reviews-L_HOMME_LIBRE_dit_encore_L_AMAZIGH-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquita.html#REVIEWS"
+    },
+    {
+        "name": "223. Eglise du Sacré Cœur",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d16725744-Reviews-Eglise_du_Sacre_Ceour-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "224. Église Saint-Martin de Poullignac",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308430-d19095435-Reviews-Eglise_Saint_Martin_de_Poullignac-Poullignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "225. La Gabare",
+        "type": "Bars et clubs\nOuvert",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d7206839-Reviews-La_Gabare-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "226. Eglise Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7808712-d15833436-Reviews-Eglise_Saint_Jean_Baptiste-Grassac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "227. Eglise Saint-GENIS",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d19762282-Reviews-Eglise_Saint_GENIS-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "228. Église Saint Maxime",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2464794-d21272790-Reviews-Eglise_Saint_Maxime-Saint_Meme_les_Carrieres_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "229. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11960866-d21170675-Reviews-Eglise_Saint_Martin-Gensac_la_Pallue_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "230. Église Saint-michel De Saint-angeau",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1953894-d24001748-Reviews-Eglise_Saint_michel_De_Saint_angeau-Saint_Angeau_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "231. Monument a Francois Ier",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d20964111-Reviews-Monument_a_Francois_Ier-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "232. Eglise Fortifiée Saint-pierre À Reignac",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d23507438-Reviews-Eglise_Fortifiee_Saint_pierre_A_Reignac-Barbezieux_Saint_Hilaire_Charente_Nouve.html#REVIEWS"
+    },
+    {
+        "name": "233. Église Sainte-madeleine De Touvre",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11918176-d23661028-Reviews-Eglise_Sainte_madeleine_De_Touvre-Touvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "234. Eglise Saint-Pierre",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12449824-d18206382-Reviews-Eglise_Saint_Pierre-Brillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "235. Eglise Sainte-Radegonde",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g13537157-d20324019-Reviews-Eglise_Sainte_Radegonde-Theil_Rabier_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "236. Eglise Saint-Pierre-aux-Liens",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15781134-d15779787-Reviews-Eglise_Saint_Pierre_aux_Liens-Garat_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "237. Église Notre-dame De La Paix Du Gond Pontouvre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d25210571-Reviews-Eglise_Notre_dame_De_La_Paix_Du_Gond_Pontouvre-Gond_Pontouvre_Charente_Nouvelle.html#REVIEWS"
+    },
+    {
+        "name": "238. Ancienne Commanderie De Templiers Saint-Jean-baptiste De Malleyrand",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15169170-d23822131-Reviews-Ancienne_Commanderie_De_Templiers_Saint_Jean_baptiste_De_Malleyrand-Yvrac_et_M.html#REVIEWS"
+    },
+    {
+        "name": "239. Abbaye des Dames - Prieuré Fontevriste",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2251265-d23524813-Reviews-Abbaye_des_Dames_Prieure_Fontevriste-Tusson_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "240. Commanderie des Templiers, dite Chapelle du Courreau à Maine-de-Boixe",
+        "type": "Sites historiques\nOuvert",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g24011177-d24005844-Reviews-Commanderie_des_Templiers_dite_Chapelle_du_Courreau_a_Maine_de_Boixe-Maine_de_.html#REVIEWS"
+    },
+    {
+        "name": "241. Église Saint-Pierre-ès-Liens",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1519640-d19761771-Reviews-Eglise_Saint_Pierre_es_Liens-Lesignac_Durand_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "242. Église Notre-dame De Villejésus",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4154040-d23728226-Reviews-Eglise_Notre_dame_De_Villejesus-Aigre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "243. Église Saint-Jean-Baptiste de La Couronne",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096038-d25068381-Reviews-Eglise_Saint_Jean_Baptiste_de_La_Couronne-La_Couronne_Charente_Nouvelle_Aquitai.html#REVIEWS"
+    },
+    {
+        "name": "244. X Scape Cognac",
+        "type": "Jeux de logique",
+        "votes": "26",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d18313690-Reviews-X_Scape_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "245. Église Saint-Hilaire de Mouthiers-sur-Boëme",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4873182-d24968728-Reviews-Eglise_Saint_Hilaire_de_Mouthiers_sur_Boeme-Mouthiers_sur_Boeme_Charente_Nouvel.html#REVIEWS"
+    },
+    {
+        "name": "246. Église Paroissiale Saint-Gervais",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d23918765-Reviews-Eglise_Paroissiale_Saint_Gervais-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "247. Église Saint-Benoît",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8863331-d21319102-Reviews-Eglise_Saint_Benoit-Ansac_sur_Vienne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "248. Eglise De Saint Michel",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g20109377-d23658628-Reviews-Eglise_De_Saint_Michel-Saint_Michel_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "249. Médiathèque De Mansle",
+        "type": "Bibliothèques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d23523301-Reviews-Mediatheque_De_Mansle-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "250. Église Saint-michel, Ancien Prieuré",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3176247-d23999091-Reviews-Eglise_Saint_michel_Ancien_Prieure-Champagne_Mouton_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "251. Église Paroissiale Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1887855-d21160598-Reviews-Eglise_Paroissiale_Saint_Pierre-Taize_Aizie_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "252. Eglise Saint-Sigismond",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3870421-d21106442-Reviews-Eglise_Saint_Sigismond-Saint_Simon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "253. Eglise Saint-Martial",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2356334-d21005545-Reviews-Eglise_Saint_Martial-Manot_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "254. Église du Sacré Cœur",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d24965927-Reviews-Eglise_du_Sacre_Ceour-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "255. Église Notre-dame De Gardes-le-pontaroux",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12087095-d23816434-Reviews-Eglise_Notre_dame_De_Gardes_le_pontaroux-Gardes_le_Pontaroux_Charente_Nouvelle.html#REVIEWS"
+    },
+    {
+        "name": "256. Eglise Saint-Genis",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12076370-d19746296-Reviews-Eglise_Saint_Genis-Saulgond_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "257. Le Champignon",
+        "type": "Espaces naturels et sauvages",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12087095-d24052178-Reviews-Le_Champignon-Gardes_le_Pontaroux_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "258. Église Saint-pierre",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148921-d23845714-Reviews-Eglise_Saint_pierre-Passirac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "259. Eglise Saint-Germain",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2038273-d20982106-Reviews-Eglise_Saint_Germain-Saint_Germain_de_Confolens_Confolens_Charente_Nouvelle_Aqu.html#REVIEWS"
+    },
+    {
+        "name": "260. Indigo by Martell",
+        "type": "Bars et clubs\nFermeture temporaire",
+        "votes": "38",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d15081437-Reviews-Indigo_by_Martell-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "261. Eglise Saint-hilaire",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g23117539-d21402974-Reviews-Eglise_Saint_hilaire-Val_des_Vignes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "262. Eglise Paroissiale Saint-jacques",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2251265-d23300664-Reviews-Eglise_Paroissiale_Saint_jacques-Tusson_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "263. Église Saint-pierre De Charmé",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d23301460-Reviews-Eglise_Saint_pierre_De_Charme-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "264. Camus Cognac",
+        "type": "Distilleries • Visites d'entreprises",
+        "votes": "395",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d1523859-Reviews-Camus_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "265. Chapelle Notre Dame De Laplaud",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275782-d23262749-Reviews-Chapelle_Notre_Dame_De_Laplaud-Roumazieres_Loubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "266. La Cervoiserie",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Bars et clubs",
+        "votes": "48",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d10282621-Reviews-La_Cervoiserie-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "267. Office de Tourisme de Villebois",
+        "type": "Offices de tourisme",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2061162-d18454551-Reviews-Office_de_Tourisme_de_Villebois-Villebois_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "268. Eglise Saint-aignan De Torsac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21280263-d24978577-Reviews-Eglise_Saint_aignan_De_Torsac-Torsac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "269. Eglise Saint-Martial",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d24101342-Reviews-Eglise_Saint_Martial-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "270. Église Saint Pierre De Bioussac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d23995715-Reviews-Eglise_Saint_Pierre_De_Bioussac-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "271. Église Notre-dame De Charmant",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2061162-d23851340-Reviews-Eglise_Notre_dame_De_Charmant-Villebois_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "272. La Cloche",
+        "type": "Bars et clubs\nOuvert",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1932328-d4450661-Reviews-La_Cloche-Montmoreau_Saint_Cybard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "273. Eglise Saint-génis D'embourie",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12080011-d23963760-Reviews-Eglise_Saint_genis_D_embourie-Paizay_Naudouin_Embourie_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "274. Piscine Municipale de Chabanais",
+        "type": "Complexes sportifs",
+        "votes": "7",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1910057-d7804707-Reviews-Piscine_Municipale_de_Chabanais-Chabanais_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "275. Eglise Saint-Maurice",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d19804906-Reviews-Eglise_Saint_Maurice-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "276. Eglise Saint-Pierre",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7060826-d19761516-Reviews-Eglise_Saint_Pierre-La_Peruse_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "277. Église De Saint-laurent-de-céris",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4297709-d23268585-Reviews-Eglise_De_Saint_laurent_de_ceris-Saint_Laurent_de_Ceris_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "278. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933144-d21125553-Reviews-Eglise_Saint_Martin-Salles_Lavalette_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "279. Chapelle Notre-dame À Ansac-sur-vienne",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8863331-d23914330-Reviews-Chapelle_Notre_dame_A_Ansac_sur_vienne-Ansac_sur_Vienne_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "280. Eglise St Vivien d'Yvrac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15169170-d23823024-Reviews-Eglise_St_Vivien_d_Yvrac-Yvrac_et_Malleyrand_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "281. Eglise Paroissiale Ancienne Commanderie Saint Jean du Tâtre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g946158-d23506108-Reviews-Eglise_Paroissiale_Ancienne_Commanderie_Saint_Jean_du_Tatre-Le_Tatre_Charente_No.html#REVIEWS"
+    },
+    {
+        "name": "282. Église St Martial De Chantrezac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275782-d23267483-Reviews-Eglise_St_Martial_De_Chantrezac-Roumazieres_Loubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "283. Eglise Saint Antoine-le-grand",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1916937-d23504380-Reviews-Eglise_Saint_Antoine_le_grand-Verteuil_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "284. Église Notre-dame De Voulgézac",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7377432-d23853028-Reviews-Eglise_Notre_dame_De_Voulgezac-Blanzac_Porcheresse_Coteaux_du_Blanzacais_Charen.html#REVIEWS"
+    },
+    {
+        "name": "285. Église Saint-Martin",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308326-d15816797-Reviews-Eglise_Saint_Martin-Marthon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "286. Église Saint-saturnin De Condac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3772616-d24104446-Reviews-Eglise_Saint_saturnin_De_Condac-Condac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "287. Église Saint Laurent De Les Adjots",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d23993976-Reviews-Eglise_Saint_Laurent_De_Les_Adjots-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "288. Eglise Saint-Pierre de Lessac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199914-d23973476-Reviews-Eglise_Saint_Pierre_de_Lessac-Lessac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "289. Église Saint-claud",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d24039398-Reviews-Eglise_Saint_claud-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "290. Eglise Saint-didier À Marillac-le-franc",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d23820595-Reviews-Eglise_Saint_didier_A_Marillac_le_franc-La_Rochefoucauld_Charente_Nouvelle_Aqui.html#REVIEWS"
+    },
+    {
+        "name": "291. Église de Saint-Hilaire",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d23519454-Reviews-Eglise_de_Saint_Hilaire-Barbezieux_Saint_Hilaire_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "292. Eglise Saint-Marien à Condéon",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7015103-d23514178-Reviews-Eglise_Saint_Marien_a_Condeon-Condeon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "293. Eglise Saint-Christophe",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d19112743-Reviews-Eglise_Saint_Christophe-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "294. Les Jardins de l'Osme",
+        "type": "Fermes",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "295. Eglise Saint Nicolas",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21012482-d21005933-Reviews-Eglise_Saint_Nicolas-Villognon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "296. Inside Game - Angoulême",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "16",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d23380645-Reviews-Inside_Game_Angouleme-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "297. Eglise Saint-Gervais - Saint-Protais",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933142-d16726964-Reviews-Eglise_Saint_Gervais_Saint_Protais-Perignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "298. Chapelle de Boisaugeais",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d20483643-Reviews-Chapelle_de_Boisaugeais-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "299. Église Saint-pierre De Villefagnan",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2528755-d23730715-Reviews-Eglise_Saint_pierre_De_Villefagnan-Villefagnan_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "300. Cognac Giboin",
+        "type": "Distilleries",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "301. Église Saint-amant Ou Amand",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1932328-d23849577-Reviews-Eglise_Saint_amant_Ou_Amand-Montmoreau_Saint_Cybard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "302. Château Pipeau",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "303. Bernard Boutinet",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "304. Eglise et Prieuré Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19281659-d21125554-Reviews-Eglise_et_Prieure_Saint_Jean_Baptiste-Ronsenac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "305. Église Sainte-madeleine",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d23961720-Reviews-Eglise_Sainte_madeleine-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "306. Église Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12544046-d23570564-Reviews-Eglise_Saint_Cybard-Verdille_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "307. Eglise Paroissiale Saint-vincent",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d23520805-Reviews-Eglise_Paroissiale_Saint_vincent-Barbezieux_Saint_Hilaire_Charente_Nouvelle_Aqu.html#REVIEWS"
+    },
+    {
+        "name": "308. Musée du Landaus",
+        "type": "Musées spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "309. Eglise Saint-André",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3535806-d19769325-Reviews-Eglise_Saint_Andre-Exideuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "310. Le Château Graves de Pez",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "311. Eglise Saint Roch De Parzac",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4995144-d23281489-Reviews-Eglise_Saint_Roch_De_Parzac-Le_Grand_Madieu_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "312. Lanterne des Morts",
+        "type": "Sites historiques • Monuments et statues\nOuvert",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g16499211-d21319403-Reviews-Lanterne_des_Morts-Pranzac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "313. Église Saint-hilaire À Couture",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d24000406-Reviews-Eglise_Saint_hilaire_A_Couture-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "314. Église Saint-maixent D'empuré",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d23964208-Reviews-Eglise_Saint_maixent_D_empure-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "315. Église Saint Caprais",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11952462-d21361163-Reviews-Eglise_Saint_Caprais-Agris_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "316. Eglise Notre Dame de la Route",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "317. Office de Tourisme de Barbezieux",
+        "type": "Offices de tourisme",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "318. Domaine des Quillets",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "319. Église Notre-dame De Mons",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1903565-d23727358-Reviews-Eglise_Notre_dame_De_Mons-Rouillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "320. Eglise Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8118178-d16643654-Reviews-Eglise_Notre_Dame-Alloue_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "321. Eglise Notre-Dame",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21022478-d21005399-Reviews-Eglise_Notre_Dame-Chabrac_Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "322. Eglise St Médard De Ruelle-sur-touvre",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8013392-d23661338-Reviews-Eglise_St_Medard_De_Ruelle_sur_touvre-Ruelle_sur_Touvre_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "323. Église Saint-hilaire À Épenède",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d23825932-Reviews-Eglise_Saint_hilaire_A_Epenede-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "324. La Comédie d'Angoulême",
+        "type": "Comedy Clubs",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d10086669-Reviews-La_Comedie_d_Angouleme-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "325. Chapelle De La Macarine",
+        "type": "Sites historiques\nOuvert",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g24982017-d24980787-Reviews-Chapelle_De_La_Macarine-Villejoubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "326. Église Saint-barthélemy De Lonnes",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g24984209-d24959251-Reviews-Eglise_Saint_Barthelemy_de_Lonnes-Lonnes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "327. Château de Rochebrune",
+        "type": "Châteaux",
+        "votes": "8",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d14795701-Reviews-Chateau_de_Rochebrune-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "328. Église Saint-saturnin",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d23818931-Reviews-Eglise_Saint_saturnin-La_Rochefoucauld_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "329. Église Saint-pierre-és-liens",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d23729244-Reviews-Eglise_Saint_pierre_es_liens-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "330. Église Saint-Christophe",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275782-d19824813-Reviews-Eglise_Saint_Christophe-Roumazieres_Loubert_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "331. Eglise Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10385222-d16700204-Reviews-Eglise_Saint_Pierre-Merignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "332. Cognac Tasting Tour",
+        "type": "Visites de distilleries • Cours et ateliers\nOuvert",
+        "votes": "63",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d1460234-Reviews-Cognac_Tasting_Tour-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "333. Église Saint-côme-et-saint-damien",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2137494-d23915386-Reviews-Eglise_Saint_come_et_saint_damien-Beaulieu_sur_Sonnette_Charente_Nouvelle_Aquit.html#REVIEWS"
+    },
+    {
+        "name": "334. Églisesaint-pierre",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11952679-d23825100-Reviews-Eglisesaint_pierre-Pleuville_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "335. Église Saint-Pierre-ès-Liens",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12858304-d23290121-Reviews-Eglise_Saint_Pierre_es_Liens-Le_Vieux_Cerier_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "336. Église Saint-pierre De Saint-gourson",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21334047-d24038949-Reviews-Eglise_Saint_pierre_De_Saint_gourson-Saint_Gourson_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "337. Eglise Saint-Amant à Saint-Amant-de-Bonnieure",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1932305-d24005851-Reviews-Eglise_Saint_Amant_a_Saint_Amant_de_Bonnieure-Saint_Amant_de_Bonnieure_Charente.html#REVIEWS"
+    },
+    {
+        "name": "338. Église paroissiale de l’Exaltation de-la-Sainte-Croix",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6958978-d21284574-Reviews-Eglise_paroissiale_de_l_Exaltation_de_la_Sainte_Croix-Montignac_le_Coq_Charente.html#REVIEWS"
+    },
+    {
+        "name": "339. église Saint-Symphorien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "340. Église de Vénat",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "341. Golf du Cognac",
+        "type": "Parcours de golf",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d272752-Reviews-Golf_du_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "342. Eglise Saint-sulpice À Challignac",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11977555-d23508832-Reviews-Eglise_Saint_sulpice_A_Challignac-Challignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "343. Petit Pont De Vibrac",
+        "type": "Ponts\nOuvert",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d25312212-Reviews-Petit_Pont_de_Vibrac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "344. Église Saint-martial De Souvigné",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1587634-d25262871-Reviews-Eglise_Saint_martial_De_Souvigne-Souvigne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "345. Église Saint-vincent",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933140-d23846785-Reviews-Eglise_Saint_vincent-Montboyer_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "346. Église Saint-martin À Sigogne",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1953868-d23837642-Reviews-Eglise_Saint_martin_A_Sigogne-Sigogne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "347. Église Saint-hilaire De Cersay",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g23117539-d24144889-Reviews-Eglise_Saint_hilaire_De_Cersay-Val_des_Vignes_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "348. Église Saint Ciers",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21321003-d21320905-Reviews-Eglise_Saint_Ciers-Saint_Ciers_sur_Bonnieure_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "349. Eglise Notre-dame",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d23287674-Reviews-Eglise_Notre_dame-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "350. Église Saint-liphard À Hiesse",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12080047-d23907974-Reviews-Eglise_Saint_liphard_A_Hiesse-Hiesse_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "351. Prieuré Notre-dame",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19618695-d23916057-Reviews-Prieure_Notre_dame-Vieux_Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "352. Église Saint-sixte",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11925483-d21110094-Reviews-Eglise_Saint_sixte-Aunac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "353. Ambre Concept Store",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "13",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d10066819-Reviews-Ambre_Concept_Store-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "354. Église Saint Jean-baptiste",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4995144-d23277938-Reviews-Eglise_Saint_Jean_baptiste-Le_Grand_Madieu_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "355. Église Saint-hilaire De Tourriers",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d24979979-Reviews-Eglise_Saint_hilaire_De_Tourriers-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "356. Eglise Notre-dame De Douzat",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d25317807-Reviews-Eglise_Notre_Dame_de_Douzat-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "357. Eglise Saint Martin",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "358. Eglise (ancienne commanderie Saint-Martin)",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g23838713-d23832297-Reviews-Eglise_ancienne_commanderie_Saint_Martin-Barbezieres_Charente_Nouvelle_Aquitai.html#REVIEWS"
+    },
+    {
+        "name": "359. Eglise Paroissiale Saint-étienne",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d25319497-Reviews-Eglise_paroissiale_Saint_Etienne-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "360. Église Saint-pierre-des-martyrs De Genac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10826209-d25306446-Reviews-Eglise_Saint_Pierre_des_Martyrs_de_Genac-Genac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "361. Eglise Saint-Sulpice",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g14053406-d19799208-Reviews-Eglise_Saint_Sulpice-Mazieres_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "362. Chapelle",
+        "type": "Sites religieux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d24034766-Reviews-Chapelle-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "363. Église Saint-cybard À Chavenat",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5062378-d23815265-Reviews-Eglise_Saint_cybard_A_Chavenat-Chavenat_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "364. Église Saint Vincent",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2528755-d23730820-Reviews-Eglise_Saint_Vincent-Villefagnan_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "365. Domaine Grande Croix Mougne",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12162322-d13273429-Reviews-Domaine_Grande_Croix_Mougne-Nercillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "366. Église Saint-Hippolyte",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "367. Chocolaterie Letuffe",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "42",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2720326-d2716357-Reviews-Chocolaterie_Letuffe-Trois_Palis_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "368. Église De Saint-genis D'hiersac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1903565-d25318401-Reviews-Eglise_de_Saint_Genis_d_Hiersac-Rouillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "369. Eglise Saint-thomas À Hiersac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425092-d25314452-Reviews-Eglise_Saint_Thomas_a_Hiersac-Hiersac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "370. Église Saint-pierre De Nersac",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5600041-d25310534-Reviews-Eglise_Saint_Pierre_de_Nersac-Nersac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "371. Église Saint-hilaire De Londigny",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "372. Eglise Saint-front À Saint-front",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15148827-d23282027-Reviews-Eglise_Saint_front_A_Saint_front-Tourriers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "373. Eglise Saint Joseph L'artisan",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3135538-d24966414-Reviews-Eglise_Saint_Joseph_L_Artisan-Soyaux_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "374. Eglise Saint-Pierre et Sainte-Radegonde",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "375. Église Saint-Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "376. Chapelle Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096285-d24146354-Reviews-Chapelle_Saint_Pierre-Nanteuil_En_Vallee_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "377. Eglise Saint-Cybard de Porcheresse",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "378. Église Saint-pierre Aux Liens De Bernac",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "379. Église Saint-Paul",
+        "type": "Sites historiques • Monuments & Points d'intérêt\nOuvert",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7112995-d15812872-Reviews-Eglise_Saint_Paul-Chazelles_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "380. Église Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "381. Roullet Fransac",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d6207829-Reviews-Roullet_Fransac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "382. Église Saint-Pardoux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "383. Eglise Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "384. Logis De Saint-amant-de-bonnieure",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1932305-d24000638-Reviews-Logis_De_Saint_amant_de_bonnieure-Saint_Amant_de_Bonnieure_Charente_Nouvelle_Aq.html#REVIEWS"
+    },
+    {
+        "name": "385. Eglise Paroissiale Sainte-Eulalie de Saint-Aulais",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d23521404-Reviews-Eglise_Paroissiale_Sainte_Eulalie_de_Saint_Aulais-Barbezieux_Saint_Hilaire_Char.html#REVIEWS"
+    },
+    {
+        "name": "386. Église Paroissiale Saint-sébastien",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1587634-d25263212-Reviews-Eglise_Paroissiale_Saint_sebastien-Souvigne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "387. Eglise Saint-Palais",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "388. Temple Protestant de Villefagnan",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2528755-d23730468-Reviews-Temple_Protestant_de_Villefagnan-Villefagnan_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "389. Le Château De La Foucaudie",
+        "type": "Châteaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5600041-d25310546-Reviews-Le_Chateau_de_la_Foucaudie-Nersac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "390. Les 2 Noix'elles",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Fermes",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15059071-d13913229-Reviews-Les_2_Noix_elles-Mainzac_Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "391. Eglise St Martin",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8013392-d23659373-Reviews-Eglise_St_Martin-Ruelle_sur_Touvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "392. Eglise Saint-Genis",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "393. Golf d'Aubeterre",
+        "type": "Parcours de golf",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477742-d1486969-Reviews-Golf_d_Aubeterre-Pillac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "394. Église Saint-martin D'oradour-fanais",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "395. Église Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "396. Église Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "397. Église Saint-Pierre de Lessac",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "398. Abbaye Notre-dame De La Couronne",
+        "type": "Ruines anciennes",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096038-d25250713-Reviews-Abbaye_Notre_dame_De_La_Couronne-La_Couronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "399. Eglise Saint-cybard De Saint-cybardeaux",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7981998-d25250874-Reviews-Eglise_Saint_cybard_De_Saint_cybardeaux-Saint_Cybardeaux_Charente_Nouvelle_Aqui.html#REVIEWS"
+    },
+    {
+        "name": "400. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "401. Vertigo Escape Game",
+        "type": "Jeux de logique",
+        "votes": "26",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d13074545-Reviews-Vertigo_Escape_Game-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "402. Église Saint Jacques de Conzac",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "403. Meubles Graham Barry",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d3927455-Reviews-Meubles_Graham_Barry-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "404. La Cognatheque",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d15050042-Reviews-La_Cognatheque-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "405. Laser Game Evolution Angoulême",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d8870801-Reviews-Laser_Game_Evolution_Angouleme-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "406. Passion Karting 16",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1199986-d12770491-Reviews-Passion_Karting_16-La_Rochefoucauld_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "407. Chemin de Fer de Charente-Limousine",
+        "type": "Trains touristiques",
+        "votes": "106",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d4589561-Reviews-Chemin_de_Fer_de_Charente_Limousine-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "408. Ruffec Canoë-Kayak",
+        "type": "Kayak & Canoë\nOuvert",
+        "votes": "75",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3772616-d6753833-Reviews-Ruffec_Canoe_Kayak-Condac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "409. Chevrerie Jousseaume",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1572470-d7226810-Reviews-Chevrerie_Jousseaume-Roullet_Saint_Estephe_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "410. Ferme Equestre L'Idalgo",
+        "type": "Randonnées équestres",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7015103-d12731108-Reviews-Ferme_Equestre_L_Idalgo-Condeon_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "411. Formula Kart Speedway",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g227891-d6991730-Reviews-Formula_Kart_Speedway-Champniers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "412. Aventure Parc Lacs de Haute Charente",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "59",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g562723-d3454086-Reviews-Aventure_Parc_Lacs_de_Haute_Charente-Massignac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "413. Le Bon Marché des Saveurs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4154040-d14035121-Reviews-Le_Bon_Marche_des_Saveurs-Aigre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "414. Aux Delices Ruffecois",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1910058-d4944065-Reviews-Aux_Delices_Ruffecois-Ruffec_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "415. Dizzy & Co Designs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1051483-d18922233-Reviews-Dizzy_Co_Designs-Saint_Claud_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "416. Chocolaterie Letuffe",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d14043142-Reviews-Chocolaterie_Letuffe-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "417. Piscine d'Ete",
+        "type": "Salles de cinéma",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d4817675-Reviews-Piscine_d_Ete-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "418. Institut Carine",
+        "type": "Spas",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d14135892-Reviews-Institut_Carine-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "419. Spa Chais Monnet",
+        "type": "Camps sportifs & Cliniques • Location de matériel\nOuvert",
+        "votes": "17",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d19829243-Reviews-Spa_Chais_Monnet-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "420. Louis Royer",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Distilleries",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d23205271-Reviews-Louis_Royer-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "421. Canoe Kayak Aubeterre",
+        "type": "Sports nautiques • Locations de bateaux\nOuvert",
+        "votes": "34",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d8522710-Reviews-Canoe_Kayak_Aubeterre-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "422. Au Lutin Joyeux",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d12588921-Reviews-Au_Lutin_Joyeux-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "423. Fish'S'thetique",
+        "type": "Spas\nOuvert",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661769-d12084175-Reviews-Fish_S_thetique-Tonnay_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "424. Les Filles dans l'Atelier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d15634997-Reviews-Les_Filles_dans_l_Atelier-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "425. Bélédia",
+        "type": "Spas",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d14843724-Reviews-Beledia-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "426. Toboggan et Cie Angouleme",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "23",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d9803582-Reviews-Toboggan_et_Cie_Angouleme-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "427. Inter-Croisières",
+        "type": "Locations de bateaux • Kayak & Canoë",
+        "votes": "19",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g13917336-d12350993-Reviews-Inter_Croisieres-Sireuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "428. Maison Boinaud",
+        "type": "Distilleries • Visites de distilleries",
+        "votes": "24",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3398062-d10093791-Reviews-Maison_Boinaud-Angeac_Champagne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "429. Cinéma GALAXY",
+        "type": "Salles de cinéma",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g674097-d21117494-Reviews-Cinema_GALAXY-Chateaubernard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "430. Golf International De La Preze",
+        "type": "Parcours de golf",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3940416-d24911733-Reviews-Golf_International_De_La_Preze-Rouzede_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "431. Cup n'Dice",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "432. Gourmandise Et Chocolat",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1477743-d25297853-Reviews-Gourmandise_et_Chocolat-Barbezieux_Saint_Hilaire_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "433. Base Nautique de Mansle",
+        "type": "Stand up paddle • Kayak & Canoë\nOuvert",
+        "votes": "11",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1923007-d12518752-Reviews-Base_Nautique_de_Mansle-Mansle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "434. Ecurie des Chenes",
+        "type": "Randonnées équestres",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g18816001-d18767584-Reviews-Ecurie_des_Chenes-Bors_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "435. La Base de Pleine Nature de Poltrot",
+        "type": "Parcours aventure & Tyroliennes\nOuvert",
+        "votes": "41",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7019691-d7018153-Reviews-La_Base_de_Pleine_Nature_de_Poltrot-Nabinaud_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "436. Maison du Canoe",
+        "type": "Kayak & Canoë\nOuvert",
+        "votes": "26",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1379282-d8389791-Reviews-Maison_du_Canoe-Montbron_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "437. TROTT IN CHARENTE",
+        "type": "Visites en Segway • Camping et randonnée",
+        "votes": "10",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g651747-d17735842-Reviews-TROTT_IN_CHARENTE-Criteuil_la_Magdeleine_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "438. Feel Nature",
+        "type": "Descentes en rappel et canyoning • Parcours aventure & Tyroliennes\nOuvert",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1887855-d10661786-Reviews-Feel_Nature-Taize_Aizie_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "439. Cave Saint Leger",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "440. #VR",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "441. Espace Arc-En-Ciel",
+        "type": "Salles de cinéma",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "442. Gabare La Dame Jeanne",
+        "type": "Visites guidées",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d4696863-Reviews-Gabare_La_Dame_Jeanne-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "443. Cognac Canoe Club",
+        "type": "Locations de bateaux • Stand up paddle",
+        "votes": "24",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d10769352-Reviews-Cognac_Canoe_Club-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "444. Jarnac Balade Canoë Kayak",
+        "type": "Location de matériel\nOuvert",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d21389987-Reviews-Jarnac_Balade_Canoe_Kayak-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "445. Le Cham's",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "446. Accroparc",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3135538-d8000711-Reviews-Accroparc-Soyaux_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "447. Le Hall Black",
+        "type": "Bowlings",
+        "votes": "2",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d20222593-Reviews-Le_Hall_Black-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "448. Maroquinerie Théodora",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "449. Cognac Bowling",
+        "type": "Bowlings\nOuvert",
+        "votes": "7",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g674097-d10636803-Reviews-Cognac_Bowling-Chateaubernard_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "450. CONFOLENS Canoë-Kayak",
+        "type": "Kayak & Canoë\nOuvert",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1308446-d11808399-Reviews-CONFOLENS_Canoe_Kayak-Confolens_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "451. Les Colorires",
+        "type": "Ateliers de peinture et de poterie",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "452. Bes'Cardriver",
+        "type": "Taxis & Navettes\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "453. Gourmandise Et Chocolat",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "454. Angoulême Canoë Kayak",
+        "type": "Kayak & Canoë",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d8772350-Reviews-Angouleme_Canoe_Kayak-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "455. Chateau Des Plassons",
+        "type": "Visites culturelles • Visites de distilleries",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616118-d18817098-Reviews-Chateau_Des_Plassons-Aubeterre_sur_Dronne_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "456. E-Chauffeur Prive",
+        "type": "Taxis & Navettes",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "457. Le Boat - Jarnac",
+        "type": "Locations de bateaux",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d14113843-Reviews-Le_Boat_Jarnac-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "458. Service VTC par TGC",
+        "type": "Visites de distilleries • Taxis & Navettes",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d21213520-Reviews-Service_VTC_par_TGC-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "459. Megarama",
+        "type": "Salles de cinéma",
+        "votes": "5",
+        "rate": "1,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15781134-d19370643-Reviews-Megarama-Garat_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "460. GT Inside",
+        "type": "Circuits extrêmes",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g227891-d12991865-Reviews-GT_Inside-Champniers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "461. Accrodefis",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2102262-d18846544-Reviews-Accrodefis-Chasseneuil_sur_Bonnieure_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "462. Base Canoe Kayak",
+        "type": "Kayak & Canoë",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1308331-d10813566-Reviews-Base_Canoe_Kayak-Gond_Pontouvre_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "463. Base Canoe Vindelle",
+        "type": "Stand up paddle • Kayak & Canoë\nOuvert",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4412227-d10356546-Reviews-Base_Canoe_Vindelle-Vindelle_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "464. La Ballade en Gabarre",
+        "type": "Visites guidées",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g736242-d2308043-Reviews-La_Ballade_en_Gabarre-Chateauneuf_sur_Charente_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "465. Le Chambon Sport & Nature en Charente",
+        "type": "Parcours aventure & Tyroliennes • Chemins de randonnées",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3464191-d11838824-Reviews-Le_Chambon_Sport_Nature_en_Charente-Eymouthiers_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "466. sarl A Faire a Cheval",
+        "type": "Excursions tout terrain, 4 × 4 & VTT • Balades à vélo",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4995144-d20196127-Reviews-Sarl_A_Faire_a_Cheval-Le_Grand_Madieu_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "467. Randonnee Fluviale",
+        "type": "Excursions en bateau • Stand up paddle",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d10724494-Reviews-Randonnee_Fluviale-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "468. Delamain Cognac",
+        "type": "Visites de distilleries",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d17513192-Reviews-Delamain_Cognac-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "469. Base Nautique de Verneuil",
+        "type": "Location de matériel • Stand up paddle\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g14901748-d14797144-Reviews-Base_Nautique_de_Verneuil-Verneuil_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "470. Monsieur Paul",
+        "type": "Visites de distilleries • Taxis & Navettes\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d21064157-Reviews-Monsieur_Paul-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "471. Charente Croisières La Reine Margot",
+        "type": "Excursions en bateau",
+        "votes": "9",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187204-d15759793-Reviews-Charente_Croisieres_La_Reine_Margot-Angouleme_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "472. Race Rally 4x4",
+        "type": "Excursions tout terrain, 4 × 4 & VTT",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1933140-d8016021-Reviews-Race_Rally_4x4-Montboyer_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "473. Club Canoë Kayak",
+        "type": "Kayak & Canoë",
+        "votes": "8",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425093-d12788617-Reviews-Club_Canoe_Kayak-Jarnac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "474. Planet Ski",
+        "type": "Ski nautique & Jet-ski",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2464794-d21311543-Reviews-Planet_Ski-Saint_Meme_les_Carrieres_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "475. Cognac Frapin",
+        "type": "Visites de distilleries • Visites historiques & découverte du patrimoine",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d23377940-Reviews-Cognac_Frapin-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "476. Charente Montgolfières",
+        "type": "Vols en montgolfière",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7377432-d10180869-Reviews-Charente_Montgolfieres-Blanzac_Porcheresse_Coteaux_du_Blanzacais_Charente_Nouve.html#REVIEWS"
+    },
+    {
+        "name": "477. MAZET TOURS",
+        "type": "Visites de la ville • Visites culturelles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "478. Qula Cognac",
+        "type": "Visites de la ville • Visites historiques & découverte du patrimoine",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187205-d24798003-Reviews-Qula_Cognac-Cognac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "479. Sébastien Saillard Coach Sportif",
+        "type": "Balades à vélo",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "480. Randonnée Fluvial",
+        "type": "Locations de bateaux",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6498627-d10794771-Reviews-Randonnee_Fluvial-Fleac_Charente_Nouvelle_Aquitaine.html#REVIEWS"
+    },
+    {
+        "name": "481. Les Bourdeaux",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "482. Trot'z Ride",
+        "type": "Visites historiques & découverte du patrimoine • Camping et randonnée",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "483. Escape Time Angoulême",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "484. Guyajeux",
+        "type": "Jeux de logique",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "485. Eglise Notre-dame Du Bouchage",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "486. Trop's Cbd",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "487. Coupe D'europe De Montgolfières - Nouvelle Aquitaine Airshow",
+        "type": "Manifestations sportives",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "488. Eglise Saint-Maixent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "489. Office de Tourisme du Rouillacais",
+        "type": "Offices de tourisme\nBelleville/Père Lachaise",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "490. CGR Angoulême",
+        "type": "Salles de cinéma",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "491. Trop's Cbd",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "492. Cognac Decroix",
+        "type": "Distilleries",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "493. Eglise Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "494. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "495. L'élégance Beauté",
+        "type": "Centres commerciaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "496. Haut fourneau de Puyravaud",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "497. Église Saint-Maixent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "498. Temple Protestant",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "499. Eglise Saint-laurent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "500. Cognac Couprie",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "501. Eglise Saint-Germain",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "502. Eglise de Luxe",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "503. XO madame",
+        "type": "Safaris • Taxis & Navettes\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "504. GRAPE EXPLORERS",
+        "type": "Visites bars, clubs & pubs • Visites de distilleries",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "505. Château du Janvray",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "506. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "507. Eglise Saint-cybard",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "508. Château de Montbron",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "509. #VR Angoulême",
+        "type": "Jeux de logique • Chasses au trésor",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "510. Eglise Saint Etienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "511. Eglise Saint-Séverin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "512. Eglise De L'ancien Prieuré Saint-Saturnin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "513. Eglise Sainte-madeleine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "514. Eglise Sainte-eulalie",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "515. Eglise Saint Germain",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "516. Eglise de Roullet-Saint-Estèphe",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "517. FRÉDÉRIC BOURGOIN",
+        "type": "Visites de distilleries",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "518. Église Saint-Cybard",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "519. Eglise Saint Etienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "520. Ballades Calèche Montbron",
+        "type": "Visites en carrioles tirées par des chevaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "521. Jardins du Logis de Forge",
+        "type": "Plans d'eau • Espaces naturels et sauvages",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "522. Eglise De Saint-mathieu",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "523. Eglise de Saint-Amant-de-Nouère",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "524. Domaine De Fontguyon",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "525. Vr E-motion",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "526. Eglise Saint-Médard",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "527. L'Abbaye Saint Etienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "528. Pure n'Spa",
+        "type": "Spas\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "529. Cyno Harmony",
+        "type": "Courses de chiens",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "530. Eglise Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "531. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "532. Lac de Puyravaud",
+        "type": "Plans d'eau",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "533. Eglise Sainte Anne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "534. Église de Notre-Dame-de-l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "535. Bloc Spot",
+        "type": "Parcours d'escalade\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "536. Taxi Grande Champagne",
+        "type": "Taxis & Navettes",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "537. Start Coffee",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "538. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    }
+]

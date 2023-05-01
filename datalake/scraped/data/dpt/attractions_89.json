@@ -1,0 +1,2732 @@
+[
+    {
+        "name": "1. Guédelon",
+        "type": "Châteaux\nOuvert",
+        "votes": "1 780",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4167664-d2275532-Reviews-Guedelon-Treigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "2. Basilique de Vézelay",
+        "type": "Bâtiments architecturaux • Sites religieux\nOuvert\nBillets d'entrée à partir de 15,00€",
+        "votes": "1 163",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d199024-Reviews-Basilique_de_Vezelay-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "3. Cathédrale Saint-Étienne",
+        "type": "Sites historiques • Sites religieux\nOuvert",
+        "votes": "378",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d311451-Reviews-Cathedrale_St_Etienne-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "4. Cathédrale Saint-Étienne",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "461",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d230765-Reviews-Cathedrale_Saint_Etienne-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "5. Château de Saint-Fargeau",
+        "type": "Châteaux",
+        "votes": "623",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d2239120-Reviews-Chateau_de_Saint_Fargeau-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "6. La Maison de Colette",
+        "type": "Sites historiques\nFermeture temporaire",
+        "votes": "141",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1944329-d10637431-Reviews-La_Maison_de_Colette-Saint_Sauveur_en_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "7. Vieille Ville",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "287",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d4587920-Reviews-Vieille_Ville-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "8. Grottes d'Arcy-sur-Cure",
+        "type": "Grottes & Cavernes\nFermeture temporaire",
+        "votes": "310",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1673721-d2208407-Reviews-Grottes_d_Arcy_sur_Cure-Arcy_sur_Cure_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "9. musee du costume Avallon",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "110",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d4243507-Reviews-Musee_du_costume_Avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "10. Château Ancy-le Franc",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "244",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1024735-d2229000-Reviews-Chateau_Ancy_le_Franc-Ancy_le_Franc_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "11. La Maison du Visiteur",
+        "type": "Musées spécialisés\nOuvert\nBillets d'entrée à partir de 15,00€",
+        "votes": "191",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d1423479-Reviews-La_Maison_du_Visiteur-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "12. La Ferme du Château",
+        "type": "Fermes",
+        "votes": "146",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d3140910-Reviews-La_Ferme_du_Chateau-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "13. Château de Chastellux",
+        "type": "Châteaux",
+        "votes": "174",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g19421570-d3354116-Reviews-Chateau_de_Chastellux-Chastellux_sur_Cure_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "14. Les Caves Bailly Lapierre",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "287",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d4602550-Reviews-Les_Caves_Bailly_Lapierre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "15. La Fosse Dionne",
+        "type": "Sites historiques",
+        "votes": "255",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d2627724-Reviews-La_Fosse_Dionne-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "16. William Fevre Grands Vins De Chablis",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "91",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d1946506-Reviews-William_Fevre_Grands_Vins_De_Chablis-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "17. Musee Zervos",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "113",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d2310800-Reviews-Musee_Zervos-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "18. Le Parc du Moulin à Tan",
+        "type": "Jardins\nOuvert",
+        "votes": "145",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d8536912-Reviews-Le_Parc_du_Moulin_a_Tan-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "19. Château de Tanlay",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "130",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4737532-d199906-Reviews-Chateau_de_Tanlay-Tanlay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "20. Domaine Céline & Frédéric Gueguen",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "83",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d4002018-Reviews-Domaine_Celine_Frederic_Gueguen-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "21. Village Medievale",
+        "type": "Sites historiques • Sentiers historiques",
+        "votes": "197",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d10225717-Reviews-Village_Medievale-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "22. Abbaye Saint-Germain",
+        "type": "Églises et cathédrales",
+        "votes": "227",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d2693775-Reviews-Abbaye_Saint_Germain-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "23. Domaine PL & JF Bersan",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "60",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d4063360-Reviews-Domaine_PL_JF_Bersan-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "24. Musées de Sens",
+        "type": "Musées d'art • Musées d'histoire",
+        "votes": "91",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d8004417-Reviews-Musees_de_Sens-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "25. Tour de l'horloge",
+        "type": "Monuments & Points d'intérêt • Tours et plateformes d'observation",
+        "votes": "178",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d7084072-Reviews-The_Clock_Tower-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "26. La Pyramide du Loup",
+        "type": "Musées spécialisés • Musées pour enfants\nFermeture temporaire",
+        "votes": "60",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4226723-d14156585-Reviews-La_Pyramide_du_Loup-Toucy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "27. Château de Ratilly",
+        "type": "Châteaux",
+        "votes": "89",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4167664-d6561807-Reviews-Chateau_de_Ratilly-Treigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "28. Circuit Nevers Magny-Cours",
+        "type": "Circuits de courses automobiles",
+        "votes": "107",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g815589-d801286-Reviews-Circuit_Nevers_Magny_Cours-Magny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "29. La Fabuloserie",
+        "type": "Musées spécialisés",
+        "votes": "58",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7023832-d4723931-Reviews-La_Fabuloserie-Dicy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "30. Abbaye de Pontigny",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "147",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d3827142-Reviews-Abbaye_de_Pontigny-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "31. La Chablisienne",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "106",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d10493585-Reviews-La_Chablisienne-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "32. Site Archéologhique Les Fontaines Salées",
+        "type": "Monuments & Points d'intérêt\nFermeture temporaire",
+        "votes": "59",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7813502-d6989424-Reviews-Archeological_site_Les_Fontaines_Salees-Saint_Pere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "33. Domaine Jean-Marc Brocard",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "59",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3689091-d3233244-Reviews-Domaine_Jean_Marc_Brocard-Prehy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "34. Le Marché couvert",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "50",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617463-Reviews-Le_Marche_couvert-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "35. Cardo Land",
+        "type": "Musées spécialisés",
+        "votes": "120",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4877445-d6699458-Reviews-Cardo_Land-Chamoux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "36. Musée de l'Aventure du Son",
+        "type": "Musées spécialisés",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d4800832-Reviews-Musee_de_l_Aventure_du_Son-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "37. Château de Maulnes",
+        "type": "Châteaux",
+        "votes": "60",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1203033-d4545364-Reviews-Chateau_de_Maulnes-Cruzy_le_Chatel_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "38. Château Long-Depaquit Grands vins de Chablis",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "49",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d3291362-Reviews-Chateau_Long_Depaquit-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "39. Eglise Saint Lazare",
+        "type": "Églises et cathédrales",
+        "votes": "66",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d10447601-Reviews-Eglise_Saint_Lazare-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "40. La Forêt des Géant Vert",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4975957-d13086671-Reviews-La_Foret_des_Geant_Vert-Argentenay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "41. Rochers du Saussois",
+        "type": "Formations géologiques",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661272-d2512666-Reviews-Rochers_du_Saussois-Merry_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "42. Collégiale Notre-Dame de Montréal",
+        "type": "Églises et cathédrales",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202981-d10190688-Reviews-Collegiate_Church_of_Notre_Dame_in_Montreal-Montreal_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "43. Église Notre-Dame de Saint-Père",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7813502-d8539972-Reviews-Eglise_Notre_Dame_de_Saint_Pere-Saint_Pere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "44. La Carrière d'Aubigny",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "52",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3463387-d7001836-Reviews-La_Carriere_d_Aubigny-Taingy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "45. Domaine Clotilde Davenne",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "28",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3689091-d7250930-Reviews-Domaine_Clotilde_Davenne-Prehy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "46. Abbaye de Vauluisant",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "55",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7116396-d6861392-Reviews-Abbaye_de_Vauluisant-Courgenay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "47. Statue de Cadet Rousselle",
+        "type": "Monuments et statues",
+        "votes": "72",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d10383650-Reviews-Cadet_Rousselle_Statue-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "48. Marché Couvert d'Avallon",
+        "type": "Marchés aux puces & Marchés de rue • Marchés fermiers",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d9731599-Reviews-Marche_Couvert_d_Avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "49. Office de Tourisme de l'Auxerrois",
+        "type": "Offices de tourisme",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617360-Reviews-Office_de_Tourisme_de_l_Auxerrois-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "50. Hôtel-Dieu de Tonnerre",
+        "type": "Musées d'histoire",
+        "votes": "38",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d10294869-Reviews-Hotel_Dieu_de_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "51. La Cave du Connaisseur",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "14",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d11726981-Reviews-La_Cave_du_Connaisseur-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "52. Parc des Îles",
+        "type": "Espaces naturels et sauvages • Parcs",
+        "votes": "8",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1385462-d12841988-Reviews-Parc_des_Iles-Vermenton_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "53. Abbaye Sainte-Marie de la Pierre-qui-Vire",
+        "type": "Églises et cathédrales",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6873733-d10312947-Reviews-Abbaye_Sainte_Marie_de_la_Pierre_qui_Vire-Saint_Leger_Vauban_Yonne_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "54. Domaine La Croix Montjoie",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3954491-d3950186-Reviews-Domaine_La_Croix_Montjoie-Tharoiseau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "55. Les Sept Écluses",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "43",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1582593-d10716090-Reviews-Les_Sept_Ecluses-Rogny_les_Sept_Ecluses_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "56. Moulin de Vanneau",
+        "type": "Ranchs",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4409668-d10815497-Reviews-Moulin_de_Vanneau-Saints_en_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "57. Musée Colette",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "65",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1944329-d4267875-Reviews-Musee_Colette-Saint_Sauveur_en_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "58. Office de Tourisme de Sens et du Sénonais",
+        "type": "Offices de tourisme",
+        "votes": "45",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d5851353-Reviews-Office_de_Tourisme_de_Sens_et_du_Senonais-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "59. Parc de l'Arbre sec",
+        "type": "Parcs",
+        "votes": "18",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617375-Reviews-Parc_de_l_Arbre_sec-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "60. Musée de l'Automobile du Chateau de Montjalin",
+        "type": "Musées spécialisés • Musées pour enfants\nOuvert",
+        "votes": "88",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661716-d7181267-Reviews-Musee_de_l_Automobile_du_Chateau_de_Montjalin-Sauvigny_le_Bois_Yonne_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "61. Église Saint-Eusèbe",
+        "type": "Églises et cathédrales",
+        "votes": "41",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d4749796-Reviews-Eglise_Saint_Eusebe-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "62. Palais Synodal",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d311452-Reviews-Palais_Synodal-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "63. Musee Saint-Germain",
+        "type": "Musées d'art • Musées d'histoire",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d10642324-Reviews-Musee_Saint_Germain-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "64. Parc Naturel de Boutissaint",
+        "type": "Espaces naturels et sauvages",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4167664-d3378530-Reviews-Parc_Naturel_de_Boutissaint-Treigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "65. Centre Pour Les Arts la Porte Peinte",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d7202892-Reviews-Centre_Pour_Les_Arts_la_Porte_Peinte-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "66. Domaine Laroche",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d10980839-Reviews-Domaine_Laroche-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "67. la maison Jules-Roy",
+        "type": "Musées spécialisés",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d4102982-Reviews-La_maison_Jules_Roy-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "68. Theatre de Sens",
+        "type": "Musées spécialisés",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d4058006-Reviews-Theatre_de_Sens-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "69. La Métairie Bruyère",
+        "type": "Galeries d'art • Musées d'art",
+        "votes": "9",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g17696335-d17694992-Reviews-La_Metairie_Bruyere-Parly_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "70. Puisaye Tourisme",
+        "type": "Offices de tourisme",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d8330290-Reviews-Puisaye_Tourisme-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "71. Château de Noyers-sur-Serein",
+        "type": "Ruines anciennes • Monuments & Points d'intérêt",
+        "votes": "37",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d8519845-Reviews-Chateau_de_Noyers_sur_Serein-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "72. Parc De L'Orval",
+        "type": "Parcs",
+        "votes": "23",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6749570-d6728770-Reviews-Parc_De_L_Orval-Villethierry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "73. Office de Tourisme du Grand Vézelay, bureau de Noyers",
+        "type": "Offices de tourisme",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d14039682-Reviews-Office_de_Tourisme_du_Grand_Vezelay_bureau_de_Noyers-Noyers_sur_Serein_Yonne_Bou.html#REVIEWS"
+    },
+    {
+        "name": "74. Eglise Saint-Germain",
+        "type": "Églises et cathédrales",
+        "votes": "24",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8131473-d8124762-Reviews-Eglise_Saint_Germain-La_Ferte_Loupiere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "75. Marché Bourguignon",
+        "type": "Marchés aux puces & Marchés de rue • Marchés fermiers",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d14087711-Reviews-Marche_Bourguignon-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "76. Vignoble Dampt Freres",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4232129-d8336117-Reviews-Vignoble_Dampt_Freres-Collan_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "77. Maison d'Abraham",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617445-Reviews-Maison_d_Abraham-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "78. Musee du Chevalier d'Eon",
+        "type": "Musées militaires • Musées spécialisés",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d8488226-Reviews-Musee_du_Chevalier_d_Eon-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "79. Musée de l'Avallonnais",
+        "type": "Musées spécialisés",
+        "votes": "22",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d3354266-Reviews-Musee_de_l_Avallonnais-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "80. Hôtel de ville",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617472-Reviews-Hotel_de_ville-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "81. Château de Druyes les Belles Fontaines",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "29",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1902858-d8571401-Reviews-Chateau_de_Druyes_les_Belles_Fontaines-Druyes_les_Belles_Fontaines_Yonne_Bourgog.html#REVIEWS"
+    },
+    {
+        "name": "82. Château de Nuits",
+        "type": "Châteaux",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12456367-d12423196-Reviews-Chateau_de_Nuits-Nuits_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "83. Musée de la vigne et du tire-bouchon",
+        "type": "Musées spécialisés • Domaines viticoles & Vignobles",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d8332800-Reviews-Musee_de_la_vigne_et_du_tire_bouchon-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "84. Eglise Saint Pierre",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "29",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d10384871-Reviews-Eglise_Saint_Pierre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "85. Domaine Alain Geoffroy",
+        "type": "Musées spécialisés • Domaines viticoles & Vignobles\nOuvert",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7739755-d7714478-Reviews-Domaine_Alain_Geoffroy-Beine_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "86. Domaine Fourrey",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d7809092-Reviews-Domaine_Fourrey-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "87. Yazmhil Et Brice Corman, Maroquiniers Createurs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "78",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d8043217-Reviews-Yazmhil_Et_Brice_Corman_Maroquiniers_Createurs-Noyers_sur_Serein_Yonne_Bourgogne_.html#REVIEWS"
+    },
+    {
+        "name": "88. Vézelay Abbey",
+        "type": "Églises et cathédrales",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2559187-d10860212-Reviews-Vezelay_Abbey-Fontenay_pres_Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "89. Église Saint-Florentin de Saint",
+        "type": "Églises et cathédrales",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d12667519-Reviews-Eglise_Saint_Florentin_de_Saint-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "90. Bureau d'Information Touristique",
+        "type": "Offices de tourisme\nFermeture temporaire",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d7059821-Reviews-Office_de_Tourisme-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "91. Office de Tourisme du Grand Vezelay, bureau d'Avallon",
+        "type": "Offices de tourisme",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d15076190-Reviews-Office_de_Tourisme_du_Grand_Vezelay_bureau_d_Avallon-Avallon_Yonne_Bourgogne_Fra.html#REVIEWS"
+    },
+    {
+        "name": "92. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12559423-d12546928-Reviews-Eglise_Saint_Pierre-Moutiers_en_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "93. Le marché de l'Arquebuse",
+        "type": "Marchés fermiers",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d9763529-Reviews-Le_marche_de_l_Arquebuse-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "94. Office du Tourisme de Puisaye-Forterre",
+        "type": "Offices de tourisme",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1582593-d7268998-Reviews-Office_du_Tourisme_de_Puisaye_Forterre-Rogny_les_Sept_Ecluses_Yonne_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "95. Office de Tourisme du Grand Vézelay, bureau de Vézelay",
+        "type": "Offices de tourisme",
+        "votes": "23",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d14122468-Reviews-Office_de_Tourisme_du_Grand_Vezelay_bureau_de_Vezelay-Vezelay_Yonne_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "96. Domaine Borgnat",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079408-d15014128-Reviews-Domaine_Borgnat-Escolives_Sainte_Camille_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "97. Pisciculture du Tholon",
+        "type": "Plans d'eau",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6685765-d6684385-Reviews-Pisciculture_du_Tholon-Chamvres_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "98. La Cite de la Voix",
+        "type": "Théâtres",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d9709845-Reviews-La_Cite_de_la_Voix-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "99. Portes de Sens et de Joigny",
+        "type": "Sites historiques",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d13546302-Reviews-Portes_de_Sens_et_de_Joigny-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "100. Musée des Arts Populaires",
+        "type": "Musées spécialisés",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7321634-d7321070-Reviews-Musee_des_Arts_Populaires-Laduz_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "101. Vignerons de la Colline Eternelle",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7813502-d12243530-Reviews-Vignerons_de_la_Colline_Eternelle-Saint_Pere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "102. Domaine De La Meulière - Chablis La Meulière",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15420956-d24066736-Reviews-Domaine_De_La_Meuliere_Chablis_La_Meuliere-Fleys_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "103. Utopia",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4450141-d23149924-Reviews-Utopia-Bussy_en_Othe_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "104. La Tour De L'horloge",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d21336095-Reviews-La_Tour_De_L_horloge-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "105. Eglise Saint Jean",
+        "type": "Églises et cathédrales",
+        "votes": "16",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d12593452-Reviews-Eglise_Saint_Jean-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "106. Domaine Pinson",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d7807292-Reviews-Domaine_Pinson-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "107. Office de Tourisme du Pays Chablisien",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d14087697-Reviews-Office_de_Tourisme_du_Pays_Chablisien-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "108. Musée des Arts Naïfs et Populaires",
+        "type": "Galeries d'art • Musées d'art",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d10477475-Reviews-Museum_of_naive_and_popular_art-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "109. Musée d'Histoire Naturelle",
+        "type": "Musées d'histoire naturelle",
+        "votes": "13",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d7745365-Reviews-Musee_d_Histoire_Naturelle-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "110. Domaine Servin Vineyards & Winery",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d11769266-Reviews-Domaine_Servin_Vineyards_Winery-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "111. Arboretum Darnus-Rantheaume",
+        "type": "Jardins",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617387-Reviews-Arboretum_Darnus_Rantheaume-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "112. Domaine Daniel Seguinot",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6973086-d6964208-Reviews-Domaine_Daniel_Seguinot-Maligny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "113. Collegiale St Martin",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d17581500-Reviews-Collegiale_St_Martin-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "114. La Goulotte - Association \"Fondation Christian et Yvonne Zervos\"",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d12251968-Reviews-La_Goulotte_Association_Fondation_Christian_et_Yvonne_Zervos-Vezelay_Yonne_Bourg.html#REVIEWS"
+    },
+    {
+        "name": "115. Église Saint-Pierre de Tonnerre",
+        "type": "Églises et cathédrales",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d14095859-Reviews-Eglise_Saint_Pierre_de_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "116. Office de Tourisme Portes de Puisaye-Forterre",
+        "type": "Offices de tourisme",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1944329-d10628380-Reviews-Office_de_Tourisme_de_Puisaye_Forterre_Accueil_de_Saint_Sauveur_en_Puisaye-Sain.html#REVIEWS"
+    },
+    {
+        "name": "117. Salle Eckmühl",
+        "type": "Musées spécialisés",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617345-Reviews-Salle_Eckmuhl-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "118. Musée Leblanc-Duvernoy",
+        "type": "Musées spécialisés",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617334-Reviews-Musee_Leblanc_Duvernoy-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "119. Domaine Pascal Henry",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3326154-d4597027-Reviews-Domaine_Pascal_Henry-Saint_Cyr_les_Colons_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "120. Domaine Guilhem et Jean-Hugues Goisot",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d7854979-Reviews-Domaine_Guilhem_et_Jean_Hugues_Goisot-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "121. Synagogue de Chablis",
+        "type": "Sites historiques • Sites religieux",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d10219800-Reviews-Synagogue_de_Chablis-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "122. Musée du Son Saint Fargeau",
+        "type": "Musées spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d12829976-Reviews-Musee_du_Son_Saint_Fargeau-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "123. Galerie Toison d'Or",
+        "type": "Galeries d'art",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d16850983-Reviews-Galerie_Toison_d_Or-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "124. Les Ânes D'héléna - VEZELAY",
+        "type": "Chemins de randonnées",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4877445-d23581946-Reviews-Les_Anes_D_helena-Chamoux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "125. Prieuré des Sources",
+        "type": "Spas",
+        "votes": "30",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1673721-d3199877-Reviews-Prieure_des_Sources-Arcy_sur_Cure_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "126. Musée Vinéa Passion",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d23602082-Reviews-Musee_Vinea_Passion-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "127. Porte de Noël",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d10686550-Reviews-Porte_de_Noel-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "128. Statue de Vauban",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d21336298-Reviews-Statue_de_Vauban-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "129. Le Vieux Pont",
+        "type": "Ponts • Sentiers panoramiques",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6475439-d7915627-Reviews-Le_Vieux_Pont-Mezilles_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "130. Auxerrexpo",
+        "type": "Centres de conventions",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617342-Reviews-Auxerrexpo-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "131. Lazare - Galerie de Campagne",
+        "type": "Galeries d'art",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d10447071-Reviews-Lazare_Galerie_de_Campagne-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "132. Eglise Notre-Dame de Tonnere",
+        "type": "Sites religieux",
+        "votes": "8",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d14096089-Reviews-Eglise_Notre_Dame_de_Tonnere-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "133. Tribunal de Grande Instance d'Auxerre",
+        "type": "Bâtiments architecturaux • Bâtiments gouvernementaux",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617479-Reviews-Tribunal_de_Grande_Instance_d_Auxerre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "134. Remparts et poterne Garnier des Prés",
+        "type": "Sites historiques",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617477-Reviews-Remparts_et_Poterne_Garnier_des_Pres-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "135. Église Saint-Pierre",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4226723-d12140703-Reviews-Eglise_Saint_Pierre_de_Toucy-Toucy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "136. Musée d'Art et d'Histoire de Puisaye",
+        "type": "Musées d'art",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8838476-d8831106-Reviews-Musee_d_Art_et_d_Histoire_de_Puisaye-Villiers_Saint_Benoit_Yonne_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "137. Musee du Moule a Chocolat",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4765305-d8601752-Reviews-Musee_du_Moule_a_Chocolat-Villiers_sur_Tholon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "138. Musée de l'Œuvre Viollet-le-Duc",
+        "type": "Musées d'histoire",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187114-d23647730-Reviews-Musee_de_l_OEuvre_Viollet_le_Duc-Vezelay_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "139. Château de Faulin",
+        "type": "Châteaux",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12873380-d12832169-Reviews-Chateau_de_Faulin-Licheres_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "140. Office de Tourisme de Puisaye-Forterre",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "11",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4226723-d4725892-Reviews-Office_de_Tourisme_de_Puisaye_Forterre-Toucy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "141. Francine et Olivier Savary",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6973086-d14945556-Reviews-Francine_et_Olivier_Savary-Maligny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "142. Eglise Saint André",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d19275263-Reviews-Eglise_Saint_Andre-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "143. Square Leblanc-Duvernoy",
+        "type": "Jardins",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617410-Reviews-Square_Leblanc_Duvernoy-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "144. Domaine Verret",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d17326397-Reviews-Domaine_Verret-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "145. Le Ferrier Antique",
+        "type": "Sentiers historiques",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661761-d12547067-Reviews-Le_Ferrier_Antique-Tannerre_en_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "146. Domaine Vrignaud",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d12551140-Reviews-Domaine_Vrignaud-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "147. Office de Tourisme de Treigny Perreuse",
+        "type": "Offices de tourisme",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4167664-d12860116-Reviews-Office_de_Tourisme_de_Treigny_Perreuse-Treigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "148. Le Beffroi de Saint-Fargeau",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d18380086-Reviews-Le_Beffroi_de_Saint_Fargeau-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "149. Centre Nautique Pierre Toinot",
+        "type": "Complexes sportifs",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617485-Reviews-Centre_Nautique_Pierre_Toinot-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "150. Jardin du Muséum",
+        "type": "Jardins",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617398-Reviews-Jardin_du_Museum-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "151. Spectacle Historique - Château de Saint Fargeau",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "26",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202014-d2233007-Reviews-Castle_of_Saint_Fargeau_History_Show-Charny_Charny_Oree_de_Puisaye_Yonne_Bourgog.html#REVIEWS"
+    },
+    {
+        "name": "152. Eglise Saint-Marien de Mézilles",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6475439-d7902713-Reviews-Eglise_Saint_Marien_de_Mezilles-Mezilles_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "153. Donjon De Cravant",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1537474-d21343336-Reviews-Donjon_De_Cravant-Cravant_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "154. Eglise Notre-Dame",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g315787-d8492806-Reviews-Eglise_Notre_Dame-Villeneuve_l_Archeveque_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "155. La Maison des Papillons",
+        "type": "Musées d'histoire naturelle",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d8036477-Reviews-La_Maison_des_Papillons-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "156. Eglise de la Ferté- Loupière",
+        "type": "Galeries d'art • Musées spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8131473-d18999005-Reviews-Eglise_de_la_Ferte_Loupiere-La_Ferte_Loupiere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "157. Domaine Château de Fleys",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15420956-d15364824-Reviews-Domaine_du_Chateau_de_Fleys-Fleys_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "158. Musée Galerie Carnot",
+        "type": "Musées d'art",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d21095489-Reviews-Musee_Galerie_Carnot-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "159. Porte D'avallon À Noyers-sur-serein",
+        "type": "Monuments et statues",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d24001199-Reviews-Porte_D_avallon_A_Noyers_sur_serein-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "160. Factory Antique Mall",
+        "type": "Antiquaires • Magasins d'usines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4007453-d6485233-Reviews-Factory_Antique_Mall-Veron_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "161. Le Chemin des Arts",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g17181364-d12515123-Reviews-Le_Chemin_des_Arts-Le_Val_d_Ocre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "162. Vins d'Ici ou d'Ailleurs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "105",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d5855163-Reviews-Vins_d_Ici_ou_d_Ailleurs-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "163. Hôtel d'Uzès",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d14096143-Reviews-Hotel_d_Uzes-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "164. Domaine du Chardonnay",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d10121304-Reviews-Domaine_du_Chardonnay-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "165. L'enquêt'Heure Escape Game",
+        "type": "Jeux de logique",
+        "votes": "39",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d16696944-Reviews-L_Enquet_Heure_Escape_Game_Auxerre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "166. Chablis Vititours",
+        "type": "Circuits privés • Oenotourisme\nOuvert",
+        "votes": "239",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d2178749-Reviews-Chablis_Vititours-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "167. Eglise Notre-Dame de l'Assomption",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d18344236-Reviews-Eglise_Notre_Dame_de_l_Assomption-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "168. Domaine Collet",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d17613871-Reviews-Domaine_Collet-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "169. Jardin Cher Paul-Bert",
+        "type": "Jardins",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617405-Reviews-Jardin_Cher_Paul_Bert-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "170. 60' Inside Escape Game Auxerre",
+        "type": "Jeux de logique",
+        "votes": "49",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d15797649-Reviews-60_Inside_Escape_Game_Auxerre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "171. AJA - Stade Abbé Deschamps",
+        "type": "Arènes & Stades",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d20817131-Reviews-AJA_Stade_Abbe_Deschamps-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "172. Domaine Madelin-Petit",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d7277446-Reviews-Domaine_Madelin_Petit-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "173. Piscine Municipale",
+        "type": "Complexes sportifs",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d12670418-Reviews-Piscine_Municipale-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "174. Musée du Florentinois",
+        "type": "Musées d'histoire",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d18543261-Reviews-Musee_du_Florentinois-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "175. L'île du Moulin du Président",
+        "type": "Parcs",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617370-Reviews-L_ile_du_Moulin_du_President-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "176. Marché couvert à Tonnerre",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d20405270-Reviews-Marche_couvert_a_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "177. Galeries Joelle Kem Lika",
+        "type": "Galeries d'art",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8469538-d8469286-Reviews-Galeries_Joelle_Kem_Lika-Sainte_Vertu_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "178. La Ferme d'Ulteria",
+        "type": "Fermes\nOuvert",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d21142417-Reviews-La_Ferme_d_Ulteria-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "179. Eglise Saint-Fiacre",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d19275180-Reviews-Eglise_Saint_Fiacre-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "180. Eglise Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1944329-d12358062-Reviews-Eglise_Saint_Jean_Baptiste-Saint_Sauveur_en_Puisaye_Yonne_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "181. Musée de la Pomme et du Cidre",
+        "type": "Musées spécialisés",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8505978-d8493023-Reviews-Musee_de_la_Pomme_et_du_Cidre-Vaudeurs_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "182. L'ours Vers Saint-pierre À Tonnerre",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174918-Reviews-L_ours_Vers_Saint_pierre_A_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "183. Parc de la Liberté",
+        "type": "Parcs",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d14087720-Reviews-Parc_de_la_Liberte-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "184. Les Remparts \"est\" D'avallon",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158909-Reviews-Les_Remparts_est_D_avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "185. ParisJump",
+        "type": "Parachutisme",
+        "votes": "202",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d4452579-Reviews-ParisJump-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "186. Eglise Notre Dame",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d20379564-Reviews-Eglise_Notre_Dame-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "187. Christine & Patrick Bouquinistes Et Brocante",
+        "type": "Antiquaires",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1944329-d24036921-Reviews-Christine_Patrick_Bouquinistes_Et_Brocante-Saint_Sauveur_en_Puisaye_Yonne_Bourg.html#REVIEWS"
+    },
+    {
+        "name": "188. Domaine des Remparts",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4063893-d14139524-Reviews-Domaine_des_Remparts-Saint_Bris_le_Vineux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "189. Quarré de Chocolat",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "68",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g970106-d8532017-Reviews-Quarre_de_Chocolat-Quarre_les_Tombes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "190. Marché Couvert",
+        "type": "Marchés fermiers",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184811-Reviews-Marche_Couvert-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "191. La Vaugermaine",
+        "type": "Brasseries",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3326154-d24145058-Reviews-La_Vaugermaine-Saint_Cyr_les_Colons_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "192. Médiathèque J.C. Rufin",
+        "type": "Bibliothèques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d12617428-Reviews-Mediatheque_J_C_Rufin-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "193. Statue De Paul Bert",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d23567589-Reviews-Statue_De_Paul_Bert-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "194. Maison Regnard",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d23514202-Reviews-Maison_Regnard-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "195. Domaine de Fontaine",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7813502-d8383510-Reviews-Domaine_de_Fontaine-Saint_Pere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "196. Domaine Vocoret et Fils",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d19275176-Reviews-Domaine_Vocoret_et_Fils-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "197. Le Stade Nautique",
+        "type": "Complexes sportifs",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617324-Reviews-Le_Stade_Nautique-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "198. Église Notre-dame-de-la-nativité",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1178580-d21334743-Reviews-Eglise_Notre_dame_de_la_nativite-Pontaubert_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "199. Domaine David Duband",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "200. Jardin Marguerite De Bourgogne",
+        "type": "Jardins",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174928-Reviews-Jardin_Marguerite_De_Bourgogne-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "201. Domaine Dupont",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7813502-d12949717-Reviews-Domaine_Dupont-Saint_Pere_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "202. Le Silex",
+        "type": "Théâtres",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d20819787-Reviews-Le_Silex-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "203. Domaine Griffe Joel et David",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g17551224-d17548621-Reviews-Domaine_Griffe_Joel_et_David-Chitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "204. Cimetière Saint-pierre De Tonnerre",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174923-Reviews-Cimetiere_Saint_pierre_De_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "205. Statue De Nicolas Retif De La Bretonne",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d23567583-Reviews-Statue_De_Nicolas_Retif_De_La_Bretonne-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "206. La Chapelle des Visitandines",
+        "type": "Musées d'histoire",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d12617333-Reviews-La_Chapelle_des_Visitandines-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "207. La Fontaine Cérès Ou L'été",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158887-Reviews-La_Fontaine_Ceres_Ou_L_ete-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "208. Verrerie d'Art",
+        "type": "Galeries d'art",
+        "votes": "4",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d3428614-Reviews-Verrerie_d_Art-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "209. Eglise Saint Germain - Saint Vincent",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8506826-d8497809-Reviews-Eglise_Saint_Germain_Saint_Vincent-Bagneaux_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "210. Maison de L'andouillette Michel Soulie",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d6987813-Reviews-Maison_de_L_andouillette_Michel_Soulie-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "211. Maison Du Bailli",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184821-Reviews-Maison_Du_Bailli-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "212. Domaine Marsoif",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g19429549-d11907241-Reviews-Domaine_Marsoif-Serrigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "213. Le Prieure de Vausse",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g18717727-d18716948-Reviews-Le_Prieure_de_Vausse-Chatel_Gerard_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "214. Musée De La Gendarmerie",
+        "type": "Musées militaires",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224709-Reviews-Musee_De_La_Gendarmerie-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "215. Sculpture « Le chevalier d'Eon »",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174926-Reviews-Sculpture_Le_chevalier_d_Eon-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "216. Port de Plaisance de Saint Florentin",
+        "type": "Marinas",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25166816-Reviews-Port_de_Plaisance_de_Saint_Florentin-Saint_Florentin_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "217. Borne Fontaine D'aubrives Et Villerupt",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158884-Reviews-Borne_Fontaine_D_aubrives_Et_Villerupt-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "218. Centre de Recherche et d'Etude du Patrimoine",
+        "type": "Bibliothèques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "219. Cimetière De Joigny",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184878-Reviews-Cimetiere_De_Joigny-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "220. Les Vitraux De L'église Saint Florentin",
+        "type": "Sites religieux",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165822-Reviews-Les_Vitraux_De_L_eglise_Saint_Florentin-Saint_Florentin_Yonne_Bourgogne_Franche.html#REVIEWS"
+    },
+    {
+        "name": "221. Site De L'écluse 108 Du Versant Yonne",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165687-Reviews-Site_De_L_ecluse_108_Du_Versant_Yonne-Saint_Florentin_Yonne_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "222. Piscine Tournesol",
+        "type": "Complexes sportifs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "223. Espace Mouv'art",
+        "type": "Galeries d'art",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "224. Couvent des Ursulines à Tonnerre",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d20405263-Reviews-Couvent_des_Ursulines_a_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "225. Le Chemin Bleu",
+        "type": "Espaces naturels et sauvages",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158865-Reviews-Le_Chemin_Bleu-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "226. Bank Gallery Projects",
+        "type": "Galeries d'art",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "227. Musée Jean-Cousin",
+        "type": "Musées spécialisés • Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "228. Église Saint-jacques-le-majeur",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2260876-d21342010-Reviews-Eglise_Saint_jacques_le_majeur-Asquins_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "229. Tombeau Sculpté D'une Comtesse De Joigny",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25181853-Reviews-Tombeau_Sculpte_D_une_Comtesse_De_Joigny-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "230. L'ancien Lavoir Et Son Bassin À Vassy",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12963665-d25160782-Reviews-L_ancien_Lavoir_Et_Son_Bassin_A_Vassy-Etaule_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "231. La Porte de Tonnerre",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g670902-d24002175-Reviews-La_Porte_de_Tonnerre-Noyers_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "232. Confiserie à Tonnerre",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d20405262-Reviews-Confiserie_a_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "233. Église Saint-Germain-d'Auxerre",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1315169-d21160716-Reviews-Eglise_Saint_Germain_d_Auxerre-Vault_de_Lugny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "234. e-bike winetours",
+        "type": "Oenotourisme\nOuvert",
+        "votes": "160",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d8595728-Reviews-E_bike_Winetours-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "235. Cimetière de Villeneuve-sur-Yonne",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224689-Reviews-Cimetiere_de_Villeneuve_sur_Yonne-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "236. La Galerie - Fontaines des Clairions",
+        "type": "Centres commerciaux",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d20821593-Reviews-La_Galerie_Fontaines_des_Clairions-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "237. Le Lavoir Du Xixe Siècle",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d25195673-Reviews-Le_Lavoir_Du_Xixe_Siecle-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "238. Tombeau De Sainte-magnance (12e Siècle)",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6028312-d25195889-Reviews-Tombeau_De_Sainte_magnance_12e_Siecle-Sainte_Magnance_Yonne_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "239. Le Puits De La Fontaine À Joux La Ville",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25186373-Reviews-Le_Puits_De_La_Fontaine_A_Joux_La_Ville-Joux_la_Ville_Yonne_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "240. L'église Saint Thibault",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25185406-Reviews-L_eglise_Saint_Thibault-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "241. Les Verrières De L'église Saint-andré",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25181959-Reviews-Les_Verrieres_De_L_eglise_Saint_andre-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "242. Office de Tourisme Serein et Armance",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25166822-Reviews-Office_de_Tourisme_Serein_et_Armance-Saint_Florentin_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "243. Lavoir De La Roche À Dissangis",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d25161221-Reviews-Lavoir_De_La_Roche_A_Dissangis-L_Isle_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "244. Les Remparts Et La Tour De La Guimbarde",
+        "type": "Ruines anciennes",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184873-Reviews-Les_Remparts_Et_La_Tour_De_La_Guimbarde-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "245. Le Lavoir Du Nord",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217095-Reviews-Le_Lavoir_Du_Nord-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "246. Eglise Notre Dame De Joux-la-ville",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25186358-Reviews-Eglise_Notre_Dame_De_Joux_la_ville-Joux_la_Ville_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "247. Lavoir De 1840 De Joux-la-ville",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25186372-Reviews-Lavoir_De_1840_De_Joux_la_ville-Joux_la_Ville_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "248. Le Poids Public De Brion",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180425-Reviews-Le_Poids_Public_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "249. Chapelle Saint-jeanne D'arc",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g815589-d23651574-Reviews-Chapelle_Saint_jeanne_D_arc-Magny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "250. Église Notre-dame De Vermenton",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1385462-d21342268-Reviews-Eglise_Notre_dame_De_Vermenton-Vermenton_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "251. Grenier À Sel",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158877-Reviews-Grenier_A_Sel-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "252. Fresque La Moisson",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202014-d17165440-Reviews-Fresque_La_Moisson-Charny_Charny_Oree_de_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "253. La Ruche Gourmande",
+        "type": "Dîners spectacles • Cabarets",
+        "votes": "28",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1385464-d12232748-Reviews-La_Ruche_Gourmande-Perreux_Charny_Oree_de_Puisaye_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "254. Le Vin Tout Simplement",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "255. Fontaine Sur La Place De L'église",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d23997664-Reviews-Fontaine_Sur_La_Place_De_L_eglise-L_Isle_sur_Serein_Yonne_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "256. Domaine de l'Erable",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "257. Domaine du Clos du Roi",
+        "type": "Bars à vins\nOuvert",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2189428-d12562027-Reviews-Domaine_du_Clos_du_Roi-Coulanges_la_Vineuse_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "258. La Tour Bonneville",
+        "type": "Tours et plateformes d'observation",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224692-Reviews-La_Tour_Bonneville-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "259. Pont Sur Le Cousin",
+        "type": "Ponts",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158916-Reviews-Pont_Sur_Le_Cousin-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "260. Monument Aux Morts de Pontaubert",
+        "type": "Monuments & Points d'intérêt • Monuments et statues\nOuvert",
+        "votes": "3",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1178580-d14032146-Reviews-Monument_Aux_Morts-Pontaubert_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "261. Le Lavoir Du Cuchot",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217108-Reviews-Le_Lavoir_Du_Cuchot-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "262. Tombeau De Saint Edme",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d25195717-Reviews-Tombeau_De_Saint_Edme-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "263. Monument Aux Morts De Brion",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180353-Reviews-Monument_Aux_Morts_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "264. Le Monument Aux Morts De Brienon-sur-Armançon",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173910-Reviews-Le_Monument_Aux_Morts_De_Brienon_sur_Armancon-Brienon_sur_Armancon_Yonne_Bourgo.html#REVIEWS"
+    },
+    {
+        "name": "265. Le Grand Lavoir",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173505-Reviews-Le_Grand_Lavoir-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "266. Eglise Saint-Symphorien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "267. La Petite Porte Ou Porte Neuve",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158906-Reviews-La_Petite_Porte_Ou_Porte_Neuve-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "268. Tribunal de Grande Instance de Sens",
+        "type": "Bâtiments gouvernementaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "269. Église Saint-Savinien-le-Jeune de Sens",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "270. Bibliothèque des Champs-Plaisants",
+        "type": "Bibliothèques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "271. Église Saint-Romain",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1902858-d19003802-Reviews-Eglise_Saint_Romain-Druyes_les_Belles_Fontaines_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "272. Port De Tonnerre (canal De Bourgogne)",
+        "type": "Marinas",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174825-Reviews-Port_De_Tonnerre_canal_De_Bourgogne-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "273. Place des Justes parmi les Nations",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25173908-Reviews-Place_des_Justes_parmi_les_Nations-Saint_Florentin_Yonne_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "274. Collégiale Saint Loup",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25185874-Reviews-Collegiale_Saint_Loup-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "275. Eglise Saint-martin D'avallon",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158888-Reviews-Eglise_Saint_martin_D_avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "276. Eglise Saint-Potentien ",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "277. Domaine Tixier",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "278. Place de la Halle Daret",
+        "type": "Sentiers historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25175631-Reviews-Place_de_la_Halle_Daret-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "279. La Fontaine Aux Dragons",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165805-Reviews-La_Fontaine_Aux_Dragons-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "280. Pont Canal De Saint-Florentin",
+        "type": "Ponts",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165726-Reviews-Pont_Canal_De_Saint_Florentin-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "281. Monument Aux Morts D'avallon",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158911-Reviews-Monument_Aux_Morts_D_avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "282. Pompe Et Bac À Lavoir D'oudun",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25326573-Reviews-Pompe_et_bac_a_lavoir_d_Oudun-Joux_la_Ville_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "283. Croix De L'église De Joux La Ville",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25326580-Reviews-Croix_de_l_eglise_de_Joux_la_Ville-Joux_la_Ville_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "284. Eglise Saint-Adrien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "285. La Mairie Venizy",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217889-Reviews-La_Mairie_Venizy-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "286. Pont Saint Nicolas",
+        "type": "Ponts",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184868-Reviews-Pont_Saint_Nicolas-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "287. La Maison À L'arbre De Jessé",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184819-Reviews-La_Maison_A_L_arbre_De_Jesse-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "288. Eglise Saint-Denis",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "289. La Porte Saint Jean",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184803-Reviews-La_Porte_Saint_Jean-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "290. Borne Fontaine Neptune De Brion",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180469-Reviews-Borne_Fontaine_Neptune_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "291. La Mise Au Tombeau Du Christ",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25181849-Reviews-La_Mise_Au_Tombeau_Du_Christ-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "292. La Grenouille D'or À Avallon",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158904-Reviews-La_Grenouille_D_or_A_Avallon-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "293. L'église Notre Dame De Venizy",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217074-Reviews-L_eglise_Notre_Dame_De_Venizy-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "294. La Halle Du Pré Neuf",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d25195670-Reviews-La_Halle_Du_Pre_Neuf-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "295. Église Paroissiale Sainte-magnance",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6028312-d25195887-Reviews-Eglise_Paroissiale_Sainte_magnance-Sainte_Magnance_Yonne_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "296. Office De Tourisme De Joigny Et Du Jovinien",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25186031-Reviews-Office_De_Tourisme_De_Joigny_Et_Du_Jovinien-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "297. Hôtel De Ville",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184816-Reviews-Hotel_De_Ville-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "298. Lavoir Du Port",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25185891-Reviews-Lavoir_Du_Port-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "299. Lavoir Et Fontaine Saint Phal De Brion",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180340-Reviews-Lavoir_Et_Fontaine_Saint_Phal_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "300. Marché Couvert",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173515-Reviews-Marche_Couvert-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "301. Le Lavoir du Carré",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173509-Reviews-Le_Lavoir_du_Carre-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "302. Église De La Nativité-de-notre-dame De Vassy",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12963665-d25163732-Reviews-Eglise_De_La_Nativite_de_notre_dame_De_Vassy-Etaule_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "303. Le Monument Aux Morts De Vassy",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12963665-d25160745-Reviews-Le_Monument_Aux_Morts_De_Vassy-Etaule_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "304. Grottes de Saint-Moré",
+        "type": "Autres activités de plein air",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3570073-d5483989-Reviews-Grottes_de_Saint_More-Saint_More_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "305. Bowling Auxerre Aux 2B",
+        "type": "Bowlings",
+        "votes": "65",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g663812-d2512665-Reviews-Bowling_Auxerre_Aux_2B-Moneteau_Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "306. Le Square Houdaille",
+        "type": "Jardins",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158914-Reviews-Le_Square_Houdaille-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "307. La Balade Gourmande de Saint Fargeau",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g678230-d9803661-Reviews-La_Balade_Gourmande_de_Saint_Fargeau-Saint_Fargeau_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "308. Le Maquis, Art-Broc-Café",
+        "type": "Bars et clubs",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12063732-d6607947-Reviews-Le_Maquis_Art_Broc_Cafe-Les_Vallees_de_la_Vanne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "309. Lavoir De La Rue Du Puits D'Amour",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224687-Reviews-Lavoir_De_La_Rue_Du_Puits_D_Amour-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "310. Pressoir À Pommes De 1784",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224710-Reviews-Pressoir_A_Pommes_De_1784-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "311. La Fontaine Briard",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25223477-Reviews-La_Fontaine_Briard-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "312. Église Notre-Dame-de-la-Nativité",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d25191425-Reviews-Eglise_Notre_Dame_de_la_Nativite-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "313. Eglise Saint-Martin",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d25163744-Reviews-Eglise_Saint_Martin-L_Isle_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "314. Une Pompe À Eau De Brion",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180429-Reviews-Une_Pompe_A_Eau_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "315. La Mairie de Brienon-sur-Armançon",
+        "type": "Bâtiments gouvernementaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173537-Reviews-La_Mairie_de_Brienon_sur_Armancon-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "316. La Maison Des Sept Têtes",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25223460-Reviews-La_Maison_Des_Sept_Tetes-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "317. Le Pub",
+        "type": "Bars et clubs",
+        "votes": "21",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d8761853-Reviews-Le_Pub-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "318. Le Lavoir De Saint Florentin",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165981-Reviews-Le_Lavoir_De_Saint_Florentin-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "319. Monument Aux Morts de la Guerre de 1870",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25223455-Reviews-Monument_Aux_Morts_de_la_Guerre_de_1870-Villeneuve_sur_Yonne_Yonne_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "320. Stèle Aux Anciens Combattants D'Algérie, Du Maroc Et De Tunisie",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224821-Reviews-Stele_Aux_Anciens_Combattants_D_Algerie_Du_Maroc_Et_De_Tunisie-Villeneuve_sur_Y.html#REVIEWS"
+    },
+    {
+        "name": "321. Le Lavoir Du Bouton.",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217092-Reviews-Le_Lavoir_Du_Bouton-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "322. Fontaine Place De La République",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195629-Reviews-Fontaine_Place_De_La_Republique-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "323. Eglise Notre-dame De L' Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d25195707-Reviews-Eglise_Notre_dame_De_L_Assomption-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "324. Monument Aux Morts De Pontigny",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5074538-d25195681-Reviews-Monument_Aux_Morts_De_Pontigny-Pontigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "325. Eglise Saint-christophe",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195587-Reviews-Eglise_Saint_christophe-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "326. Puits De La Mairie",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195625-Reviews-Puits_De_La_Mairie-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "327. Monument Aux Morts De Nitry",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195583-Reviews-Monument_Aux_Morts_De_Nitry-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "328. Cimetière De Nitry",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195606-Reviews-Cimetiere_De_Nitry-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "329. Les Puits Rue De La République",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195617-Reviews-Les_Puits_Rue_De_La_Republique-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "330. Monument À La Mémoire Des Soldats Morts Pendant La Guerre De 1870-1871",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25186015-Reviews-Monument_A_La_Memoire_Des_Soldats_Morts_Pendant_La_Guerre_De_1870_1871-Joigny_Yo.html#REVIEWS"
+    },
+    {
+        "name": "331. Monument Aux Morts De Joux-la-ville",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5928203-d25186365-Reviews-Monument_Aux_Morts_De_Joux_la_ville-Joux_la_Ville_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "332. Église Saint-loup De Courlon-sur-yonne",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12162373-d25185986-Reviews-Eglise_Saint_loup_De_Courlon_sur_yonne-Courlon_sur_Yonne_Yonne_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "333. Buste Du Député Henri Bonnerot",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184885-Reviews-Buste_Du_Depute_Henri_Bonnerot-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "334. Palais De Justice - Chapelle Des Ferrand",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184777-Reviews-Palais_De_Justice_Chapelle_Des_Ferrand-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "335. La Porte Du Bois",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184801-Reviews-La_Porte_Du_Bois-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "336. Cimetière Communal De Brion",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4468121-d25180450-Reviews-Cimetiere_Communal_De_Brion-Migennes_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "337. Fontaine Marguerite De Bourgogne",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25174910-Reviews-Fontaine_Marguerite_De_Bourgogne-Tonnerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "338. Marché Couvert",
+        "type": "Marchés fermiers",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165852-Reviews-Marche_Couvert-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "339. Bureau d'Information Touristique de Tonnerre",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196544-d25175622-Reviews-Bureau_d_Information_Touristique_de_Tonnerre-Tonnerre_Yonne_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "340. Cartes sur Table",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d9809555-Reviews-Cartes_sur_Table-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "341. Le Lavoir De Vigny",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217142-Reviews-Le_Lavoir_De_Vigny-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "342. Pompe À Chapelet Sauzay Frères",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158847-Reviews-Pompe_A_Chapelet_Sauzay_Freres-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "343. Lavoir \"les Chaumes\"",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158903-Reviews-Lavoir_les_Chaumes-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "344. Lavoir De Joigny",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224694-Reviews-Lavoir_De_Joigny-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "345. Le Petit Village Boutique",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Cafés",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3245492-d7131325-Reviews-Le_Petit_Village_Boutique-Fulvy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "346. V and B",
+        "type": "Bars et clubs\nOuvert",
+        "votes": "13",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d11947750-Reviews-V_and_B_Auxerre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "347. Maison du velo d'Auxerre",
+        "type": "Location de matériel\nOuvert",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d7174528-Reviews-Maison_du_velo_d_Auxerre-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "348. Boutique Jean Marc Brocard",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d5315918-Reviews-Boutique_Jean_Marc_Brocard-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "349. L'Église Saint-Valentin à Étaule",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12963665-d25160728-Reviews-L_Eglise_Saint_Valentin_a_Etaule-Etaule_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "350. Maison Des Anciens Sires De Domecy",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158900-Reviews-Maison_Des_Anciens_Sires_De_Domecy-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "351. Le Château Des Gondi",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184835-Reviews-Le_Chateau_Des_Gondi-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "352. La Tour Philippe Auguste",
+        "type": "Tours et plateformes d'observation",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224691-Reviews-La_Tour_Philippe_Auguste-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "353. Le Pont Saint Nicolas",
+        "type": "Ponts",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224708-Reviews-Le_Pont_Saint_Nicolas-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "354. Megazone Laser Games",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "13",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187107-d8497935-Reviews-Megazone_Laser_Games-Auxerre_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "355. Le Grenier À Sel",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165833-Reviews-Le_Grenier_A_Sel-Saint_Florentin_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "356. Eglise Saint-martin D'isle-sur-serein",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d25161141-Reviews-Eglise_Saint_martin_D_isle_sur_serein-L_Isle_sur_Serein_Yonne_Bourgogne_Franche.html#REVIEWS"
+    },
+    {
+        "name": "357. La Maison Du Pilori",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184826-Reviews-La_Maison_Du_Pilori-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "358. Temple Protestant",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25185203-Reviews-Temple_Protestant-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "359. Monument Des Gardes Nationaux, Morts Pour La Patrie, Au Combat D'Esnon",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25186028-Reviews-Monument_Des_Gardes_Nationaux_Morts_Pour_La_Patrie_Au_Combat_D_Esnon-Joigny_Yonn.html#REVIEWS"
+    },
+    {
+        "name": "360. Cimetière de Lichères-Près-Aigremont",
+        "type": "Cimetières",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d25191426-Reviews-Cimetiere_de_Licheres_Pres_Aigremont-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "361. Eglise Saint-barthélemy",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "362. Les Macarons de Charlou",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "27",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d8089367-Reviews-Les_Macarons_de_Charlou-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "363. Lavoir Rue Carnot",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425025-d25195611-Reviews-Lavoir_Rue_Carnot-Nitry_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "364. Monument Aux Morts De 1870 De La Commune De Courlon",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12162373-d25186065-Reviews-Monument_Aux_Morts_De_1870_De_La_Commune_De_Courlon-Courlon_sur_Yonne_Yonne_Bo.html#REVIEWS"
+    },
+    {
+        "name": "365. Borne Fontaine Bayard",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187108-d25158867-Reviews-Borne_Fontaine_Bayard-Avallon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "366. Le Puits De Cuchot",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217145-Reviews-Le_Puits_De_Cuchot-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "367. Borne Fontaine De Dissangis",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d25161231-Reviews-Borne_Fontaine_De_Dissangis-L_Isle_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "368. La Maison du Penseur Joubert",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25223467-Reviews-La_Maison_du_Penseur_Joubert-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "369. Fontaine De Dissangis",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202665-d25161224-Reviews-Fontaine_De_Dissangis-L_Isle_sur_Serein_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "370. Monument Aux Morts De 14-18 Et 39-45 De Courlon Sur Yonne",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12162373-d25186067-Reviews-Monument_Aux_Morts_De_14_18_Et_39_45_De_Courlon_Sur_Yonne-Courlon_sur_Yonne_Yo.html#REVIEWS"
+    },
+    {
+        "name": "371. La Mère Instruisant Son Enfant",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217895-Reviews-La_Mere_Instruisant_Son_Enfant-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "372. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "373. Basic Fit",
+        "type": "Complexes sportifs",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196543-d25308885-Reviews-Basic_fit-Sens_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "374. Eglise De Lichère-sur-yonne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "375. Monument Aux Morts De Saint Florentin",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2642478-d25165843-Reviews-Monument_Aux_Morts_De_Saint_Florentin-Saint_Florentin_Yonne_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "376. Mise Au Tombeau",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224585-Reviews-Mise_Au_Tombeau-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "377. Borne Fontaine",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184929-Reviews-Borne_Fontaine-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "378. Fontaine Monumentale",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184942-Reviews-Fontaine_Monumentale-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "379. Le Château d'Armançon",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173535-Reviews-Le_Chateau_d_Armancon-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "380. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1079400-d25194408-Reviews-Eglise_Saint_Martin-Chablis_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "381. Monument Emile Peynot",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25224685-Reviews-Monument_Emile_Peynot-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "382. Eglise de Saint Laurent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "383. Eglise Sainte-florence",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "384. Lavoir Boulevard Lesire Lacam",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184854-Reviews-Lavoir_Boulevard_Lesire_Lacam-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "385. Monument Aux Morts De Venizy",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217077-Reviews-Monument_Aux_Morts_De_Venizy-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "386. La Fontaine Saint Fiacre",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8423095-d25217125-Reviews-La_Fontaine_Saint_Fiacre-Venizy_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "387. Abreuvoir n°18 du hameau de Lordonnois",
+        "type": "Fontaines",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1213223-d25194487-Reviews-Abreuvoir_n_18_du_hameau_de_Lordonnois-Ligny_le_Chatel_Yonne_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "388. Buste De Georges Clémenceau",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1202058-d25223465-Reviews-Buste_De_Georges_Clemenceau-Villeneuve_sur_Yonne_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "389. Prieuré De Notre-dame",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196540-d25184784-Reviews-Prieure_De_Notre_dame-Joigny_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "390. Halle aux Grains",
+        "type": "Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3607406-d25173518-Reviews-Halle_aux_Grains-Brienon_sur_Armancon_Yonne_Bourgogne_Franche_Comte.html#REVIEWS"
+    }
+]

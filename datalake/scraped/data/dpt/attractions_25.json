@@ -1,0 +1,4356 @@
+[
+    {
+        "name": "1. La Citadelle de Besançon",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux\nOuvert",
+        "votes": "2 245",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d523226-Reviews-La_Citadelle_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "2. La Saline Royale",
+        "type": "Sites historiques • Bâtiments architecturaux\nOuvert",
+        "votes": "803",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2101961-d319889-Reviews-La_Saline_Royale-Arc_et_Senans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "3. Musée de l'Aventure Peugeot",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "454",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g661719-d292977-Reviews-Musee_de_l_Aventure_Peugeot-Sochaux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "4. Source de la Loue",
+        "type": "Plans d'eau",
+        "votes": "261",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g10498266-d3378328-Reviews-Source_de_la_Loue-Ouhans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "5. Musée Gustave Courbet",
+        "type": "Musées spécialisés • Musées d'art\nOuvert",
+        "votes": "382",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d2262440-Reviews-Musee_Gustave_Courbet-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "6. Musée du Temps",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "380",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d4494095-Reviews-Musee_du_Temps_et_Palais_Granvelle-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "7. Château de Joux",
+        "type": "Châteaux\nOuvert",
+        "votes": "421",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7060147-d3378329-Reviews-Chateau_de_Joux-La_Cluse_et_Mijoux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "8. Parc Dino-Zoo",
+        "type": "Musées spécialisés",
+        "votes": "417",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6942269-d3428424-Reviews-Parc_Dino_Zoo-Charbonnieres_les_Sapins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "9. Source du Lison",
+        "type": "Cascades",
+        "votes": "236",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d6692248-Reviews-Source_du_Lison-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "10. Parc Micaud",
+        "type": "Parcs • Terrains de jeux",
+        "votes": "209",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8555739-Reviews-Parc_Micaud-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "11. Saut du Doubs",
+        "type": "Plans d'eau • Cascades",
+        "votes": "298",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d8453754-Reviews-Saut_du_Doubs-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "12. Horloge Astronomique De la Cathédrale",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "291",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d2397575-Reviews-Horloge_Astronomique_De_la_Cathedrale-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "13. Parc Près la Rose",
+        "type": "Parcs",
+        "votes": "253",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d4787692-Reviews-Parc_Pres_la_Rose-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "14. Lac Saint-Point",
+        "type": "Plans d'eau",
+        "votes": "173",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12063640-d10509060-Reviews-Lac_Saint_Point-Saint_Point_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "15. Musée de la Résistance et de la Déportation",
+        "type": "Musées d'histoire",
+        "votes": "172",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8617089-Reviews-Musee_de_la_Resistance_et_de_la_Deportation-Besancon_Doubs_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "16. Musée des Maisons Comtoises de Nancray",
+        "type": "Musées spécialisés",
+        "votes": "273",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4973282-d3428536-Reviews-Musee_des_Maisons_Comtoises_de_Nancray-Nancray_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "17. Mont d'Or",
+        "type": "Montagnes",
+        "votes": "52",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d270243-Reviews-Mont_d_Or-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "18. Musée de la Taillanderie",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "117",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d3349618-Reviews-Musee_de_la_Taillanderie-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "19. Musée des Beaux-Arts et d'Archeologie de Besancon",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "111",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d4505022-Reviews-Musee_des_Beaux_Arts_et_d_Archeologie_de_Besancon-Besancon_Doubs_Bourgogne_Franch.html#REVIEWS"
+    },
+    {
+        "name": "20. Distillerie GUY",
+        "type": "Distilleries\nOuvert",
+        "votes": "135",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d6960932-Reviews-Distillerie_GUY-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "21. Château du Barroux",
+        "type": "Châteaux\nOuvert",
+        "votes": "178",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2561297-d3378428-Reviews-Chateau_du_Barroux-Vaucluse_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "22. Parc Polaire",
+        "type": "Espaces naturels et sauvages • Zoos\nOuvert",
+        "votes": "223",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1887511-d6510949-Reviews-Parc_Polaire-Chaux_Neuve_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "23. Source bleue",
+        "type": "Plans d'eau",
+        "votes": "97",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1937733-d10417541-Reviews-Source_bleue-Montperreux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "24. Grottes d'Osselle",
+        "type": "Grottes & Cavernes",
+        "votes": "189",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7909246-d2060501-Reviews-Grottes_d_Osselle-Roset_Fluans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "25. Les Échelles de la mort",
+        "type": "Pistes cyclables",
+        "votes": "60",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096162-d1091773-Reviews-Les_Echelles_de_la_mort-Charquemont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "26. Gouffre de Poudrey",
+        "type": "Grottes & Cavernes",
+        "votes": "208",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8477949-d3319416-Reviews-Gouffre_de_Poudrey-Etalans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "27. Musée du Château des Ducs de Wurtemberg",
+        "type": "Musées d'histoire naturelle • Musées d'histoire\nOuvert",
+        "votes": "101",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d4222719-Reviews-Musee_du_Chateau_des_Ducs_de_Wurtemberg-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "28. Château de Belvoir",
+        "type": "Châteaux\nOuvert",
+        "votes": "72",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2308623-d2289239-Reviews-Chateau_de_Belvoir-Belvoir_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "29. Cathédrale Saint-Jean",
+        "type": "Églises et cathédrales",
+        "votes": "152",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d3849116-Reviews-Cathedrale_Saint_Jean_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "30. Station de Ski de Metabief",
+        "type": "Pistes de ski & snowboard\nFermeture temporaire",
+        "votes": "125",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d6434720-Reviews-Station_de_ski_de_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "31. Centre historique de Besançon",
+        "type": "Monuments & Points d'intérêt • Sentiers historiques",
+        "votes": "70",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12685787-Reviews-Centre_historique_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "32. Porte Noire",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "200",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6897559-Reviews-Porte_Noire-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "33. Maison natale de Victor Hugo",
+        "type": "Musées spécialisés",
+        "votes": "137",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6889818-Reviews-Maison_natale_de_Victor_Hugo-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "34. Le Tuyé du Papy Gaby",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "152",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5970559-d5964530-Reviews-Le_Tuye_du_Papy_Gaby-Gilley_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "35. La Source du Doubs",
+        "type": "Plans d'eau",
+        "votes": "70",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d10110382-Reviews-La_Source_du_Doubs-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "36. Le Pavillon des Sciences",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "68",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d4753785-Reviews-Le_Pavillon_des_Sciences-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "37. Ferme aux Lamas du Doubs",
+        "type": "Fermes",
+        "votes": "48",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12268846-d14791754-Reviews-Ferme_aux_Lamas_du_Doubs-Mamirolle_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "38. Forêt de Chailluz",
+        "type": "Espaces naturels et sauvages",
+        "votes": "64",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8567011-Reviews-Foret_de_Chailluz-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "39. Distillerie Les Fils d'Emile Pernot",
+        "type": "Distilleries\nOuvert",
+        "votes": "33",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7060147-d10361400-Reviews-Distillerie_Les_Fils_d_Emile_Pernot-La_Cluse_et_Mijoux_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "40. Fug Game",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "405",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11881612-Reviews-Fug_Game-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "41. Statue du marquis Jouffroy d'Abbans",
+        "type": "Monuments et statues",
+        "votes": "99",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8560095-Reviews-Statue_du_marquis_Jouffroy_d_Abbans-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "42. Les Calèches du Saut du Doubs",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "58",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d1744010-Reviews-Les_caleches_du_Saut_du_Doubs-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "43. Parc de la Gare d'Eau",
+        "type": "Plans d'eau • Parcs",
+        "votes": "71",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8567536-Reviews-Parc_de_la_Gare_d_Eau-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "44. Librairie L'Intranquille",
+        "type": "Bibliothèques\nOuvert",
+        "votes": "97",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9727328-Reviews-Librairie_L_Intranquille-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "45. Musée de l'Horlogerie",
+        "type": "Musées spécialisés",
+        "votes": "65",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d7129808-Reviews-Musee_de_l_Horlogerie-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "46. Cirque de Consolation",
+        "type": "Espaces naturels et sauvages",
+        "votes": "71",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2614914-d6777901-Reviews-Cirque_de_Consolation-Consolation_Maisonnettes_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "47. Musée Claude-Nicolas Ledoux",
+        "type": "Musées spécialisés",
+        "votes": "59",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2101961-d12731001-Reviews-Musee_Claude_Nicolas_Ledoux-Arc_et_Senans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "48. Grand Pont d'Ornans",
+        "type": "Ponts",
+        "votes": "68",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10423585-Reviews-Grand_Pont_d_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "49. Quai Vauban",
+        "type": "Monuments & Points d'intérêt • Jetées & Promenades",
+        "votes": "92",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10422790-Reviews-Quai_Vauban-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "50. Nautiloue",
+        "type": "Complexes sportifs",
+        "votes": "39",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d6698498-Reviews-Nautiloue-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "51. Ecomusée Maison Michaud",
+        "type": "Musées spécialisés • Musées d'histoire\nOuvert",
+        "votes": "39",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950550-d7684930-Reviews-Ecomusee_Maison_Michaud-Chapelle_des_Bois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "52. Grotte Sarrazine",
+        "type": "Grottes & Cavernes • Formations géologiques",
+        "votes": "32",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d10538464-Reviews-Grotte_Sarrazine-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "53. Via Ferrata des Échelles de la Mort",
+        "type": "Chemins de randonnées",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096162-d10510634-Reviews-Via_Ferrata_des_Echelles_de_la_Mort-Charquemont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "54. Porte Saint-Pierre",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "73",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10427836-Reviews-Porte_Saint_Pierre-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "55. Le Creux Billard",
+        "type": "Formations géologiques • Cascades",
+        "votes": "29",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d10538507-Reviews-Le_Creux_Billard-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "56. Office de Tourisme de Pontarlier",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d9861971-Reviews-Office_de_Tourisme_de_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "57. Le Hameau du Fromage",
+        "type": "Musées spécialisés",
+        "votes": "41",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d10482480-Reviews-Le_Hameau_du_Fromage-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "58. Chapelle Notre-Dame du Refuge",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "39",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6889822-Reviews-Chapelle_Notre_Dame_du_Refuge-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "59. Casino JOA de Besançon",
+        "type": "Casinos\nOuvert",
+        "votes": "115",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d5607103-Reviews-Casino_JOA_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "60. Place de la Révolution",
+        "type": "Quartiers • Monuments & Points d'intérêt",
+        "votes": "56",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8567019-Reviews-Place_de_la_Revolution-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "61. Abbaye de Montbenoit",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "38",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4545866-d4508379-Reviews-Abbaye_de_Montbenoit-Montbenoit_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "62. Eglise Saint-Benigne de Pontarlier",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10427857-Reviews-Eglise_Saint_Benigne_de_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "63. La Roche de Hautepierre",
+        "type": "Points de vue panoramiques • Tours et plateformes d'observation",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d10476472-Reviews-La_Roche_de_Hautepierre-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "64. Marché Couvert Beaux-Arts",
+        "type": "Marchés fermiers",
+        "votes": "32",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8531764-Reviews-Marche_couvert_Beaux_Arts-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "65. Square Castan",
+        "type": "Sites historiques • Ruines anciennes",
+        "votes": "49",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8093812-Reviews-Square_Castan-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "66. Fort de Chaudanne",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "36",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8775064-Reviews-Fort_de_Chaudanne-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "67. Église Sainte-Madeleine",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales\nOuvert",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6889823-Reviews-Eglise_Sainte_Madeleine_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "68. Synagogue de Besançon",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6897563-Reviews-Synagogue_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "69. EuroVelo 6 - Montbéliard/Dole",
+        "type": "Pistes cyclables",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10422882-Reviews-EuroVelo_6_Montbeliard_Dole-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "70. Cascade Syratu",
+        "type": "Cascades",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d10121345-Reviews-Cascade_Syratu-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "71. Office de Tourisme du Pays de Montbeliard",
+        "type": "Offices de tourisme",
+        "votes": "32",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10509217-Reviews-Office_de_Tourisme_du_Pays_de_Montbeliard-Montbeliard_Doubs_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "72. Belvédère de Montfaucon",
+        "type": "Points de vue panoramiques",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1941141-d8568889-Reviews-Belvedere_de_Montfaucon-Montfaucon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "73. Maison de la Réserve Naturelle",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2140630-d7060315-Reviews-Maison_de_la_Reserve_Naturelle-Labergement_Sainte_Marie_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "74. Office de Tourisme de Métabief",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d11877584-Reviews-Office_de_Tourisme_de_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "75. Le Grand Taureau",
+        "type": "Monuments & Points d'intérêt • Points de vue panoramiques",
+        "votes": "25",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11929486-Reviews-Le_Grand_Taureau-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "76. Belvédère Du Château d’Ornans",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "37",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10461308-Reviews-Belvedere_Du_Chateau_d_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "77. Fonderie de Cloches Obertino Charles",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "35",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2140630-d4324231-Reviews-Fonderie_de_Cloches_Obertino_Charles-Labergement_Sainte_Marie_Doubs_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "78. Basilique Saint-Ferjeux",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8608766-Reviews-Basilique_Saint_Ferjeux-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "79. Office de Tourisme de Baume-les-Dames et du Pays Baumois",
+        "type": "Offices de tourisme",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d9839369-Reviews-Office_de_Tourisme_de_Baume_les_Dames_et_du_Pays_Baumois-Baume_les_Dames_Doubs_B.html#REVIEWS"
+    },
+    {
+        "name": "80. Station VTT de Métabief",
+        "type": "Pistes cyclables\nFermeture temporaire",
+        "votes": "15",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d10778255-Reviews-Station_VTT_de_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "81. L'Axone",
+        "type": "Arènes & Stades",
+        "votes": "57",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10325056-Reviews-L_Axone-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "82. Fromagerie Musée",
+        "type": "Musées spécialisés",
+        "votes": "11",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7726090-d10482473-Reviews-Fromagerie_Musee-Trepot_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "83. Réserve naturelle des Tourbières",
+        "type": "Parcs régionaux • Plans d'eau",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4973012-d10634708-Reviews-Reserve_Naturelle_des_Tourbieres-Frasne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "84. Fort du Mont-Bart",
+        "type": "Sites historiques • Bases & Installations militaires",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8478002-d10754118-Reviews-Fort_du_Mont_Bart-Bavans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "85. Battant",
+        "type": "Quartiers • Monuments & Points d'intérêt",
+        "votes": "21",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10813111-Reviews-Quartier_Battant-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "86. Closed Escape Game",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "136",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950659-d23394034-Reviews-Closed_Escape_Game-Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "87. Hôtel de Champagney",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8125262-Reviews-Hotel_de_Champagney-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "88. Promenade Granvelle",
+        "type": "Jardins",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8773608-Reviews-Promenade_Granvelle-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "89. Le Ball Park",
+        "type": "Terrains de jeux",
+        "votes": "30",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d7240815-Reviews-Le_Ball_Park-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "90. Musée municipal d'Art et d'Histoire",
+        "type": "Musées d'art • Musées d'histoire\nOuvert",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10443946-Reviews-Musee_municipal_d_Art_et_d_Histoire-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "91. Ferme du Montagnon",
+        "type": "Musées spécialisés",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1940703-d8762558-Reviews-Ferme_du_Montagnon-Fournets_Luisans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "92. Tour de la Pelote",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8559960-Reviews-Tour_de_la_Pelote-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "93. Église Saint-Maimboeuf",
+        "type": "Églises et cathédrales",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10504959-Reviews-Eglise_Saint_Maimboeuf-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "94. Belvédère du Mont Vouillot",
+        "type": "Points de vue panoramiques • Tours et plateformes d'observation",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d10482259-Reviews-Belvedere_du_Mont_Vouillot-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "95. Belvédère de la Roche du Prêtre",
+        "type": "Monuments & Points d'intérêt • Points de vue panoramiques",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2614914-d10533480-Reviews-Belvedere_de_la_Roche_du_Pretre-Consolation_Maisonnettes_Doubs_Bourgogne_Franch.html#REVIEWS"
+    },
+    {
+        "name": "96. Église Saint-Laurent d'Ornans",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d6698501-Reviews-Eglise_Saint_Laurent_d_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "97. Belvédère du Fort de Bregille",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8546079-Reviews-Fort_de_Bregille-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "98. La Citedo",
+        "type": "Parcs aquatiques",
+        "votes": "106",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g661719-d6406970-Reviews-La_Citedo-Sochaux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "99. Fort Malher du LArmont Inférieur",
+        "type": "Monuments & Points d'intérêt • Points de vue panoramiques",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7060147-d12698967-Reviews-Fort_Malher_du_LArmont_Inferieur-La_Cluse_et_Mijoux_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "100. Circuit Ville Forte",
+        "type": "Routes panoramiques",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9810368-Reviews-Circuit_Ville_Forte-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "101. Bureau d'Information Touristique à Ornans",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "30",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d8613957-Reviews-Bureau_d_Information_Touristique_a_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "102. Immeuble du Lion Peugeot",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d11770118-Reviews-Immeuble_du_Lion_Peugeot-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "103. Grotte-Chapelle de Remonot",
+        "type": "Grottes & Cavernes • Sites religieux",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g641852-d7059727-Reviews-Grotte_Chapelle_de_Remonot-Les_Combes_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "104. Chateau Montalembert",
+        "type": "Châteaux",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10445595-Reviews-Chateau_Montalembert-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "105. Base de Loisirs du Pays de Montbéliard",
+        "type": "Clubs plages & piscines",
+        "votes": "25",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6749568-d6728651-Reviews-Base_de_Loisirs_du_Pays_de_Montbeliard-Brognard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "106. Office de Tourisme Malbuisson",
+        "type": "Offices de tourisme",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d10105033-Reviews-Office_de_Tourisme_Malbuisson-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "107. Tramway de Besancon",
+        "type": "Tramways\nOuvert",
+        "votes": "17",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12526753-Reviews-Tramway_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "108. Cascade de l’Audeux",
+        "type": "Cascades",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8342672-d12286890-Reviews-Cascade_de_l_Audeux-Chaux_les_Passavant_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "109. Chapelle Notre-Dame de l'Espérance",
+        "type": "Points de vue panoramiques • Églises et cathédrales",
+        "votes": "16",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10443982-Reviews-Chapelle_Notre_Dame_de_l_Esperance-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "110. Cascade du Verneau",
+        "type": "Cascades",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d10538494-Reviews-Cascade_du_Verneau-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "111. Musée Vie d'Antan",
+        "type": "Musées d'histoire",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007463-d13791896-Reviews-Musee_Vie_d_Antan-Montlebon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "112. Fermes-musée du Pays Horloger",
+        "type": "Musées spécialisés",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275727-d7110834-Reviews-Fermes_musee_du_Pays_Horloger-Grand_Combe_Chateleu_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "113. Porte Rivotte",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "21",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10423515-Reviews-Porte_Rivotte-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "114. Ecomusée L'Abeille du Haut-Doubs",
+        "type": "Musées spécialisés",
+        "votes": "9",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8527648-d12338514-Reviews-Ecomusee_L_Abeille_du_Haut_Doubs-Aubonne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "115. Musée de la Montre",
+        "type": "Musées spécialisés",
+        "votes": "13",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d10479245-Reviews-Musee_de_la_Montre-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "116. Barrage du Chatelot",
+        "type": "Plans d'eau • Espaces naturels et sauvages",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d10482249-Reviews-Barrage_du_Chatelot-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "117. Le voyage heure - Escape Game Besançon",
+        "type": "Jeux de logique",
+        "votes": "80",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d16869040-Reviews-Le_voyage_heure_Escape_Game_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "118. Pont du Diable",
+        "type": "Ponts • Monuments et statues",
+        "votes": "37",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d10508726-Reviews-Pont_du_Diable-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "119. Defile d'Entre-Roches",
+        "type": "Espaces naturels et sauvages",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4545866-d11931291-Reviews-Defile_d_Entre_Roches-Montbenoit_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "120. Place Courbet",
+        "type": "Monuments & Points d'intérêt • Sentiers historiques",
+        "votes": "25",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10460986-Reviews-Place_Courbet-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "121. Statue de Victor Hugo",
+        "type": "Monuments et statues",
+        "votes": "16",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10422779-Reviews-Statue_de_Victor_Hugo-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "122. Temple Saint-Martin",
+        "type": "Églises et cathédrales",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10504926-Reviews-Temple_Saint_Martin-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "123. Frac Franche-Comté",
+        "type": "Musées d'art\nOuvert",
+        "votes": "44",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d4115577-Reviews-Frac_Franche_Comte-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "124. Sentier karstique du Grand Bois",
+        "type": "Espaces naturels et sauvages • Grottes & Cavernes",
+        "votes": "11",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2260923-d10813307-Reviews-Sentier_karstique_du_Grand_Bois-Merey_sous_Montrond_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "125. Les Passages Pasteur",
+        "type": "Centres commerciaux\nOuvert",
+        "votes": "24",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9704630-Reviews-Les_Passages_Pasteur-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "126. Playheure - Escape Game",
+        "type": "Jeux de logique",
+        "votes": "121",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8323788-d13987125-Reviews-Playheure_Escape_Game-Chatillon_le_Duc_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "127. Ateliers Zone Art",
+        "type": "Galeries d'art",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872368-Reviews-Ateliers_Zone_Art-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "128. Funiculaire de Bregille",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "15",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8093458-Reviews-Funiculaire_de_Bregille-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "129. La Batterie des Roches",
+        "type": "Sites historiques • Bases & Installations militaires",
+        "votes": "7",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2658199-d12832602-Reviews-La_Batterie_des_Roches-Pont_de_Roide_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "130. Château de Montfaucon",
+        "type": "Ruines anciennes • Châteaux",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1941141-d8556390-Reviews-Chateau_de_Montfaucon-Montfaucon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "131. Chateau de Vaire-le-Grand",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8565711-d8563681-Reviews-Chateau_de_Vaire_le_Grand-Vaire_Arcier_Vaire_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "132. Église du Sacré-Cœur d'Audincourt",
+        "type": "Églises et cathédrales",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d10447343-Reviews-Eglise_du_Sacre_Ceour_d_Audincourt-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "133. Statue du Pêcheur de Chavots",
+        "type": "Monuments et statues",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10460971-Reviews-Statue_du_Pecheur_de_Chavots-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "134. Eglise Notre-Dame-de-l'Assomption de Morteau",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d7112413-Reviews-Eglise_Notre_Dame_de_l_Assomption_de_Morteau-Morteau_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "135. Notre-Dame de la Libération",
+        "type": "Points de vue panoramiques • Églises et cathédrales",
+        "votes": "15",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10422769-Reviews-Notre_Dame_de_la_Liberation-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "136. Musée du Costume et des traditions comtoises",
+        "type": "Musées spécialisés • Musées d'histoire\nOuvert",
+        "votes": "9",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10512458-Reviews-Musee_du_Costume_et_des_traditions_comtoises-Ornans_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "137. Château de Moncley",
+        "type": "Châteaux",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g11925439-d10447838-Reviews-Chateau_de_Moncley-Moncley_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "138. Station De Luges D'été À Métabief",
+        "type": "Manifestations sportives",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d23484879-Reviews-Station_De_Luges_D_ete_A_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "139. Chapelle des Annonciades de Pontarlier",
+        "type": "Sites historiques • Églises et cathédrales",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10628669-Reviews-Chapelle_des_Annonciades_de_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "140. Fort de Beauregard",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8093477-Reviews-Fort_de_Beauregard-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "141. Route de l’Absinthe",
+        "type": "Chemins de randonnées\nOuvert",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d14837551-Reviews-Route_de_l_Absinthe-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "142. Plage des Grangettes",
+        "type": "Plans d'eau • Plages",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12086570-d10618842-Reviews-Plage_des_Grangettes-Les_Grangettes_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "143. Grotte des Faux-Monnayeurs",
+        "type": "Grottes & Cavernes",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d11931688-Reviews-Grotte_des_Faux_Monnayeurs-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "144. Halles de Montbéliard",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d11770121-Reviews-Halles_de_Montbeliard-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "145. Brasserie Artisanale La Bonne Bouille",
+        "type": "Brasseries",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11891648-Reviews-Brasserie_Artisanale_La_Bonne_Bouille-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "146. Temple et galerie du Saint-Esprit",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8617139-Reviews-Temple_et_galerie_du_Saint_Esprit-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "147. Musée d'Art et d'Histoire - Hôtel Beurnier-Rossel",
+        "type": "Musées d'art • Musées d'histoire",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d8471331-Reviews-Musee_d_Art_et_d_Histoire_Hotel_Beurnier_Rossel-Montbeliard_Doubs_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "148. Besançon Tourisme Et Congrès",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "31",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8535879-Reviews-Besancon_Tourisme_Et_Congres-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "149. Parcours des Roches",
+        "type": "Chemins de randonnées",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d13991692-Reviews-Parcours_des_Roches-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "150. Théâtre Gallo-Romain de Mandeure",
+        "type": "Sites historiques • Ruines anciennes",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1453677-d10034081-Reviews-Theatre_Gallo_Romain_de_Mandeure-Mandeure_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "151. Cascade du Val",
+        "type": "Cascades",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6632681-d10089736-Reviews-Cascade_du_Val-Pierrefontaine_les_Varans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "152. Grotte de Sous-Buen",
+        "type": "Grottes & Cavernes",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d8737641-Reviews-Grotte_de_Sous_Buen-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "153. La Rodia",
+        "type": "Théâtres",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8545196-Reviews-La_Rodia-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "154. Belvédère du Saut de Gamache",
+        "type": "Monuments & Points d'intérêt • Points de vue panoramiques",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d12088196-Reviews-Belvedere_du_Saut_de_Gamache-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "155. Musée de la Pince",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g19125700-d12698874-Reviews-Musee_de_la_Pince_a_Montecheroux-Montecheroux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "156. Stade Auguste Bonal",
+        "type": "Arènes & Stades",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d11770102-Reviews-Stade_Auguste_Bonal-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "157. Parc des Loisirs Les Campaines",
+        "type": "Terrains de jeux • Salles de jeux et de divertissement",
+        "votes": "128",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4171787-d4170207-Reviews-Parc_des_Loisirs_Les_Campaines-Accolans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "158. Eglise Saint-Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10423508-Reviews-Eglise_Saint_Maurice_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "159. La Damassine",
+        "type": "Bâtiments architecturaux",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2299540-d8434861-Reviews-La_Damassine-Vandoncourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "160. Grotte de la Glacière",
+        "type": "Grottes & Cavernes",
+        "votes": "32",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8342672-d12698948-Reviews-Grotte_de_la_Glaciere-Chaux_les_Passavant_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "161. Parc et château du Désert",
+        "type": "Châteaux",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10445586-Reviews-Parc_et_chateau_du_Desert-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "162. Église Saint-Martin de Baume-les-Dames",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d10621104-Reviews-Eglise_Saint_Martin_de_Baume_les_Dames-Baume_les_Dames_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "163. Plage des Landes",
+        "type": "Plages",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d12804632-Reviews-Plage_des_Landes-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "164. Complexe Aquatique Cristallys",
+        "type": "Complexes sportifs",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10447634-Reviews-Complexe_Aquatique_Cristallys-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "165. Place Pasteur",
+        "type": "Quartiers • Monuments & Points d'intérêt",
+        "votes": "30",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8782894-Reviews-Place_Pasteur-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "166. Château de Cléron",
+        "type": "Châteaux\nOuvert",
+        "votes": "14",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d10445672-Reviews-Chateau_de_Cleron-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "167. Grotte du Trésor",
+        "type": "Formations géologiques",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1080081-d15210351-Reviews-Grotte_du_Tresor-Longeville_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "168. Point de vue du Moine",
+        "type": "Points de vue panoramiques",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7119006-d14001132-Reviews-Point_de_vue_du_Moine-Renedale_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "169. Sources d'Arcier",
+        "type": "Espaces naturels et sauvages • Cascades",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12826922-Reviews-Sources_d_Arcier-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "170. Abbaye Notre-Dame de la Grâce-Dieu",
+        "type": "Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8342672-d12698966-Reviews-Abbaye_Notre_Dame_de_la_Grace_Dieu-Chaux_les_Passavant_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "171. Piscine La Fayette",
+        "type": "Complexes sportifs",
+        "votes": "12",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10375554-Reviews-Piscine_La_Fayette-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "172. Chapelle des Bassots",
+        "type": "Églises et cathédrales",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d10623530-Reviews-Chapelle_des_Bassots-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "173. Sentier urbain Heinrich Schickhardt et son temps",
+        "type": "Chemins de randonnées",
+        "votes": "11",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d10634726-Reviews-Sentier_urbain_Heinrich_Schickhardt_et_son_temps-Montbeliard_Doubs_Bourgogne_Fra.html#REVIEWS"
+    },
+    {
+        "name": "174. Le Trésor des Séquanes",
+        "type": "Musées spécialisés • Musées pour enfants",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g11925496-d10539970-Reviews-Le_Tresor_des_Sequanes-Burgille_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "175. Musée Comtois",
+        "type": "Musées spécialisés",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12338521-Reviews-Musee_Comtois-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "176. Fromagerie du Mont d'or",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "136",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d7785411-Reviews-Fromagerie_Sancey_Richard_du_Mont_D_or-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "177. Belvédère de la Cendrée",
+        "type": "Espaces naturels et sauvages • Points de vue panoramiques",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1096162-d12703458-Reviews-Belvedere_de_la_Cendree-Charquemont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "178. Ornans, Balade urbaine au fil de la loue",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d18220689-Reviews-Ornans_Balade_urbaine_au_fil_de_la_loue-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "179. Pont de Nahin",
+        "type": "Ponts",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10426956-Reviews-Pont_de_Nahin-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "180. Les Bisons du Sachuron",
+        "type": "Fermes",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8553467-d8545851-Reviews-Les_Bisons_du_Sachuron-Damprichard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "181. Musée de la Mémoire et de la Paix",
+        "type": "Musées militaires • Musées d'histoire",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3464615-d12698919-Reviews-Musee_de_la_Memoire_et_de_la_Paix-Clerval_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "182. Le miroir de Scey en Varais",
+        "type": "Points de vue panoramiques",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g10595286-d18314053-Reviews-Le_miroir_de_Scey_en_Varais-Scey_Maisieres_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "183. Église Saint-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "16",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872639-Reviews-Eglise_Saint_Pierre-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "184. 19 CRAC (Centre d'Art Contemporain)",
+        "type": "Galeries d'art\nOuvert",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d13324370-Reviews-19_CRAC_Centre_d_Art_Contemporain-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "185. La Grange Huguenet",
+        "type": "Parcs • Jardins",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11931717-Reviews-La_Grange_Huguenet-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "186. Palais de Justice de Besancon",
+        "type": "Monuments & Points d'intérêt • Bâtiments gouvernementaux",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10460365-Reviews-Palais_de_Justice_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "187. Église Saint-Bénigne d'Arc-et-Senans",
+        "type": "Églises et cathédrales",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2101961-d10508323-Reviews-Eglise_Saint_Benigne_d_Arc_et_Senans-Arc_et_Senans_Doubs_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "188. Ferme Familiale Gustave Courbet",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12049480-d12008071-Reviews-Ferme_Familiale_Gustave_Courbet-Flagey_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "189. Abbaye de Baume-les-Dames",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d10621238-Reviews-Abbaye_de_Baume_les_Dames-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "190. Fort Griffon",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8545114-Reviews-Fort_Griffon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "191. Office de Tourisme Les Fourgs",
+        "type": "Offices de tourisme",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d11907256-Reviews-Office_de_Tourisme_Les_Fourgs-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "192. Château de Montby",
+        "type": "Châteaux",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12917457-d12909997-Reviews-Chateau_de_Montby-Gondenans_Montby_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "193. Espace Morteau",
+        "type": "Complexes sportifs",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10482429-Reviews-Espace_Morteau-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "194. Place du Huit-Septembre",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "10",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10813101-Reviews-Place_du_Huit_Septembre-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "195. Hôtel de Ville D'Ornans",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10426971-Reviews-Hotel_de_ville_d_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "196. Piscine en Plein air de Chalezeule",
+        "type": "Complexes sportifs\nOuvert",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202669-d10754197-Reviews-Piscine_en_Plein_air_de_Chalezeule-Chalezeule_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "197. Maison du patrimoine Le Presbytère",
+        "type": "Musées d'art • Musées d'histoire\nOuvert",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7902930-d10110388-Reviews-Maison_du_patrimoine_le_presbytere-Remoray_Boujeons_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "198. Parc du Grand Cours",
+        "type": "Parcs • Jardins",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d14790907-Reviews-Parc_du_Grand_Cours-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "199. Statue L'Homme et l'Enfant de Ousmane Sow",
+        "type": "Monuments et statues",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11978196-Reviews-Statue_L_Homme_et_l_Enfant_de_Ousmane_Sow-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "200. Le Jardin de Curé",
+        "type": "Jardins\nOuvert",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15012055-d15002387-Reviews-Le_Jardin_de_Cure-La_Riviere_Drugeon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "201. Piscine de Port-Joint",
+        "type": "Complexes sportifs",
+        "votes": "10",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10375559-Reviews-Piscine_de_Port_Joint-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "202. E-BAR",
+        "type": "Bars et clubs • Brasseries\nOuvert",
+        "votes": "37",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9800407-Reviews-E_BAR-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "203. Office de Tourisme de Montbenoit",
+        "type": "Offices de tourisme",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4545866-d10510417-Reviews-Office_de_Tourisme_de_Montbenoit-Montbenoit_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "204. Parcours du Ravin du Puits Noir",
+        "type": "Chemins de randonnées",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d13991683-Reviews-Parcours_du_Ravin_du_Puits_Noir-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "205. Fontaine de la truite à Ornans",
+        "type": "Monuments & Points d'intérêt • Fontaines",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d18220728-Reviews-Fontaine_de_la_truite_a_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "206. Cimetière des Pestiférés",
+        "type": "Monuments & Points d'intérêt • Cimetières",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10588248-d10529330-Reviews-Cimetiere_des_Pestiferes-Recologne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "207. Eglise Saint-Laurent de Mouthier-Haute-Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d10510428-Reviews-Eglise_Saint_Laurent_de_Mouthier_Haute_Pierre-Mouthier_Haute_Pierre_Doubs_Bourg.html#REVIEWS"
+    },
+    {
+        "name": "208. Musée-Maison de Louis Pergaud",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12706126-d10622095-Reviews-Musee_Maison_de_Louis_Pergaud-Belmont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "209. Hôtel de Ville",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "8",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10460884-Reviews-Hotel_de_ville_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "210. Les secrets du heurtoir",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "39",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13955729-Reviews-Les_Secrets_du_Heurtoir-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "211. Point de Vue Le Faux Verger",
+        "type": "Points de vue panoramiques",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10447711-Reviews-Point_de_Vue_Le_Faux_Verger-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "212. Théâtre Bernard Blier",
+        "type": "Théâtres",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10510522-Reviews-Theatre_Bernard_Blier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "213. Église Saint Théodule",
+        "type": "Églises et cathédrales",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2308158-d10476297-Reviews-Eglise_Saint_Theodule-Lods_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "214. Office de Tourisme de Maiche - Le Russey",
+        "type": "Offices de tourisme",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10447644-Reviews-Office_de_Tourisme_de_Maiche_Le_Russey-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "215. Bureau d'Information Touristique à Arc et Senans",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "8",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2101961-d10510409-Reviews-Bureau_d_Information_Touristique_a_Arc_et_Senans-Arc_et_Senans_Doubs_Bourgogne_.html#REVIEWS"
+    },
+    {
+        "name": "216. Hotel Particulier des Sires de Neufchatel",
+        "type": "Sites historiques • Musées d'histoire",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d12088202-Reviews-Hotel_Particulier_des_Sires_de_Neufchatel-Baume_les_Dames_Doubs_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "217. Église Saint-Jean-Baptiste de Chapelle-des-Bois",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950550-d11929713-Reviews-Eglise_Saint_Jean_Baptiste_de_Chapelle_des_Bois-Chapelle_des_Bois_Doubs_Bourgog.html#REVIEWS"
+    },
+    {
+        "name": "218. Chapelle Notre-Dame du Chêne",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g10595286-d10529639-Reviews-Chapelle_Notre_Dame_du_Chene-Scey_Maisieres_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "219. Musée-Relais du Cheval Comtois et de la Forêt",
+        "type": "Musées spécialisés",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12162418-d12510831-Reviews-Musee_Relais_du_Cheval_de_Trait_Comtois_et_de_la_Foret-Levier_Doubs_Bourgogne_.html#REVIEWS"
+    },
+    {
+        "name": "220. Église Saint-Point de Saint-Point-Lac",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12063640-d10621992-Reviews-Eglise_Saint_Point_de_Saint_Point_Lac-Saint_Point_Lac_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "221. La Fabrikà Sciences",
+        "type": "Musées des sciences",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10623518-Reviews-La_Fabrika_Sciences-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "222. Sentier des Gabelous",
+        "type": "Chemins de randonnées",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2101961-d13991698-Reviews-Sentier_des_Gabelous-Arc_et_Senans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "223. Haras National de Besancon",
+        "type": "Fermes",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10531498-Reviews-Haras_National_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "224. Office de Tourisme du Val de Mouthe",
+        "type": "Offices de tourisme",
+        "votes": "16",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d10426636-Reviews-Office_de_Tourisme_du_Val_de_Mouthe-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "225. Station de ski de Mouthe",
+        "type": "Pistes de ski & snowboard",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d11929513-Reviews-Station_de_ski_de_la_Source_du_Doubs_Mouthe-Mouthe_Doubs_Bourgogne_Franche_Comt.html#REVIEWS"
+    },
+    {
+        "name": "226. Théâtre Ledoux",
+        "type": "Théâtres",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9873924-Reviews-Theatre_Ledoux-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "227. Gorges de Nouailles",
+        "type": "Espaces naturels et sauvages",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d11688014-Reviews-Gorges_de_Nouailles-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "228. Piscine Mallarmé",
+        "type": "Complexes sportifs",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10422857-Reviews-Piscine_Mallarme-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "229. Fontaine de la Place Jean Cornet",
+        "type": "Fontaines",
+        "votes": "5",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10538118-Reviews-Fontaine_de_la_Place_Jean_Cornet-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "230. Musée de la Paysannerie et des Vieux Métiers",
+        "type": "Musées spécialisés",
+        "votes": "3",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1924327-d10548699-Reviews-Musee_de_la_Paysannerie_et_des_Vieux_Metiers-Valentigney_Doubs_Bourgogne_Franch.html#REVIEWS"
+    },
+    {
+        "name": "231. Roche Champion",
+        "type": "Montagnes • Chemins de randonnées",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1950550-d17593981-Reviews-Roche_Champion-Chapelle_des_Bois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "232. Musée Animalier de Jougne",
+        "type": "Musées d'histoire naturelle",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4737538-d11657552-Reviews-Musee_Animalier_de_Jougne-Jougne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "233. Cascade du Ruisseau de Valbois",
+        "type": "Cascades",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d13980543-Reviews-Cascade_du_Ruisseau_de_Valbois-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "234. Centre nautique du Val de Morteau",
+        "type": "Complexes sportifs\nOuvert",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d10486172-Reviews-Centre_nautique_du_Val_de_Morteau-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "235. Maison de Monte au Lever",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12086570-d13109819-Reviews-Maison_de_Monte_au_Lever-Les_Grangettes_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "236. Patinoire La Fayette",
+        "type": "Complexes sportifs",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13109720-Reviews-Patinoire_La_Fayette-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "237. Église Saint-Jacques de Chaux-Neuve",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1887511-d11929706-Reviews-Eglise_Saint_Jacques_de_Chaux_Neuve-Chaux_Neuve_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "238. Musée de Paléontologie Géologie et des Minéraux",
+        "type": "Musées des sciences",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3205374-d12847562-Reviews-Musee_de_Paleontologie_Geologie_et_des_Mineraux-Rougemont_Doubs_Bourgogne_Franc.html#REVIEWS"
+    },
+    {
+        "name": "239. Piscine Georges Cuinet",
+        "type": "Complexes sportifs",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10508392-Reviews-Piscine_Georges_Cuinet-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "240. Office de Tourisme de Saint-Hippolyte",
+        "type": "Offices de tourisme",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g10401805-d10509584-Reviews-Office_de_Tourisme_de_Saint_Hippolyte-Saint_Hippolyte_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "241. Chapelle du Centre Diocesain",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10980866-Reviews-Chapelle_du_Centre_Diocesain-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "242. Musée de la vigne et du vin",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2308158-d10498392-Reviews-Musee_de_la_vigne_et_du_vin-Lods_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "243. Cine-club Jacques Becker",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d12309874-Reviews-Cine_club_Jacques_Becker-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "244. ESF Métabief",
+        "type": "Complexes sportifs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13164632-Reviews-ESF_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "245. Coopérative Fromagère du Plateau de Bouclans",
+        "type": "Fermes",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8788794-d12982223-Reviews-Cooperative_Fromagere_du_Plateau_de_Bouclans-Roche_lez_Beaupre_Doubs_Bourgogne_.html#REVIEWS"
+    },
+    {
+        "name": "246. Musée du Tacot",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d18378134-Reviews-Musee_du_Tacot-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "247. Église Saint-Michel des Bréseux",
+        "type": "Églises et cathédrales",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g10503944-d10447359-Reviews-Eglise_Saint_Michel_des_Breseux-Les_Breseux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "248. Mosaique Lumiere",
+        "type": "Sites historiques",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d15009837-Reviews-Mosaique_Lumiere-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "249. ESF Val de Mouthe",
+        "type": "Camps sportifs & Cliniques",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d11929531-Reviews-ESF_Val_de_Mouthe-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "250. Office de Tourisme du Val de Morteau - Saut du Doubs (Antenne de Morteau)",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10486094-Reviews-Office_de_Tourisme_du_Val_de_Morteau_Saut_du_Doubs_Antenne_de_Morteau-Morteau_D.html#REVIEWS"
+    },
+    {
+        "name": "251. Maison à Tourelle",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d10621240-Reviews-Maison_a_Tourelle-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "252. La Galerie Chateaufarine",
+        "type": "Centres commerciaux\nOuvert",
+        "votes": "7",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12335795-Reviews-La_Galerie_Chateaufarine-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "253. Golf Club du Château de Bournel",
+        "type": "Parcours de golf\nOuvert",
+        "votes": "65",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2277685-d2409735-Reviews-Golf_Club_du_Chateau_de_Bournel-Cubry_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "254. Conservatoire du Machinisme Agricole",
+        "type": "Musées spécialisés",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4114700-d12698864-Reviews-Conservatoire_du_Machinisme_Agricole-Velesmes_Essarts_Doubs_Bourgogne_Franche_C.html#REVIEWS"
+    },
+    {
+        "name": "255. Belvédère de la Roche de Ruan",
+        "type": "Points de vue panoramiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10445628-Reviews-Belvedere_de_la_Roche_de_Ruan-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "256. Espace naturel de la pelouse de la Chaux",
+        "type": "Espaces naturels et sauvages",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10862994-d10813301-Reviews-Espace_naturel_de_la_pelouse_de_la_Chaux-Etrabonne_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "257. Le Ducky",
+        "type": "Bowlings\nOuvert",
+        "votes": "118",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d2060493-Reviews-Le_Ducky-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "258. Hôtel de Clévans",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11443853-Reviews-Hotel_de_Clevans-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "259. Fromagerie de Montbeliard",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "60",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d7785415-Reviews-Fromagerie_de_Montbeliard-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "260. Plage des Perrières",
+        "type": "Plages",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d18573071-Reviews-Plage_des_Perrieres-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "261. Un enterrement à Ornans",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "2",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d21502311-Reviews-Un_enterrement_a_Ornans-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "262. Jardin Botanique de Besançon",
+        "type": "Jardins\nOuvert",
+        "votes": "5",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10541028-Reviews-Jardin_Botanique_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "263. Canyon d'Amondans",
+        "type": "Canyons",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g9786832-d9734408-Reviews-Canyon_d_Amondans-Amondans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "264. Le Grand Kursaal",
+        "type": "Théâtres",
+        "votes": "5",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12103344-Reviews-Le_Grand_Kursaal-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "265. Château de Scey",
+        "type": "Châteaux",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d13799494-Reviews-Chateau_de_Scey-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "266. Belvedere de la Vierge de Sainte-Foy",
+        "type": "Points de vue panoramiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d19120016-Reviews-Belvedere_de_la_Vierge_de_Sainte_Foy-Mouthier_Haute_Pierre_Doubs_Bourgogne_Fran.html#REVIEWS"
+    },
+    {
+        "name": "267. Hôtel de Magnoncourt",
+        "type": "Sites historiques",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11836258-Reviews-Hotel_de_Magnoncourt-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "268. Distillerie d'Absinthe Aymonier",
+        "type": "Distilleries",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d12318288-Reviews-Distillerie_d_Absinthe_Aymonier-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "269. Promenade des Glacis",
+        "type": "Parcs • Jardins",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13991623-Reviews-Promenade_des_Glacis-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "270. Promenade Chamars",
+        "type": "Parcs",
+        "votes": "5",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10540000-Reviews-Promenade_Chamars-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "271. Piscine Municipale",
+        "type": "Complexes sportifs",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d14951006-Reviews-Piscine_Municipale-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "272. Tour de Montmart",
+        "type": "Sites historiques • Monuments et statues",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13991613-Reviews-Tour_de_Montmart-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "273. Hôtel de Ville de Mouthe",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d10426632-Reviews-Hotel_de_Ville_de_Mouthe-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "274. Mont-Calvaire de Sombacour",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3605990-d12698743-Reviews-Mont_Calvaire_de_Sombacour-Sombacour_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "275. Piscine des PEP",
+        "type": "Complexes sportifs",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d10426746-Reviews-Piscine_des_PEP-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "276. Fontaine Saint-Quentin",
+        "type": "Fontaines",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d15060386-Reviews-Fontaine_Saint_Quentin-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "277. Galeries Lafayette",
+        "type": "Grands magasins\nOuvert",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d15354731-Reviews-Galeries_Lafayette-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "278. Maison des Frères Grenier",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d10621279-Reviews-Maison_des_Freres_Grenier-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "279. Ferme Aux Lamas",
+        "type": "Ranchs",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12268846-d10769159-Reviews-Ferme_Aux_Lamas-Mamirolle_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "280. Magasin Rième Boissons",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10486202-Reviews-Magasin_Rieme_Boissons-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "281. Brasserie Entre 2 Mondes",
+        "type": "Brasseries",
+        "votes": "2",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d11931711-Reviews-Brasserie_Entre_2_Mondes-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "282. Musée Roger Comte",
+        "type": "Musées d'art",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1931491-d12698877-Reviews-Musee_Roger_Comte-Herimoncourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "283. Le Moloco",
+        "type": "Théâtres",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d16868309-Reviews-Le_Moloco-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "284. Micropolis Besançon",
+        "type": "Centres de conventions",
+        "votes": "2",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12826912-Reviews-Micropolis_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "285. Ferme de la Batailleuse",
+        "type": "Fermes",
+        "votes": "8",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1903250-d9731597-Reviews-Ferme_de_la_Batailleuse-Rochejean_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "286. Pierre des redevances",
+        "type": "Monuments & Points d'intérêt • Monuments et statues",
+        "votes": "3",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d11929556-Reviews-Pierre_des_redevances-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "287. Sapin Président",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "4",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d12510862-Reviews-Sapin_President-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "288. Eglise Saint-Urbain",
+        "type": "Églises et cathédrales",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d10538536-Reviews-Eglise_Saint_Urbain-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "289. Alpage des Granges Raguin",
+        "type": "Location de matériel",
+        "votes": "18",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1903250-d14803199-Reviews-Alpage_des_Granges_Raguin-Rochejean_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "290. Fromagerie Le Plateau Campagnard",
+        "type": "Marchés fermiers\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g21313412-d21313151-Reviews-Fromagerie_Le_Plateau_Campagnard-Fertans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "291. Chateau De Mountfaucon",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1941141-d17734122-Reviews-Chateau_De_Mountfaucon-Montfaucon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "292. Palais des Sports",
+        "type": "Arènes & Stades",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d16879381-Reviews-Palais_des_Sports-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "293. Le Manoir de Mouthier-Haute-Pierre",
+        "type": "Galeries d'art",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4007468-d14133691-Reviews-Le_Manoir_de_Mouthier_Haute_Pierre-Mouthier_Haute_Pierre_Doubs_Bourgogne_Franch.html#REVIEWS"
+    },
+    {
+        "name": "294. Puissance Kart Indoor",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "15",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d4973037-Reviews-Puissance_Kart_Indoor-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "295. Coteau Saint-Michel",
+        "type": "Chemins de randonnées",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10445627-Reviews-Coteau_Saint_Michel-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "296. Lac De Malpas",
+        "type": "Plans d'eau",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g17531536-d24002613-Reviews-Lac_De_Malpas-Malpas_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "297. Via Ferrata du Mont",
+        "type": "Autres activités de plein air",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d5493703-Reviews-Via_Ferrata_du_Mont-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "298. L'escargot De La Ferme Du Lomont",
+        "type": "Fermes",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1939797-d23590714-Reviews-L_escargot_De_La_Ferme_Du_Lomont-Chamesol_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "299. Monument au comte Hilaire de Chardonnet",
+        "type": "Monuments et statues",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d14950884-Reviews-Monument_au_comte_Hilaire_de_Chardonnet-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "300. Institut Le Cocon",
+        "type": "Spas\nOuvert",
+        "votes": "11",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d5018166-Reviews-Institut_Le_Cocon-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "301. Arthotèque et Galerie Jean Greset",
+        "type": "Galeries d'art",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "302. Les Fruitières du Lomont",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "24",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8524747-d8523048-Reviews-Les_Fruitieres_du_Lomont-Noirefontaine_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "303. Soiree en Dameur",
+        "type": "Offices de tourisme",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d13737612-Reviews-Soiree_en_Dameur-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "304. Observatoire de Besançon",
+        "type": "Observatoires et planétariums",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "305. Statue de la vache montbéliarde",
+        "type": "Points de vue panoramiques • Monuments et statues",
+        "votes": "3",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d10482417-Reviews-Statue_de_la_vache_montbeliarde-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "306. Collégiale Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10401805-d19120314-Reviews-Collegiale_Notre_Dame-Saint_Hippolyte_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "307. Hotel Jouffroy",
+        "type": "Sites historiques • Bâtiments architecturaux",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d14837945-Reviews-Hotel_Jouffroy-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "308. UTINAM Horlogerie Contemporaine",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Galeries d'art\nOuvert",
+        "votes": "16",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9705300-Reviews-UTINAM_Horlogerie_Contemporaine-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "309. Chapelle Notre-Dame Des Anges",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g10498266-d20355462-Reviews-Chapelle_Notre_Dame_Des_Anges-Ouhans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "310. Église Saint-Pierre de Maîche",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7234649-d10446268-Reviews-Eglise_Saint_Pierre_de_Maiche-Maiche_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "311. Réserve Naturelle du Ravin de Valbois",
+        "type": "Parcs nationaux • Espaces naturels et sauvages",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4354399-d13991628-Reviews-Reserve_Naturelle_du_Ravin_de_Valbois-Cleron_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "312. Cinéma Mégarama",
+        "type": "Salles de cinéma\nOuvert",
+        "votes": "51",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1160803-d8787370-Reviews-Cinema_Megarama-Ecole_Valentin_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "313. Église de l'Assomption de Mouthe",
+        "type": "Sites historiques • Monuments et statues",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4976019-d10426609-Reviews-Eglise_de_l_Assomption_de_Mouthe-Mouthe_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "314. Angel's Game",
+        "type": "Jeux de logique\nOuvert",
+        "votes": "16",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8868586-d17513169-Reviews-Angel_s_Game-Arcon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "315. Palais de Justice de Pontarlier",
+        "type": "Bâtiments gouvernementaux",
+        "votes": "1",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10762617-Reviews-Palais_de_Justice_de_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "316. Via Ferrata des Baumes du Verneau",
+        "type": "Autres activités de plein air",
+        "votes": "20",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2275551-d7186432-Reviews-Via_Ferrata_des_Baumes_du_Verneau-Nans_sous_Sainte_Anne_Doubs_Bourgogne_Franche_.html#REVIEWS"
+    },
+    {
+        "name": "317. Château d'Étrabonne",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "318. Sentier des Coteaux de Belvoir",
+        "type": "Chemins de randonnées",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2308623-d13991654-Reviews-Sentier_des_Coteaux_de_Belvoir-Belvoir_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "319. Fort Saint-Antoine",
+        "type": "Visites d'entreprises",
+        "votes": "125",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7383193-d7382707-Reviews-Fort_Saint_Antoine-Saint_Antoine_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "320. Les cuirs du Moulin",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "14",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3205374-d10847335-Reviews-Les_cuirs_du_Moulin-Rougemont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "321. Fruitière à comté de Bonnétage",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "30",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1514139-d8089505-Reviews-Fruitiere_a_comte_de_Bonnetage-Bonnetage_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "322. Fromagerie Biologique",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "29",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1950550-d11616994-Reviews-Fromagerie_Biologique-Chapelle_des_Bois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "323. Abbaye cistercienne de Mont-Sainte-Marie",
+        "type": "Sites religieux",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2140630-d18944593-Reviews-Abbaye_cistercienne_de_Mont_Sainte_Marie-Labergement_Sainte_Marie_Doubs_Bourgog.html#REVIEWS"
+    },
+    {
+        "name": "324. Hopital Sainte-Croix et son Apothicairerie",
+        "type": "Monuments & Points d'intérêt • Bâtiments architecturaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "325. Centre Dramatique National de Besancon",
+        "type": "Théâtres",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "326. Sentier des Bornes",
+        "type": "Chemins de randonnées",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d13991635-Reviews-Sentier_des_Bornes-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "327. Quiz Boxing Besançon",
+        "type": "Salles de jeux et de divertissement\nOuvert",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d24023508-Reviews-Quiz_Boxing_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "328. Théâtre Municipal Morteau",
+        "type": "Théâtres",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "329. Église de la Nativité-de-Notre-Dame de Montfaucon",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1941141-d10542522-Reviews-Eglise_de_la_Nativite_de_Notre_Dame_de_Montfaucon-Montfaucon_Doubs_Bourgogne_Fr.html#REVIEWS"
+    },
+    {
+        "name": "330. Église Notre-Dame de Besançon",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "331. La Fruitière",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "16",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d9554695-Reviews-La_Fruitiere-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "332. Office de Tourisme des Hôpitaux-Neufs",
+        "type": "Offices de tourisme",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "333. Aqua2Lacs",
+        "type": "Camps sportifs & Cliniques • Parcs aquatiques",
+        "votes": "48",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d10121038-Reviews-Aqua2Lacs-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "334. 52 Battant",
+        "type": "Galeries d'art\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "335. Brasserie Gangloff",
+        "type": "Brasseries",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "336. Atelier Fontaine Argent",
+        "type": "Camps sportifs & Cliniques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "337. Musée du Peintre",
+        "type": "Galeries d'art",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "338. Belvédère Du Baron",
+        "type": "Points de vue panoramiques",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g3487408-d24902174-Reviews-Belvedere_Du_Baron-Cour_Saint_Maurice_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "339. Bureau 401",
+        "type": "Jeux de logique",
+        "votes": "12",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g15189502-d14950665-Reviews-Bureau_401-Grand_Charmont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "340. Fromagerie Michelin",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12063640-d7053767-Reviews-Fromagerie_Michelin-Saint_Point_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "341. Eglise du Sacre-Coeur de Besancon",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "342. Circuit de l'Enclos",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "11",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15189509-d3841387-Reviews-Circuit_de_l_Enclos-Septfontaines_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "343. La Fabrique du Chocolat",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d12403560-Reviews-La_Fabrique_du_Chocolat-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "344. Charcuterie Decreuse",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "13",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7060147-d7053763-Reviews-Charcuterie_Decreuse-La_Cluse_et_Mijoux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "345. Fonderie de cloches Jean Obertino & Fils",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10486115-Reviews-Fonderie_de_cloches_Jean_Obertino_Fils-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "346. Bowling Starbowl",
+        "type": "Bowlings\nOuvert",
+        "votes": "31",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d11817110-Reviews-Bowling_Starbowl-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "347. Kilarney Pub",
+        "type": "Bars et clubs\nOuvert",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12326216-Reviews-Kilarney_Pub-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "348. Bâteaux du Saut du Doubs",
+        "type": "Excursions en bateau • Visites guidées",
+        "votes": "257",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d1549892-Reviews-Bateaux_du_Saut_du_Doubs-Villers_le_Lac_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "349. La Fruitière de Doubs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "12",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7351752-d9567869-Reviews-La_Fruitiere_de_Doubs-Doubs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "350. Rocktail",
+        "type": "Bars et clubs",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d16658010-Reviews-Rocktail-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "351. Agence Roule ma Poule",
+        "type": "Chasses au trésor • Taxis & Navettes\nOuvert",
+        "votes": "79",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10266204-Reviews-Agence_Roule_ma_Poule-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "352. Splatsh Paintball Club",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d1882692-Reviews-Splatsh_Paintball_Club-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "353. Le Colisée",
+        "type": "Salles de cinéma",
+        "votes": "10",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d6934784-Reviews-Le_Colisee-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "354. Eglise Saint Etienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "355. Chocolaterie Klaus",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "9",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d11931491-Reviews-Chocolaterie_Klaus-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "356. La chapelle Saint-Erminfroid",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "357. Le Marulaz",
+        "type": "Bars et clubs",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11932487-Reviews-Le_Marulaz-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "358. Thaï-Zénitude",
+        "type": "Spas",
+        "votes": "6",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1160803-d12050453-Reviews-Thai_Zenitude-Ecole_Valentin_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "359. Cinéma Victor Hugo",
+        "type": "Salles de cinéma",
+        "votes": "7",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8555097-Reviews-Cinema_Victor_Hugo-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "360. Vedettes de Besançon",
+        "type": "Excursions en bateau\nOuvert",
+        "votes": "117",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d7039399-Reviews-Vedettes_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "361. Au Bon Echanson",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d7179235-Reviews-Au_Bon_Echanson-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "362. Le Criollo Chocolatier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "22",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202669-d8772055-Reviews-Le_Criollo_Chocolatier-Chalezeule_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "363. Eglise Saint Germain",
+        "type": "Églises et cathédrales",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7683856-d20897913-Reviews-Eglise_Saint_Germain-Autechaux_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "364. Eglise Saint Hilaire",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "365. Station de ski des Fourgs",
+        "type": "Location de matériel • Pistes de ski & snowboard",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d13164652-Reviews-Station_de_ski_des_Fourgs-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "366. Cinéma Olympia",
+        "type": "Salles de cinéma",
+        "votes": "17",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10508398-Reviews-Cinema_Olympia-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "367. La Fruitière des Lacs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "17",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2140630-d10223211-Reviews-La_Fruitiere_des_Lacs-Labergement_Sainte_Marie_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "368. Doubs Direct",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "12",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8772054-Reviews-Doubs_Direct-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "369. Église Saint-Sébastien",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "370. Loue Caval",
+        "type": "Randonnées équestres",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d13393123-Reviews-Loue_Caval-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "371. JUMP STREET Trampoline Park",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "6",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1924327-d14946557-Reviews-JUMP_STREET_Trampoline_Park-Valentigney_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "372. Les Jeux de la Comté",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12103241-Reviews-Les_Jeux_de_la_Comte-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "373. Gliss Location de Skis",
+        "type": "Location de matériel",
+        "votes": "8",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d7786896-Reviews-Gliss_Location_de_Skis-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "374. Crémerie Marcel Petite",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "7",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11847236-Reviews-Cremerie_Marcel_Petite-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "375. Thomas Laresche Artisan Chocolatier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10825034-Reviews-Thomas_Laresche_Artisan_Chocolatier-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "376. Staff Bowling",
+        "type": "Bowlings",
+        "votes": "51",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d3736857-Reviews-Staff_Bowling-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "377. Le Teasing Club",
+        "type": "Discothèques",
+        "votes": "21",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1202669-d11950236-Reviews-Le_Teasing_Club-Chalezeule_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "378. Funky Parc",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12088206-Reviews-Funky_Parc-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "379. Bowling Comtois",
+        "type": "Bowlings",
+        "votes": "13",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8447998-Reviews-Bowling_Comtois-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "380. Chez Béné",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d7290595-Reviews-Chez_Bene-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "381. Eglise Sainte Agathe",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "382. Megazone Laser Game Besancon",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "13",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12088304-Reviews-Megazone_Laser_Game_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "383. Roc & Eau",
+        "type": "Descentes en rappel et canyoning • Parcours d'escalade\nOuvert",
+        "votes": "38",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d7778669-Reviews-Roc_et_eau-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "384. Fromagerie les Fins Suchaux",
+        "type": "Visites d'entreprises",
+        "votes": "50",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d1454231-Reviews-Fromagerie_les_Fins_Suchaux-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "385. Bâtiment d'Ougney-Douvot",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "386. Vedettes Panoramiques du Saut du Doubs",
+        "type": "Excursions en bateau\nOuvert",
+        "votes": "67",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g910550-d7038834-Reviews-Vedettes_Panoramiques_du_Saut_du_Doubs-Villers_le_Lac_Doubs_Bourgogne_Franche_Com.html#REVIEWS"
+    },
+    {
+        "name": "387. Cinéma Mégarama Lumina - Audincourt",
+        "type": "Salles de cinéma",
+        "votes": "98",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d10618102-Reviews-Cinema_Megarama_Lumina_Audincourt-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "388. Coopérative Fromagère du Plateau de Bouclans",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4973282-d11798871-Reviews-Cooperative_Fromagere_du_Plateau_de_Bouclans-Nancray_Doubs_Bourgogne_Franche_Co.html#REVIEWS"
+    },
+    {
+        "name": "389. SIMON SAVEURS",
+        "type": "Cours de cuisine",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d17388407-Reviews-SIMON_SAVEURS-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "390. David Massages",
+        "type": "Spas\nOuvert",
+        "votes": "6",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d15130768-Reviews-David_Massages-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "391. Altitude 750",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "5",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d23427349-Reviews-Altitude_750-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "392. Le Komplex",
+        "type": "Bowlings • Complexes sportifs",
+        "votes": "27",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10510524-Reviews-Le_Komplex-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "393. Métabief Aventures",
+        "type": "Parcours aventure & Tyroliennes\nOuvert",
+        "votes": "62",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d10677818-Reviews-Metabief_Aventures-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "394. Okidok",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "7",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2546031-d13116490-Reviews-Okidok-Audincourt_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "395. Les Chais du Val",
+        "type": "Bars à vins",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d8698163-Reviews-Les_Chais_du_Val-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "396. Les Passagers du Zinc",
+        "type": "Bars et clubs",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872440-Reviews-Les_Passagers_du_Zinc-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "397. Salaisons Bouhéret",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d12510849-Reviews-Salaisons_Bouheret-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "398. Savana Café",
+        "type": "Bars et clubs",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d11932495-Reviews-Savana_Cafe-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "399. Pride Club",
+        "type": "Bars et clubs • Bars gay",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d12287115-Reviews-Pride_Club-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "400. Cinéma le Mont d'Or",
+        "type": "Salles de cinéma",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d10621515-Reviews-Cinema_le_Mont_d_Or-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "401. Golf de Prunevelle",
+        "type": "Parcours de golf",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g12071631-d15070304-Reviews-Golf_de_Prunevelle-Dampierre_sur_le_Doubs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "402. Nephtys",
+        "type": "Bains arabes • Hammams et bains turcs",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d19799165-Reviews-Nephtys-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "403. Madigan's",
+        "type": "Bars et clubs",
+        "votes": "13",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872496-Reviews-Madigan_s-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "404. Bateau Et Petit Train De Besançon",
+        "type": "Excursions en bateau",
+        "votes": "64",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d2271788-Reviews-Bateau_Et_Petit_Train_De_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "405. Oenophilio",
+        "type": "Bars à vins",
+        "votes": "5",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d10356419-Reviews-Oenophilio-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "406. V and B Pontarlier",
+        "type": "Bars et clubs • Bars à vins\nOuvert",
+        "votes": "5",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d16828573-Reviews-V_and_B_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "407. La Cale",
+        "type": "Bars et clubs",
+        "votes": "5",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872470-Reviews-La_Cale-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "408. Le Terminus",
+        "type": "Bars et clubs",
+        "votes": "6",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d12326236-Reviews-Le_Terminus-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "409. Le Vandel",
+        "type": "Bars et clubs",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11929475-Reviews-Le_Vandel-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "410. Golf de Besancon",
+        "type": "Parcours de golf\nOuvert",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12063864-d10422844-Reviews-Golf_de_Besancon-La_Chevillotte_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "411. Fromagerie Badoz",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d18343622-Reviews-Fromagerie_Badoz-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "412. Stella Cinéma",
+        "type": "Salles de cinéma",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1060683-d12287041-Reviews-Stella_Cinema-Baume_les_Dames_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "413. Le Coni'Fer",
+        "type": "Services dans le train • Excursions par le train",
+        "votes": "107",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8572731-d3136548-Reviews-Le_Coni_Fer-Les_Hopitaux_Neufs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "414. Le Springboks",
+        "type": "Bars et clubs",
+        "votes": "4",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11929425-Reviews-Le_Springboks-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "415. L'antonnoir",
+        "type": "Bars et clubs",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13987112-Reviews-L_antonnoir-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "416. La Trouvaille Cadeaux Souvenirs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13164639-Reviews-La_Trouvaille_Cadeaux_Souvenirs-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "417. Métaski",
+        "type": "Location de matériel",
+        "votes": "4",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13763360-Reviews-Metaski-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "418. Megazone Chalezeule",
+        "type": "Jeux de logique",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d17377396-Reviews-Megazone_Chalezeule-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "419. Le Rucher des 2 Lacs",
+        "type": "Visites d'entreprises\nOuvert",
+        "votes": "39",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2140630-d8292279-Reviews-Le_Rucher_des_2_Lacs-Labergement_Sainte_Marie_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "420. L'Assemblage",
+        "type": "Bars et clubs",
+        "votes": "3",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g5600017-d14154609-Reviews-L_Assemblage-Morre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "421. Golf de Pontarlier",
+        "type": "Parcours de golf",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d11929499-Reviews-Golf_de_Pontarlier-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "422. Le Bar du Barbu",
+        "type": "Bars et clubs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10444141-Reviews-Le_Bar_du_Barbu-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "423. Gamezone Laser Game",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d13507101-Reviews-Gamezone_Laser_Game-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "424. Jurachiens",
+        "type": "Circuits extrêmes",
+        "votes": "49",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7371305-d7698209-Reviews-Jurachiens-Les_Fourgs_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "425. ABC Sports",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g8788794-d12926052-Reviews-ABC_Sports-Roche_lez_Beaupre_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "426. Adrenalin Point",
+        "type": "Location de matériel",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13164638-Reviews-Adrenalin_Point-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "427. Okidok",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d23406122-Reviews-Okidok-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "428. Ragot La Chocolatière",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "4",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d16643637-Reviews-Ragot_La_Chocolatiere-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "429. Tant et si bon Besançon",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10257009-Reviews-Tant_et_si_bon_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "430. Spa Cinq Mondes",
+        "type": "Spas",
+        "votes": "1",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d15806519-Reviews-Spa_Cinq_Mondes-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "431. Le QG Club",
+        "type": "Discothèques",
+        "votes": "7",
+        "rate": "2,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d13991552-Reviews-Le_QG_Club-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "432. Fromagerie Les Fermiers du Haut-Doubs",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "3",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8553467-d12707675-Reviews-Fromagerie_Les_Fermiers_du_Haut_Doubs-Damprichard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "433. Temps d'Artisans",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d10375550-Reviews-Temps_d_Artisans-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "434. Cinéma Eldorado",
+        "type": "Salles de cinéma",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d10461139-Reviews-Cinema_Eldorado-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "435. Rocktail Bar",
+        "type": "Bars et clubs",
+        "votes": "2",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d16657958-Reviews-Rocktail_Bar-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "436. Bar de l'U",
+        "type": "Bars et clubs",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9872467-Reviews-Bar_de_l_U-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "437. Le Privé",
+        "type": "Bars et clubs • Bars gay",
+        "votes": "1",
+        "rate": "1,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d9873912-Reviews-Le_Prive-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "438. Cinéma Le Paris",
+        "type": "Salles de cinéma",
+        "votes": "2",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d10482409-Reviews-Cinema_Le_Paris-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "439. Hammam Spa Nephtys",
+        "type": "Spas\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "440. Fruitière Les Fins Comté",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Visites d'entreprises",
+        "votes": "18",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1457341-d12505649-Reviews-Fruitiere_les_Fins_Comte-Les_Fins_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "441. Bidiboule",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d21321445-Reviews-Bidiboule-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "442. Zen Home",
+        "type": "Spas",
+        "votes": "2",
+        "rate": "3,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d21068528-Reviews-Zen_Home-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "443. Cinéma Pax",
+        "type": "Salles de cinéma",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2185931-d13109595-Reviews-Cinema_Pax-Valdahon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "444. Le Barfly",
+        "type": "Bars et clubs",
+        "votes": "11",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g196555-d20091065-Reviews-Le_Barfly-Montbeliard_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "445. H2O Canyon",
+        "type": "Descentes en rappel et canyoning\nOuvert",
+        "votes": "10",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d10133896-Reviews-H2O_Canyon-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "446. Bar Le Caliente",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "447. Le Z Club & Karaoké",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "448. Harmonie Détente Besançon claud",
+        "type": "Ateliers de peinture et de poterie",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "449. Pouchkine Russian Pub",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "450. Le Styl",
+        "type": "Bars et clubs • Discothèques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "451. Parc Aventure de Malbuisson",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "9",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d12703534-Reviews-Parc_Aventure_de_Malbuisson-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "452. Bowling des Fins",
+        "type": "Bowlings",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "453. Maori",
+        "type": "Spas",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "454. Omnia Club",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "455. M.S MassageS bien etre",
+        "type": "Spas\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "456. La Boutique",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "457. Cinéma salle Saint-Michel",
+        "type": "Salles de cinéma",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "458. Red House",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "459. Escal'ô",
+        "type": "Descentes en rappel et canyoning • Parcours d'escalade\nOuvert",
+        "votes": "8",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g11802359-d10196216-Reviews-Escal_o-Boussieres_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "460. Centre équestre des Cercleveaux",
+        "type": "Randonnées équestres",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "461. Akila Gorges de la Loue",
+        "type": "Descentes en rappel et canyoning • Balades à vélo\nOuvert",
+        "votes": "36",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1675375-d21087154-Reviews-Akila_Gorges_de_la_Loue-Ornans_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "462. La Combe Saint-Pierre",
+        "type": "Pistes cyclables • Ski et visites en montagne",
+        "votes": "10",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1096162-d10484984-Reviews-La_Combe_Saint_Pierre-Charquemont_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "463. Les Bateaux du Lac Saint-Point",
+        "type": "Excursions en bateau",
+        "votes": "8",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g482909-d12135532-Reviews-Les_Bateaux_du_Lac_Saint_Point-Malbuisson_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "464. Jump Street",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "465. Bateau et Petit Train de Besançon",
+        "type": "Excursions en bateau • Excursions par le train",
+        "votes": "50",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d6652246-Reviews-Bateau_et_Petit_Train_de_Besancon-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "466. Doubs Plaisance",
+        "type": "Sports nautiques • Locations de bateaux\nOuvert",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187143-d8504536-Reviews-Doubs_Plaisance-Besancon_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "467. Franois Parc Aventure",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "8",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12071734-d10423545-Reviews-Franois_Parc_Aventure-Franois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "468. Au Doux Parapente",
+        "type": "Parachutisme ascensionnel & Parapente",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13958224-Reviews-Au_Doux_Parapente-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "469. Musée de la Meunerie",
+        "type": "Visites historiques & découverte du patrimoine • Musées d'histoire",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1546642-d13164657-Reviews-Musee_de_la_Meunerie_de_Metabief-Metabief_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "470. Acroland",
+        "type": "Parcours aventure & Tyroliennes",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g11949236-d10411591-Reviews-Acroland-Montenois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "471. Goumois Évasion",
+        "type": "Sports nautiques • Location de matériel",
+        "votes": "4",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1210656-d15042497-Reviews-Goumois_Evasion-Goumois_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "472. Latitude Canoë",
+        "type": "Location de matériel • Kayak & Canoë",
+        "votes": "3",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g12462064-d21120498-Reviews-Latitude_Canoe-Montgesoye_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "473. Cafés Querry",
+        "type": "Circuits shopping\nOuvert",
+        "votes": "2",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635791-d25034083-Reviews-Cafes_Querry-Pontarlier_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "474. Espace Loisirs",
+        "type": "Descentes en rappel et canyoning • Balades à vélo",
+        "votes": "1",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2081645-d20266395-Reviews-Espace_Loisirs-Morteau_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "475. Base de Loisirs Woka Avanne-Aveney",
+        "type": "Kayak & Canoë",
+        "votes": "1",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4366452-d12703482-Reviews-Base_de_Loisirs_Woka_Avanne_Aveney-Avanne_Aveney_Doubs_Bourgogne_Franche_Comte.html#REVIEWS"
+    },
+    {
+        "name": "476. Haut-Doubs Montgolfière",
+        "type": "Vols en montgolfière",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "477. Base nautique de Chaillexon",
+        "type": "Stand up paddle • Kayak & Canoë",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "478. Base nautique du Vézenay",
+        "type": "Locations de bateaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "479. Bison Vole",
+        "type": "Parachutisme ascensionnel & Parapente",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "480. Locaboat Holidays",
+        "type": "Locations de bateaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "481. Musée des Armées Lucien Roy",
+        "type": "Musées militaires",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "482. Ze Music All",
+        "type": "Bars et clubs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "483. Chapelle du Saint-Sepulcre",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "484. Eglise Fontaine-lès-Clerval",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "485. Square Saint-Amour",
+        "type": "Jardins",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "486. La Boutique - En aparthe",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "487. La Fabrique Gourmande",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "488. Praline et moi",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "489. Crêt Monniot",
+        "type": "Montagnes • Espaces naturels et sauvages",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "490. Musée Phisalix d'histoire naturelle",
+        "type": "Musées d'histoire naturelle",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "491. Sentier des Grottes de Waroly",
+        "type": "Grottes & Cavernes",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "492. Eglise Saint Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "493. Eglise Saint-Théodule",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "494. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "495. La cascade des Chaudieres",
+        "type": "Cascades",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "496. La Rigote",
+        "type": "Boutiques de souvenirs & Magasins spécialisés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "497. Falaise d'escalade de Montfaucon",
+        "type": "Formations géologiques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "498. Eglise Notre-Dame-de-l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "499. Eglise Saints Pierre et Paul",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "500. Eglise Saint Pierre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "501. Eglise Saint-Ermenfroi",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "502. Fort Catinat du Larmont Supérieur",
+        "type": "Monuments & Points d'intérêt • Bases & Installations militaires",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "503. Eglise Saint-Luc et Sainte-Colombe",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "504. Fort du Lomont",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "505. L'Église Luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "506. Eglise Unie de France",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "507. Chapelle Notre-Dame des Malades",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "508. Eglise de Rantechaux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "509. Eglise Saint Pierre Saint Paul",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "510. Eglise de la Nativite-de-la-Vierge",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "511. Eglise Saint-Valère",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "512. Église de la Nativité-de-Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "513. Château d'Aubonne",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "514. Eglise Saint Jean",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "515. Eglise de Franois",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "516. Église Saint-Antoine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "517. Église Saint-Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "518. Eglise De L'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "519. Eglise Saints-Ferréol-et-Ferjeux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "520. Eglise Saint Pius X",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "521. Eglise Saint Désiré",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "522. Eglise Sainte Anne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "523. Eglise de Chaleze",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "524. Temple de Bavans - Eglise Protestante Luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "525. Église Protestante Luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "526. Eglise protestante luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "527. Eglise Saint-Gervais et Saint-Protais",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "528. Eglise Saint Vincent d'Avanne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "529. Un Temps Pour Etre",
+        "type": "Spas\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "530. Église de Cuse-et-Adrisans",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "531. Eglise Saint Leger",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "532. Chapelle Saint-Ferréol et Saint-Ferjeux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "533. Eglise De Larnod",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "534. Sandales D'empédocle",
+        "type": "Circuits shopping",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "535. Eglise St-Etienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "536. Eglise Saint Hilaire",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "537. Jennyfer Leboucher",
+        "type": "Circuits gastronomiques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "538. Eglise Saint Maurice",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "539. Église de la Nativité-de-Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "540. Eglise de Viethorey",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "541. Festival Des Mômes",
+        "type": "Événements culturels",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "542. Hôtel De Ville",
+        "type": "Bâtiments architecturaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "543. Festival Du Nez Rouge",
+        "type": "Événements culturels",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "544. Synagogue À Montbéliard",
+        "type": "Bâtiments architecturaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "545. Temple Saint-georges À Montbéliard",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "546. Médiathèque De Montbéliard",
+        "type": "Bibliothèques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "547. Frigo Skate Park Indoor",
+        "type": "Complexes sportifs",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "548. Auto-école BASTOS 2.0",
+        "type": "Ateliers de peinture et de poterie • Taxis & Navettes\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "549. Église Saint-Claude",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "550. Eglise Saint-Antide",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "551. Eglise Saint-Andre",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "552. Église de la Nativité-de-Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "553. Château de Novillars",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "554. Ancien Château des Mauclerc",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "555. Église de Grandfontaine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "556. Sange Sherpa Adventure",
+        "type": "Camping et randonnée • Visites sur le thème de la nature et des espaces sauvages",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "557. Reikoeur",
+        "type": "Camps sportifs & Cliniques • Circuits privés",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "558. Les Sentiers Du Morbier - Le Mystère Du Trait Noir",
+        "type": "Chemins de randonnées\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "559. Château de Miserey",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "560. Eglise Saint-François-d'Assise",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "561. Eglise de l'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "562. Cimetiere Des Chaprais",
+        "type": "Cimetières",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "563. Time on Target",
+        "type": "Jeux de logique • Circuits de plusieurs jours\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "564. Église De Rigney",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "565. Eglise Notre Dame De La Nativité",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "566. Eglise de la Vierge-Marie",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "567. Château de Rennes-sur-Loue",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "568. Eglise Saint Claude",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "569. Eglise lutherienne - Eglise Unie de France",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "570. Château De Cordiron",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "571. Temple Protestante",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "572. Eglise Luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "573. Eglise Saint Martin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "574. Église Saint-Georges",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "575. Au Marche Comtois",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "576. Eglise Saint Victor",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "577. Château de Bonnay",
+        "type": "Sites historiques • Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "578. Château d'École",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "579. Église de L'Assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "580. Eglise à Chemaudin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "581. Eglise de Chenecey-Buillon",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "582. Eglise de Mazerolles-le-Salin",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "583. Église de Les Plains-et-Grands-Essarts",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "584. Eglise Saints Pierre et Paul",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "585. Fleur D'élixir",
+        "type": "Boutiques de souvenirs & Magasins spécialisés • Centres commerciaux\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "586. Eglise de la Purification-de-Notre-Dame",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "587. Eglise de la Nativité de saint Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "588. Arche et Grotte du Bisontin",
+        "type": "Grottes & Cavernes • Formations géologiques",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "589. Eglise Saint Laurent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "590. Eglise de Glere",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "591. Eglise Saint Laurent",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "592. Château de Ruffey-le-Château",
+        "type": "Châteaux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "593. Église Saint-féréol-et-saint-ferjeux",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "594. Eglise Saint-Claude ",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "595. Eglise Notre-Dame-des-Anges",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "596. Eglise de Busy",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "597. Eglise protestante évangélique du haut Doubs",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "598. Eglise Exaltation de la Sainte Croix",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "599. Eglise Saint-Benigne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "600. Presbytère",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "601. Eglise Saint-Antoine",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "602. Chapelle Saint-Roch",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "603. Virtual Games Park",
+        "type": "Salles de jeux et de divertissement",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "604. Eglise De Courcelles-lès-montbéliard",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "605. Eglise luthérienne",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "606. Eglise Saint-Georges",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "607. Aux Galeries",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "608. Chapelle Saint-Antide",
+        "type": "Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "609. Château de la Juive",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "610. Eglise De Levier",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "611. HELLO VTC",
+        "type": "Visites de la ville • Circuits de plusieurs jours",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "612. Eglise d'Avoudrey",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "613. Chapelle d'Ougney-les-Champs",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "614. Festival Des Quatre Saisons",
+        "type": "Festivals de musique",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "615. Biocoop Ô Doubs Bio - Pontarlier",
+        "type": "Boutiques de souvenirs & Magasins spécialisés\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "616. Eglise Notre-Dame-de-Cusance",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "617. Église Saint-Martin",
+        "type": "Monuments & Points d'intérêt • Sites religieux",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "618. Farm3",
+        "type": "Visites écologiques • Visites avec dégustation de café et de thé\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "619. Les Sentiers Du Morbier",
+        "type": "Chemins de randonnées\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "620. Reikoeur",
+        "type": "Spas\nOuvert",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "621. Beauty Bike",
+        "type": "Clubs de gym",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    },
+    {
+        "name": "622. Église De L'assomption",
+        "type": "Églises et cathédrales",
+        "votes": "NA",
+        "rate": "NA",
+        "url": "NA"
+    }
+]

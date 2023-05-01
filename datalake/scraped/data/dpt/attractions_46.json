@@ -1,0 +1,632 @@
+[
+    {
+        "name": "1. Gouffre de Padirac",
+        "type": "Monuments & Points d'intérêt • Grottes & Cavernes\nFermeture temporaire",
+        "votes": "5 772",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2229480-d246619-Reviews-Gouffre_de_Padirac-Padirac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "2. Cité religieuse",
+        "type": "Sites historiques",
+        "votes": "2 812",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d243560-Reviews-Cite_Religieuse-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "3. Grotte du Pech Merle",
+        "type": "Sites historiques • Musées des sciences\nOuvert",
+        "votes": "1 439",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1075819-d219124-Reviews-Grotte_du_Pech_Merle-Cabrerets_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "4. La Forêt des Singes",
+        "type": "Espaces naturels et sauvages\nFermeture temporaire",
+        "votes": "1 985",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d2200832-Reviews-La_Foret_des_Singes-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "5. Pont Valentré",
+        "type": "Bâtiments architecturaux • Ponts\nOuvert",
+        "votes": "1 692",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d3319451-Reviews-Pont_Valentre-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "6. Grottes de Lacave",
+        "type": "Grottes & Cavernes\nOuvert",
+        "votes": "1 160",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g672972-d2469759-Reviews-Grottes_de_Lacave-Lacave_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "7. Musée du Patrimoine Agricole et Automobile de Salviac",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "530",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1140261-d4786664-Reviews-Musee_du_Patrimoine_Agricole_et_Automobile_de_Salviac-Salviac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "8. Rocher des Aigles",
+        "type": "Espaces naturels et sauvages\nOuvert",
+        "votes": "1 148",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d3152770-Reviews-Rocher_des_Aigles-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "9. Château de Cénevières",
+        "type": "Châteaux\nOuvert",
+        "votes": "762",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3582241-d3354405-Reviews-Chateau_de_Cenevieres-Cenevieres_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "10. Parc animalier de Gramat",
+        "type": "Zoos\nOuvert",
+        "votes": "922",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g663661-d3520076-Reviews-Parc_Animalier_de_Gramat-Gramat_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "11. Basilique Saint-Sauveur",
+        "type": "Sites religieux",
+        "votes": "453",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d230619-Reviews-Basilique_St_Sauveur-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "12. Bourg Médiéval de Saint-Cirq Lapopie",
+        "type": "Sites historiques • Sentiers historiques\nOuvert",
+        "votes": "963",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g488146-d10239127-Reviews-Bourg_Medieval_de_Saint_Cirq_Lapopie-Saint_Cirq_Lapopie_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "13. Chemin de Halage",
+        "type": "Chemins de randonnées",
+        "votes": "476",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g488146-d8560298-Reviews-Chemin_de_Halage-Saint_Cirq_Lapopie_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "14. Reptiland",
+        "type": "Zoos\nOuvert",
+        "votes": "387",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425063-d3520113-Reviews-Reptiland-Martel_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "15. Cathédrale Saint-Étienne",
+        "type": "Églises et cathédrales",
+        "votes": "527",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d3458258-Reviews-Cathedrale_Saint_Etienne-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "16. Moulin Fortifié de Cougnaguet",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "231",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g635805-d4922034-Reviews-Moulin_Fortifie_de_Cougnaguet-Cales_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "17. Grottes de Cougnac",
+        "type": "Grottes & Cavernes\nOuvert",
+        "votes": "402",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3941396-d3625654-Reviews-Grottes_de_Cougnac-Payrignac_Gourdon_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "18. Musée Champollion",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "501",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d2439376-Reviews-Musee_Champollion-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "19. Prehisto Dino Parc",
+        "type": "Monuments & Points d'intérêt\nOuvert",
+        "votes": "416",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g672972-d4438587-Reviews-Prehisto_Dino_Parc-Lacave_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "20. CAPNATURE Parc de Loisirs",
+        "type": "Parcs d'attractions & Parcs à thème",
+        "votes": "183",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1067680-d2405727-Reviews-CAPNATURE_Parc_de_Loisirs-Pradines_Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "21. Château de Chambert",
+        "type": "Domaines viticoles & Vignobles • Châteaux\nOuvert",
+        "votes": "127",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7035120-d3227249-Reviews-Chateau_de_Chambert-Floressas_Puy_l_Eveque_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "22. Ferme La Borie D'imbert",
+        "type": "Fermes",
+        "votes": "493",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d5855169-Reviews-Ferme_La_Borie_D_Imbert-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "23. La Cascade d'Autoire",
+        "type": "Cascades",
+        "votes": "270",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1410962-d11743433-Reviews-La_Cascade_d_Autoire-Autoire_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "24. Château de Castelnau-Bretenoux",
+        "type": "Bâtiments architecturaux • Châteaux",
+        "votes": "441",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2306290-d2397797-Reviews-Chateau_of_Castelnau_Bretenoux-Prudhomat_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "25. Ville de Martel",
+        "type": "Sites historiques • Ruines anciennes",
+        "votes": "373",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425063-d8043225-Reviews-Ville_de_Martel-Martel_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "26. Musée de l'Automate",
+        "type": "Musées spécialisés",
+        "votes": "232",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g207345-d2199952-Reviews-Musee_de_l_Automate-Souillac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "27. Les Grottes de Presque",
+        "type": "Grottes & Cavernes",
+        "votes": "122",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g15010966-d7053757-Reviews-Les_Grottes_de_Presque-Saint_Medard_de_Presque_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "28. Château de Montal",
+        "type": "Châteaux",
+        "votes": "183",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g2282994-d2262337-Reviews-Chateau_de_Montal-Saint_Jean_Lespinasse_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "29. Remparts du Château de Rocamadour",
+        "type": "Monuments & Points d'intérêt • Châteaux",
+        "votes": "548",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d7079616-Reviews-Remparts_du_Chateau-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "30. Padiparc",
+        "type": "Zoos\nOuvert",
+        "votes": "70",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2229480-d20885635-Reviews-Padiparc-Padirac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "31. Office de Tourisme du Pays de Figeac",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "285",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d6509911-Reviews-Office_de_Tourisme_du_Grand_Figeac_Vallees_du_Lot_et_du_Cele-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "32. Office de Tourisme de Cahors - Vallée du Lot",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "249",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d8434542-Reviews-Office_de_Tourisme_de_Cahors_Vallee_du_Lot-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "33. Grotte Préhistorique des Merveilles",
+        "type": "Sites historiques",
+        "votes": "370",
+        "rate": "3,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d3558740-Reviews-Grotte_Prehistorique_des_Merveilles-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "34. Plage aux Ptérosaures",
+        "type": "Sites historiques",
+        "votes": "97",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2715799-d8536496-Reviews-Plage_aux_Pterosaures-Crayssac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "35. Marché de Cahors",
+        "type": "Marchés fermiers",
+        "votes": "169",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d8486610-Reviews-Marche_de_Cahors-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "36. Mont Saint-Cyr",
+        "type": "Points de vue panoramiques",
+        "votes": "132",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d4706399-Reviews-Mont_Saint_Cyr-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "37. Maison de l'eau et Fontaine des Chartreux",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "98",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d7021841-Reviews-Maison_de_l_eau_et_Fontaine_des_Chartreux-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "38. Musée La Planète des Moulins",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "74",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g4873248-d6857358-Reviews-Musee_La_Planete_des_Moulins-Luzech_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "39. Archéosite des Fieux - Préhistoire",
+        "type": "Parcs d'attractions & Parcs à thème • Monuments & Points d'intérêt\nFermeture temporaire",
+        "votes": "86",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1582486-d7065610-Reviews-Archeosite_des_Fieux_Prehistoire-Miers_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "40. Grotte des Carbonnieres",
+        "type": "Grottes & Cavernes\nOuvert",
+        "votes": "87",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g672972-d14791014-Reviews-Grotte_des_Carbonnieres-Lacave_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "41. Office de Tourisme de Saint-Cirq Lapopie",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "192",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g488146-d8442163-Reviews-Office_de_Tourisme_de_Saint_Cirq_Lapopie-Saint_Cirq_Lapopie_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "42. Abbaye Sainte-Marie de Souillac",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "130",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g207345-d2199955-Reviews-Abbaye_Sainte_Marie_de_Souillac-Souillac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "43. Musee de l'insolite",
+        "type": "Musées spécialisés",
+        "votes": "97",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g7116276-d2228720-Reviews-Musee_de_l_insolite-Orniac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "44. Château Lagrézette",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "48",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1067673-d15030186-Reviews-Chateau_Lagrezette-Caillac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "45. Eglise de Saint Cirq Lapopie",
+        "type": "Églises et cathédrales",
+        "votes": "285",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g488146-d7148322-Reviews-Eglise_de_Saint_Cirq_Lapopie-Saint_Cirq_Lapopie_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "46. Sanctuaire Notre-Dame de Rocamadour",
+        "type": "Églises et cathédrales",
+        "votes": "51",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d18454783-Reviews-Sanctuaire_Notre_Dame_de_Rocamadour-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "47. La Boucle du Moulin du Saut",
+        "type": "Chemins de randonnées",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g663661-d11779125-Reviews-La_Boucle_du_Moulin_du_Saut-Gramat_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "48. Musée Zadkine",
+        "type": "Musées spécialisés",
+        "votes": "72",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1924570-d4789747-Reviews-Musee_Zadkine-Les_Arques_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "49. Ecomusée de Cuzals",
+        "type": "Musées spécialisés\nFermeture temporaire",
+        "votes": "74",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4972933-d6856186-Reviews-Ecomusee_de_Cuzals-Sauliac_sur_Cele_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "50. Église Saint-Pierre",
+        "type": "Monuments & Points d'intérêt • Églises et cathédrales",
+        "votes": "106",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1223745-d4268435-Reviews-Eglise_Saint_Pierre-Carennac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "51. Commanderie des Templiers",
+        "type": "Sites historiques",
+        "votes": "73",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d10205434-Reviews-Commanderie_des_Templiers-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "52. Brasserie Artisanale Ratz",
+        "type": "Brasseries\nOuvert",
+        "votes": "45",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d4542895-Reviews-Brasserie_Artisanale_Ratz-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "53. Eglise Saint Sauveur",
+        "type": "Églises et cathédrales",
+        "votes": "95",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d7242413-Reviews-Eglise_Saint_Sauveur-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "54. Chateau Latuc",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "28",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425064-d4922052-Reviews-Chateau_Latuc-Mauroux_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "55. La Saule Parc Aqualudik",
+        "type": "Parcs aquatiques",
+        "votes": "81",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g6368289-d7056212-Reviews-La_Saule_Parc_Aqualudik-Betaille_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "56. Clos Triguedina Jean-Luc Baldès",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "27",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2199795-d7811810-Reviews-Clos_Triguedina_Jean_Luc_Baldes-Vire_sur_Lot_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "57. Lac du Tolerme",
+        "type": "Plans d'eau",
+        "votes": "58",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1080516-d3454247-Reviews-Lac_du_Tolerme-Latronquiere_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "58. Labyrinthe Le Minotaure",
+        "type": "Parcs d'attractions & Parcs à thème\nFermeture temporaire",
+        "votes": "45",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2275860-d8448878-Reviews-Labyrinthe_Le_Minotaure-Lavergne_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "59. Villa Cahors Malbec Lounge",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d14979357-Reviews-Villa_Cahors_Malbec_Lounge-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "60. Musée Henri-Martin",
+        "type": "Musées d'art\nOuvert",
+        "votes": "22",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187168-d8532143-Reviews-Musee_Henri_Martin-Cahors_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "61. Musée La Maison des Abeilles",
+        "type": "Musées spécialisés • Musées des sciences\nOuvert",
+        "votes": "91",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d10628845-Reviews-Musee_La_Maison_des_Abeilles-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "62. Distillerie Louis Roque",
+        "type": "Distilleries",
+        "votes": "52",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g207345-d3568865-Reviews-Distillerie_Louis_Roque-Souillac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "63. Office de Tourisme du Pays de Gourdon",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "70",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196623-d6679871-Reviews-Office_de_Tourisme_du_Pays_de_Gourdon-Gourdon_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "64. Atelier - Musée Jean Lurçat",
+        "type": "Musées spécialisés",
+        "votes": "77",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8572711-d2536844-Reviews-Atelier_Musee_Jean_Lurcat-Saint_Laurent_les_Tours_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "65. Ferme des Sentiers du Diamant Noir",
+        "type": "Fermes",
+        "votes": "42",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g8572711-d8571440-Reviews-Ferme_des_Sentiers_du_Diamant_Noir-Saint_Laurent_les_Tours_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "66. Musee Insolite Du Coiffeur Barbier",
+        "type": "Musées spécialisés\nOuvert",
+        "votes": "18",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g663661-d20277776-Reviews-Musee_Insolite_Du_Coiffeur_Barbier-Gramat_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "67. Place des Écritures",
+        "type": "Sentiers historiques",
+        "votes": "46",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d14917646-Reviews-Place_des_Ecritures-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "68. La Ferme de Siran",
+        "type": "Ranchs",
+        "votes": "46",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572488-d4817316-Reviews-La_Ferme_de_Siran-Loubressac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "69. Quercyland",
+        "type": "Parcs aquatiques\nOuvert",
+        "votes": "388",
+        "rate": "2,5 sur 5 bulles",
+        "url": "/Attraction_Review-g207345-d3454156-Reviews-Quercyland-Souillac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "70. Truffes Passion",
+        "type": "Fermes",
+        "votes": "33",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1960561-d5503767-Reviews-Truffes_Passion-Limogne_en_Quercy_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "71. Durandal",
+        "type": "Théâtres et spectacles",
+        "votes": "550",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d4760917-Reviews-Parc_Durandal-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "72. Office de Tourisme Vallée de Rocamadour",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "95",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g187173-d10294258-Reviews-Office_de_Tourisme_Vallee_Dordogne_Rocamadour-Rocamadour_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "73. Cité Médiévale",
+        "type": "Sites historiques • Monuments & Points d'intérêt",
+        "votes": "82",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196623-d12373736-Reviews-Cite_Medievale-Gourdon_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "74. Abbaye de Marcilhac",
+        "type": "Sites religieux • Églises et cathédrales",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1957433-d12133196-Reviews-Abbaye_de_Marcilhac-Marcilhac_sur_Cele_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "75. Office de Tourisme de Cajarc",
+        "type": "Offices de tourisme",
+        "votes": "44",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1899159-d12395700-Reviews-Office_de_Tourisme_de_Cajarc-Cajarc_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "76. Office de Tourisme de Puy-L'Evêque",
+        "type": "Offices de tourisme\nOuvert",
+        "votes": "32",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g488145-d8602520-Reviews-Office_de_Tourisme_de_Puy_L_Eveque-Puy_l_Eveque_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "77. Château des anglais",
+        "type": "Châteaux",
+        "votes": "22",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1410962-d17815148-Reviews-Chateau_des_anglais-Autoire_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "78. Le Moulin à Huile de Noix de Saint-Céré",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "15",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g425069-d16726609-Reviews-Le_Moulin_a_Huile_de_Noix_de_Saint_Cere-Saint_Cere_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "79. Halle de Martel",
+        "type": "Monuments & Points d'intérêt",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g425063-d17724566-Reviews-Halle_de_Martel-Martel_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "80. Eglise Saint-Jean-Baptiste",
+        "type": "Églises et cathédrales",
+        "votes": "51",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1572488-d8040990-Reviews-Eglise_Saint_Jean_Baptiste-Loubressac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "81. Chateau Eugenie",
+        "type": "Domaines viticoles & Vignobles\nOuvert",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g4758397-d14157581-Reviews-Chateau_Eugenie-Albas_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "82. Musee Paulin Ratier",
+        "type": "Musées spécialisés • Musées d'histoire",
+        "votes": "29",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d8646911-Reviews-Musee_Paulin_Ratier-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "83. Château de Lantis",
+        "type": "Châteaux",
+        "votes": "21",
+        "rate": "5,0 sur 5 bulles",
+        "url": "/Attraction_Review-g1109491-d10818751-Reviews-Chateau_de_Lantis-Degagnac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "84. Maison du Piage",
+        "type": "Musées spécialisés",
+        "votes": "23",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g3644837-d5508850-Reviews-Maison_du_Piage-Fajoles_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "85. Château d'Assier",
+        "type": "Bâtiments architecturaux • Châteaux",
+        "votes": "40",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g2400399-d2398254-Reviews-Chateau_of_Assier-Assier_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "86. Marché de Figeac",
+        "type": "Marchés fermiers",
+        "votes": "14",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g616109-d15183402-Reviews-Marche_de_Figeac-Figeac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "87. Église Saint-Pierre de Saint-Pierre-Toirac",
+        "type": "Églises et cathédrales",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g1166524-d4191416-Reviews-St_Pierre_Toirac_Church-Saint_Pierre_Toirac_Cajarc_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "88. Château Saint-Sernin",
+        "type": "Domaines viticoles & Vignobles",
+        "votes": "18",
+        "rate": "4,5 sur 5 bulles",
+        "url": "/Attraction_Review-g6706710-d6276401-Reviews-Chateau_Saint_Sernin-Parnac_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "89. Village médiéval de Puy-l'Evêque",
+        "type": "Sentiers historiques",
+        "votes": "19",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g488145-d17821438-Reviews-Village_medieval_de_Puy_l_Eveque-Puy_l_Eveque_Lot_Occitanie.html#REVIEWS"
+    },
+    {
+        "name": "90. Les Jardins de la Butte",
+        "type": "Jardins",
+        "votes": "26",
+        "rate": "4,0 sur 5 bulles",
+        "url": "/Attraction_Review-g196623-d8627378-Reviews-Les_Jardins_de_la_Butte-Gourdon_Lot_Occitanie.html#REVIEWS"
+    }
+]
